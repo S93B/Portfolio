@@ -1,0 +1,20 @@
+﻿Type;Command Points;Cost;Build time;Small Slot Equivalent: Weapon;Utility;Auxiliary;Base hull;Base evasion;Base speed;Disengagement Chance
+Corvette;1;30;60;3;3;1;200;0.60;160;1.0
+Frigate;1;30;90;3;4;1;400;0.20	;120;1.0
+Destroyer;2;60;120;6;6;2;600;0.35;140;1.5,
+Cruiser;4;120;240;12;16;3;1800;0.10;120;1.5
+Battleship;8;240;480;24;24;3;3000;0.05;100;1.25
+Titan;16;480;1800;40;48;3;15000;0.05;100;1.25
+Juggernaut;32;960;3600;48;84;4;100000;0.02;100;0
+Colossus;0;10000;20000;W;24;0;30000;0.02;80;0
+Defense platform;1;60;60;8;12;2;3000;0;6;0
+Ion Cannon;8;1000;480;16;24;0;10000;0;6;0
+Menacing Corvette;1;300;30;3;3;2;350;0.60;160;1.0
+Menacing Destroyer;2;550;60;6;6;2;700;0.25;140;1.5
+Menacing Cruiser;4;900;120;10;12;2;2000;0.10;140;1.5
+Star-Eater;0;10000;6000;53;80;4;150000;0.05;120;0
+Riddle Escort;2;500;200;16;12;2;1000;0.60;140;1.5
+Enigma Battlecruiser;8;2000;600;40;32;3;5000;0.10;100;1.0
+Paradox Titan;16;10000;1800;72;80;4;20000;0.02;100;0.5
+Nanite Swarmer;1;500;24;4;0;1;50;0.60;140;1.0
+Nanite Interdictor;4;7500;240;14;12;1;2000;0.20	;120;1.25

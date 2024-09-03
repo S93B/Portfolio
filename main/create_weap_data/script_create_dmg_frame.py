@@ -1,5 +1,5 @@
 import pandas as pd
-from weapons.step_1.weapon_keys import key_list
+from weapons.create_weap_data.weapon_keys import key_list
 
 # Load the original data with the correct delimiter
 df = pd.read_csv(
@@ -77,11 +77,9 @@ df["key"] = df["key"].replace(key_list, value=None, inplace=True)
 df.insert(1, "key2", key_list)
 # check to see whether names correspond
 df = df.drop("key", axis=1)
-# Print dataframe nieuwe namen en columns
-# df.to_csv("weapon_components.csv", index=False)
 
-ws = df.iloc[0:, [0, 1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13]]  # for normal weapons
-# ws = df.iloc[[87,163,164], [0,1,2,3,6,7,8,9,10,11,12,13]] ## for the alien weapons
+ws = df.iloc[0:, [0, 1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13]]  # for normal main
+# ws = df.iloc[[87,163,164], [0,1,2,3,6,7,8,9,10,11,12,13]] ## for the alien main
 ws["avg_dmg"] = ((df["min_damage"] + df["max_damage"]) / 2) * df["accuracy"]
 ws["cooldown"] = (df[["min_windup", "max_windup"]].mean(axis=1) + df.cooldown) / 10
 ws["DPS"] = ws["avg_dmg"] / ws["cooldown"]
@@ -95,6 +93,8 @@ ws.key2 = ws.key2.str.lower()
 ws = ws.round(2)
 ws = ws.dropna()
 df.reset_index(drop=True, inplace=True)
+ws.rename(columns={'key2': 'key'}, inplace=True)
+print(ws.columns)
 # ws.to_csv("weapon_subset_alien.csv", index=False)
 ws.to_csv("weapon_set.csv", index=False)
-# wel even handmatig key2 naar key #TODO: of zoek uit hoe
+

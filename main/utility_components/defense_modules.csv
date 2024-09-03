@@ -1,0 +1,49 @@
+﻿﻿Name,Size,Tier,Techtree,Cost,Power,Armor,Shield,Regen
+Nanocomposite Armor,S,1,Armor,10,0,100,0,0
+Nanocomposite Armor,M,1,Armor,20,0,250,0,0
+Nanocomposite Armor,L,1,Armor,40,0,600,0,0
+Ceramo-Metal Armor,S,2,Armor,13,0,130,0,0
+Ceramo-Metal Armor,M,2,Armor,26,0,325,0,0
+Ceramo-Metal Armor,L,2,Armor,52,0,780,0,0
+Plasteel Armor,S,3,Armor,17,0,170,0,0
+Plasteel Armor,M,3,Armor,34,0,425,0,0
+Plasteel Armor,L,3,Armor,68,0,1020,0,0
+Durasteel Armor,S,4,Armor,22,0,220,0,0
+Durasteel Armor,M,4,Armor,27,0,550,0,0
+Durasteel Armor,L,4,Armor,54,0,1320,0,0
+Neutronium Armor,S,5,Armor,28,0,290,0,0
+Neutronium Armor,M,5,Armor,56,0,725,0,0
+Neutronium Armor,L,5,Armor,112,0,1740,0,0
+Dragonscale Armor,S,6,Dragon Armor,36,0,370,0,0
+Dragonscale Armor,M,6,Dragon Armor,72,0,925,0,0
+Dragonscale Armor,L,6,Dragon Armor,144,0,2220,0,0
+Crystal Armor 1,S,1,Crystal Armor,22,0,110,0,0
+Crystal Armor 1,M,1,Crystal Armor,27,0,275,0,0
+Crystal Armor 1,L,1,Crystal Armor,54,0,685,0,0
+Crystal Armor 2,S,2,Crystal Armor,36,0,185,0,0
+Crystal Armor 2,M,2,Crystal Armor,72,0,460,0,0
+Crystal Armor 2,L,2,Crystal Armor,144,0,1150,0,0
+Deflectors,S,1,Shields,5,-15,0,75,0.5
+Deflectors,M,1,Shields,10,-45,0,190,1.25
+Deflectors,L,1,Shields,15,-105,0,450,3.00
+Advanced Deflectors,S,2,Shields,7,-20,0,100,0.65
+Advanced Deflectors,M,2,Shields,14,-50,0,250,1.6
+Advanced Deflectors,L,2,Shields,28,-125,0,600,4.05
+Shields,S,3,Shields,9,-25,0,125,0.85
+Shields,M,3,Shields,18,-65,0,315,2.15
+Shields,L,3,Shields,36,-150,0,750,5.10
+Advanced Shields,S,4,Shields,12,-30,0,165,1.1
+Advanced Shields,M,4,Shields,24,-75,0,415,2.75
+Advanced Shields,L,4,Shields,48,-185,0,990,6.60
+Hyper Shields,S,5,Shields,15,-35,0,220,1.45
+Hyper Shields,M,5,Shields,30,-85,0,550,3.65
+Hyper Shields,L,5,Shields,45,-210,0,1320,8.7
+Psi Shield,S,6,Psionic Shields,20,-45,0,360,2
+Psi Shield,M,6,Psionic Shields,40,-115,0,900,5
+Psi Shield,L,6,Psionic Shields,80,-280,0,2160,12.5
+Dark Matter Reflector,S,6,Enigmatic Shields,25,-50,0,280,1.85
+Dark Matter Reflector,M,6,Enigmatic Shields,50,-125,0,700,4.65
+Dark Matter Reflector,L,6,Enigmatic Shields,100,-315,0,1680,11.1
+Nothing,S,0,Armor,0,0,0,0,0
+Nothing,M,0,Armor,0,0,0,0,0
+Nothing,L,0,Armor,0,0,0,0,0
