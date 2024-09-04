@@ -10,70 +10,49 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\main\create_weap_data\weapon_set.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\main\ship_data\all_ship_data.csv">
+        <entry key="\main\1. create_weap_data\weapon_components_original.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
-        <entry key="\main\ship_data\ship_col.csv">
+        <entry key="\main\1. create_weap_data\weapon_set.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\main\utility_components\core_components.csv">
+        <entry key="\main\2. ship_data\ship_col.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\main\utility_components\def_high_tier.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\main\utility_components\defense.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\weapons\create_weap_data\weapon_components_original.csv">
+        <entry key="\main\2. ship_data\ship_data_original.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
-        <entry key="\weapons\create_weap_data\weapon_set.csv">
+        <entry key="\main\3. utility_components\def_high_tier.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\weapons\ship_data\data_ship_create\ship_data.csv">
+        <entry key="\main\3. utility_components\defense_modules.csv">
           <value>
             <Attribute>
-              <option name="separator" value=";" />
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\weapons\ship_data\ship_col.csv">
+        <entry key="\main\data_ttk\data_ttk.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

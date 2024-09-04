@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Load the data with the correct delimiter and handle headers
 df = pd.read_csv('C:/Python homedirectory/Stellaris/ship_designer//weapons/weapon_components.csv', delimiter=',', skiprows=0)
 ws = pd.read_csv("C:/Python homedirectory/Stellaris/ship_designer/weapons/weapon_set.csv", delimiter=',', skiprows=0)
-#sc = pd.read_csv("C:/Python homedirectory/Stellaris/ship_designer/main/g_craft.csv", delimiter=',', skiprows=0)
+#sc = pd.read_csv("C:/Python homedirectory/Stellaris/ship_designer/stellaris_weapon_simulator/g_craft.csv", delimiter=',', skiprows=0)
 
 series_dmg = ws.avg_dmg #index als naam; series heeft daarbij index naam erbij staan
 

@@ -1,9 +1,9 @@
 import numpy as np
 import pandas as pd
-from main.weapon_simulator.weapon_object import *
-from main.ship_data.ships_OOP import *
+from stellaris_weapon_simulator.weapon_simulator.weapon_OOP import *
+from stellaris_weapon_simulator.data_prep.ship_data.ship_OOP import *
 ws = pd.read_csv("C:\Python homedirectory\portfolio_stellaris\main\create_weap_data\weapon_set.csv", delimiter=',', skiprows=0)
-scol = pd.read_csv("C:\Python homedirectory\portfolio_stellaris\main\ship_data\ship_col.csv", delimiter=',')
+scol = pd.read_csv("/stellaris_weapon_simulator/ship_data\ship_col.csv", delimiter=',')
 
 # SHIP CHOICE
 ship = Ship(scol)

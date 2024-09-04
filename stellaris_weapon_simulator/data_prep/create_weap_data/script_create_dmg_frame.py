@@ -78,8 +78,8 @@ df.insert(1, "key2", key_list)
 # check to see whether names correspond
 df = df.drop("key", axis=1)
 
-ws = df.iloc[0:, [0, 1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13]]  # for normal main
-# ws = df.iloc[[87,163,164], [0,1,2,3,6,7,8,9,10,11,12,13]] ## for the alien main
+ws = df.iloc[0:, [0, 1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13]]  # for normal stellaris_weapon_simulator
+# ws = df.iloc[[87,163,164], [0,1,2,3,6,7,8,9,10,11,12,13]] ## for the alien stellaris_weapon_simulator
 ws["avg_dmg"] = ((df["min_damage"] + df["max_damage"]) / 2) * df["accuracy"]
 ws["cooldown"] = (df[["min_windup", "max_windup"]].mean(axis=1) + df.cooldown) / 10
 ws["DPS"] = ws["avg_dmg"] / ws["cooldown"]

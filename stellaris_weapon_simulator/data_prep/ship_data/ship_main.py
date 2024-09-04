@@ -1,8 +1,6 @@
 import pandas as pd
-import matplotlib.pyplot as plot
-from main.ship_data.ships_OOP import Ship
 
-df = pd.read_csv("C:\Python homedirectory\portfolio_stellaris\main\ship_data\ship_data_original.csv", delimiter=';', skiprows=[8, 9, 10])  #skiprows for defensive station
+df = pd.read_csv("/stellaris_weapon_simulator/ship_data\ship_data_original.csv", delimiter=';', skiprows=[8, 9, 10])  #skiprows for defensive station
 df = df.rename(str.lower, axis="columns")
 df.columns
 
@@ -16,7 +14,7 @@ std_ships = df.iloc[0:7]
 
 
 #Reading the defensive ship modules
-dd = pd.read_csv("C:\Python homedirectory\portfolio_stellaris\main/utility_components\def_high_tier.csv", delimiter=',')
+dd = pd.read_csv("/stellaris_weapon_simulator/utility_components\def_high_tier.csv", delimiter=',')
 dd.rename(str.lower, axis="columns", inplace=True)
 dd = dd.dropna()
 
