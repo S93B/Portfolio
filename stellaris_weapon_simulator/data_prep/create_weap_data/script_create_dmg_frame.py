@@ -1,5 +1,5 @@
 import pandas as pd
-from weapons.create_weap_data.weapon_keys import key_list
+from stellaris_weapon_simulator.data_prep.create_weap_data.weapon_keys import key_list
 
 # Load the original data with the correct delimiter
 df = pd.read_csv(
@@ -56,7 +56,7 @@ weapon_tier_list = {"1": 1, "2": 2, "3": 3, "4": 4, "5": 5}
 
 
 def create_tech_column(dataframe, key1, key2, string, string2):
-    """Create tech based column on name of weapon.
+    """Create tech column based on name of weapon.
     define dataframe; name of column to search for string;
     name of tech column; name of string search; and name of string output
     """
@@ -64,13 +64,14 @@ def create_tech_column(dataframe, key1, key2, string, string2):
         if string in row[key1].lower():
             df.at[index, key2] = string2
 
-
-for label, i in weapon_type_name.items():  # TODO: in één zin/functie
+# in één for loop??
+for label, i in weapon_type_name.items():
     create_tech_column(df, "key", "tech", label, i)
 for label, i in weapon_size_list.items():
     create_tech_column(df, "key", "size", label, i)
 for label, i in weapon_tier_list.items():
     create_tech_column(df, "key", "tier", label, i)
+# laser tier met de hand.
 
 # Replace the strings in the 'key' column with the replacement_list values
 df["key"] = df["key"].replace(key_list, value=None, inplace=True)
@@ -97,4 +98,3 @@ ws.rename(columns={'key2': 'key'}, inplace=True)
 print(ws.columns)
 # ws.to_csv("weapon_subset_alien.csv", index=False)
 ws.to_csv("weapon_set.csv", index=False)
-

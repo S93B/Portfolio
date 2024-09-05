@@ -1,5 +1,3 @@
-import pandas as pd
-
 
 class Weapon:
     def __init__(self, dataframe):
@@ -21,9 +19,8 @@ class Weapon:
         self.armor_penetration = False
         self.size_multiplier = False
 
-
     def select_row_by_key(self, key):
-        self.weapon =  self.dataframe.loc[key]
+        self.weapon = self.dataframe.loc[key]
         self.cooldown = self.weapon["cooldown"]
         if self.weapon["size"] == "G":
             self.size_multiplier = True
@@ -41,10 +38,11 @@ class Weapon:
         if self.weapon["armor_penetration"] == 1.0:
             self.armor_penetration = True
 
-    def select_columns(self,columns):
+    def select_columns(self, columns):
         return self.dataframe.loc[columns]
-    def select_rows_by_index(self,index):
-        self.weapon =  self.dataframe.loc[index]
+
+    def select_rows_by_index(self, index):
+        self.weapon = self.dataframe.loc[index]
         self.n = self.weapon.key
         self.size = self.weapon["size"]
         # if self.weapon["size"] == "G":
@@ -66,5 +64,6 @@ class Weapon:
             self.armor_penetration = True
         else:
             self.armor_penetration = False
-    def select_rows_by_condition(self,condition):
+
+    def select_rows_by_condition(self, condition):
         return self.dataframe[condition]
