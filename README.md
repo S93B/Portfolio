@@ -12,5 +12,5 @@ Ook de doelwitten bevatten de stats uit het spel.
 
 De map data_ttk bevat de output met time to kill in seconden.
 
-Scatterplot hieronder is een weergaven van dezelfde. Met uitzondering van twee outliers met seconden > 5000.
+Scatterplot hieronder is een weergaven van data_ttk. Met uitzondering van twee outliers met seconden > 5000.
 ![Test](stellaris_weapon_simulator/data_ttk/Figure_1.png?raw=True "Time to kill")
