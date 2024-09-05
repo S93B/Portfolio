@@ -133,7 +133,7 @@ weapon_L_sizes = ws[ws["size"] == "L"]
 
 end_list = pd.DataFrame()
 
-#Kies een schip om op te schieten TODO: maak het een input vraag met uitleg
+#Kies een schip om op te schieten
 ship_list = [4]
 for i in ship_list:
     ship.select_row_by_key(i)
