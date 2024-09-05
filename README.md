@@ -11,3 +11,5 @@ Ik heb daarom een soort wapen simulator gemaakt, waarbij je de diverse wapens ka
 Ook de doelwitten bevatten de stats uit het spel.
 
 De map data_ttk bevat de output met time to kill in seconden.
+
+![Alt text](C:\Python homedirectory\Portfolio_git\stellaris_weapon_simulator\data_ttk\Figure_1.png?raw=True "Time to kill")
