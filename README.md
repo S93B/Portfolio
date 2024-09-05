@@ -1,3 +1,13 @@
-Dit was mijn eerste persoonlijk project met Python na het leren van wat basics. Het idee achter dit project is een spel genaamd Stellaris, waarin je als speler een intergalactisch rijk uitbouwt en oa oorlog kan voeren. Oorlogvoering en schepen designen is een belangrijk onderdeel hiervan. 
-Mijn initiële vraag ging over welke scheepswapens het 'beste' zijn. Het spel zelf is geschreven in een andere taal, namelijk eentje van Paradox Interactive zelf, maar de data was relatief makkelijk te vinden in de spelbestanden. Uiteraard vergde dit iets van cleanen.
+# Python leren
+Dit zijn mijn persoonlijke projecten waarmee ik Python oefen. 
 
+
+## Stellaris wapen simulator
+Dit was mijn eerste persoonlijk project met Python na het leren van wat basics. 
+Het oorspronkelijke idee van dit project was om data van een spel (stellaris)
+te gebruiken om Python mee te oefenen. 
+Mijn initiële vraag ging over welke wapens in dit spel het 'beste' zijn. 
+Ik heb daarom een soort wapen simulator gemaakt, waarbij je de diverse wapens kan uitkiezen en 'afvuren'. 
+Ook de doelwitten bevatten de stats uit het spel.
+
+De map data_ttk bevat de output met time to kill in seconden.
