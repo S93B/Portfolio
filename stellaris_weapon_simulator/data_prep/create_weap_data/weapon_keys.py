@@ -68,7 +68,6 @@ Arc Emitter
 Focused Arc Emitter
 Titan Laser
 Perdition Beam Titan
-Perdition Beam Ion
 Flak Battery
 Flak Cannons
 Flak Artillery
@@ -111,6 +110,41 @@ Advanced Strike Craft
 # Convert the  string to a list
 key_list = key_data.strip().split("\n")
 
-# Display the list
-# print(key_list)
-# print(len(key_list))
+
+# create columns for tier, size and technology
+weapon_type_name = {
+    "laser": "energy",
+    "mass_driver": "kinetic",
+    "accelerator": "kinetic",
+    "plasma": "plasma",
+    "autocannon": "kinetic",
+    "kinetic": "kinetic",
+    "missile": "missile",
+    "torpedo": "missile",
+    "disruptor": "energy",
+    "lance": "energy",
+    "emitter": "energy",
+    "archaeo": "archaeo",
+    "flak": "point defence",
+    "defence": "point defence",
+    "strike": "strike craft",
+    "perdition": "energy",
+}
+
+weapon_size_list = {
+    "small": "S",
+    "medium": "M",
+    "large": "L",
+    "missile": "S",
+    "swarmer": "M",
+    "torpedo": "G",
+    "titan": "XL",
+    "lance": "XL",
+    "accelerator": "XL",
+    "emitter": "XL",
+    "artillery": "L",
+    "flak": "P",
+    "point": "P",
+    "ARCHAEO_X": "XL",
+}
+weapon_tier_list = {"1": 1, "2": 2, "3": 3, "4": 4, "5": 5}

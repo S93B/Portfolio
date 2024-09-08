@@ -1,5 +1,6 @@
 import pandas as pd
-from stellaris_weapon_simulator.data_prep.create_weap_data.weapon_keys import key_list
+#from stellaris_weapon_simulator.data_prep.create_weap_data.weapon_keys import key_list
+from stellaris_weapon_simulator.data_prep.create_weap_data.weapon_keys import *
 
 # Load the original data with the correct delimiter
 df = pd.read_csv(
@@ -12,48 +13,14 @@ df = pd.read_csv(
 # exclude weapon rows not used by the player
 for i in range(87, 175):
     df = df.drop(i)
-df = df.drop(186)
+df = df.drop([186, 69])
 print(df)  # first 5 should be red laser and last 5 should be archaeo type
 
-# REFORMAT index structure
+# Reformat index structure
 df.key = df.key.str.lower()
 df.insert(1, "size", "empty")
 df.insert(2, "tier", 0)
 df.insert(3, "tech", "empty")
-
-# create columns for tier, size and technology
-weapon_type_name = {
-    "laser": "energy",
-    "mass_driver": "kinetic",
-    "plasma": "plasma",
-    "autocannon": "kinetic",
-    "kinetic": "kinetic",
-    "missile": "missile",
-    "torpedo": "missile",
-    "disruptor": "energy",
-    "lance": "energy",
-    "emitter": "energy",
-    "archaeo": "archaeo",
-    "flak": "point defence",
-    "defence": "point defence",
-    "strike": "strike craft",
-}
-
-weapon_size_list = {
-    "small": "S",
-    "medium": "M",
-    "large": "L",
-    "missile": "S",
-    "swarmer": "M",
-    "torpedo": "G",
-    "titan": "XL",
-    "lance": "XL",
-    "accelerator": "XL",
-    "emitter": "XL",
-    "artillery": "L",
-}
-weapon_tier_list = {"1": 1, "2": 2, "3": 3, "4": 4, "5": 5}
-
 
 def create_tech_column(dataframe, key1, key2, string, string2):
     """Create tech column based on name of weapon.
@@ -64,7 +31,6 @@ def create_tech_column(dataframe, key1, key2, string, string2):
         if string in row[key1].lower():
             df.at[index, key2] = string2
 
-# in één for loop??
 for label, i in weapon_type_name.items():
     create_tech_column(df, "key", "tech", label, i)
 for label, i in weapon_size_list.items():
@@ -74,7 +40,7 @@ for label, i in weapon_tier_list.items():
 # laser tier met de hand.
 
 # Replace the strings in the 'key' column with the replacement_list values
-df["key"] = df["key"].replace(key_list, value=None, inplace=True)
+df["key"].replace(key_list, value=None)
 df.insert(1, "key2", key_list)
 # check to see whether names correspond
 df = df.drop("key", axis=1)
@@ -90,11 +56,15 @@ ws["armor_dps"] = (ws["avg_dmg"] * df["armor_damage"]) / ws["cooldown"]
 ws["accuracy"] = df["accuracy"]
 ws["tracking"] = df["tracking"]
 
+
+# puntjes op de i
 ws.key2 = ws.key2.str.lower()
 ws = ws.round(2)
 ws = ws.dropna()
+ws = ws.drop([184])
 df.reset_index(drop=True, inplace=True)
 ws.rename(columns={'key2': 'key'}, inplace=True)
-print(ws.columns)
-# ws.to_csv("weapon_subset_alien.csv", index=False)
+ws['size'] = ws['size'].replace('empty', 'XL')
+# print data
 ws.to_csv("weapon_set.csv", index=False)
+#ws.to_csv("weapon_subset_alien.csv", index=False)
