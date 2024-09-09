@@ -1,48 +1,47 @@
 name,size,shield,armor,hull,total shots,hits,seconds
-railgun,L,56282,5228,3017,475.0,385.0,2019.0
-advanced railgun,L,37469,5240,3050,304.0,233.0,1292.0
-gauss cannon,M,48970,5217,3053,482.0,482.0,1735.0
-gauss cannon,L,24717,5282,3036,188.0,143.0,799.0
-disruptor,S,0,0,3004,483.0,483.0,1111.0
-disruptor,M,0,0,3012,205.0,205.0,697.0
-ion disruptor,S,0,0,3016,384.0,384.0,883.0
-ion disruptor,M,0,0,3009,160.0,160.0,544.0
-phase disruptor,S,0,0,3005,305.0,305.0,702.0
-phase disruptor,M,0,0,3006,123.0,123.0,418.0
-autocannon,M,65291,5239,3037,1815.0,1815.0,2360.0
-autocannon,L,33296,5223,3036,664.0,664.0,1129.0
-ripper autocannon',S,163419,5172,3009,7217.0,7217.0,6134.0
-ripper autocannon',M,46732,5207,3022,1266.0,1266.0,1646.0
-ripper autocannon',L,25691,5220,3121,491.0,491.0,835.0
-stormfire autocannon,S,62373,5199,2994,2643.0,2643.0,2247.0
-stormfire autocannon,M,35690,5219,3015,938.0,938.0,1219.0
-stormfire autocannon,L,21133,5229,3044,385.0,385.0,654.0
-nanite autocannon,S,45570,5203,3027,1883.0,1883.0,1601.0
-nanite autocannon,M,27680,5225,3017,702.0,702.0,913.0
-nanite autocannon,L,16489,5250,3110,284.0,284.0,483.0
-kinetic artillery 1,L,23786,5289,3133,107.0,79.0,765.0
-kinetic artillery 2,L,17508,5259,3224,69.0,57.0,493.0
-mega cannon,XL,10133,6120,3803,16.0,14.0,182.0
-giga cannon,XL,8989,5336,3079,15.0,13.0,171.0
-particle lance,XL,10847,7369,3712,26.0,23.0,259.0
-tachyon lance,XL,9395,7214,5470,20.0,18.0,199.0
-arc emitter,XL,0,0,3688,6.0,6.0,61.0
-focused arc emitter,XL,0,0,3528,4.0,4.0,40.0
-titan laser,XL,8760,5621,8273,4.0,2.0,102.0
-perdition beam titan,XL,5728,5748,8768,2.0,2.0,51.0
-perdition beam ion,empty,9005,8764,8512,2.0,2.0,51.0
-nanite flak battery,empty,53073,5200,3008,3779.0,3779.0,1890.0
-nuclear missiles,S,0,5228,3021,409.0,409.0,3476.0
-fusion missiles,S,0,5229,3013,308.0,308.0,2618.0
-antimatter missiles,S,0,5243,3040,236.0,236.0,2006.0
-quantum missiles,S,0,5247,3020,177.0,177.0,1504.0
-marauder missiles,S,0,5278,3037,135.0,135.0,1148.0
-space torpedoes,G,0,5551,3126,5.0,5.0,104.0
-armored torpedoes,G,0,6411,4148,5.0,5.0,104.0
-devastator torpedoes,G,0,6522,3681,3.0,3.0,62.0
-swarmer missiles,M,0,5264,3005,192.0,192.0,816.0
-whirlwind missiles,M,0,5234,3007,112.0,112.0,476.0
-ancient macro batteries,L,175229,5228,3160,1562.0,859.0,6638.0
-nano-missile cloud launcher,S,0,0,2999,598.0,598.0,508.0
-ancient ruination glare,XL,6485,7517,9529,2.0,2.0,29.0
-ancient ruination glare,empty,7850,12295,12163,2.0,2.0,29.0
+railgun,L,65281,5236,3029,555.0,448.0,2359.0
+advanced railgun,L,34818,5223,3003,282.0,216.0,1198.0
+gauss cannon,M,52842,5230,3016,522.0,522.0,1879.0
+gauss cannon,L,22530,5270,3124,167.0,133.0,710.0
+disruptor,S,0,0,3001,492.0,492.0,1132.0
+disruptor,M,0,0,3014,208.0,208.0,707.0
+ion disruptor,S,0,0,2993,385.0,385.0,885.0
+ion disruptor,M,0,0,3012,155.0,155.0,527.0
+phase disruptor,S,0,0,3003,313.0,313.0,720.0
+phase disruptor,M,0,0,3005,133.0,133.0,452.0
+autocannon,M,64815,5210,3014,1801.0,1801.0,2341.0
+autocannon,L,32744,5222,3070,651.0,651.0,1107.0
+ripper autocannon',S,162461,5175,3005,7174.0,7174.0,6098.0
+ripper autocannon',M,46680,5225,3062,1263.0,1263.0,1642.0
+ripper autocannon',L,26325,5219,3010,503.0,503.0,855.0
+stormfire autocannon,S,60956,5203,3010,2580.0,2580.0,2193.0
+stormfire autocannon,M,36652,5221,3008,966.0,966.0,1256.0
+stormfire autocannon,L,20733,5225,3024,379.0,379.0,644.0
+nanite autocannon,S,45410,5225,3031,1876.0,1876.0,1595.0
+nanite autocannon,M,27954,5230,3052,709.0,709.0,922.0
+nanite autocannon,L,16875,5223,3185,293.0,293.0,498.0
+kinetic artillery 1,L,25968,5315,3206,116.0,87.0,829.0
+kinetic artillery 2,L,17961,5421,3129,71.0,58.0,508.0
+mega cannon,XL,8693,5575,4582,15.0,10.0,171.0
+giga cannon,XL,7099,5623,3375,7.0,7.0,80.0
+particle lance,XL,11335,5493,4674,28.0,23.0,279.0
+tachyon lance,XL,7855,8000,4616,14.0,14.0,139.0
+arc emitter,XL,0,0,3771,5.0,5.0,50.0
+focused arc emitter,XL,0,0,4113,5.0,5.0,50.0
+titan laser,XL,5537,5484,11673,3.0,3.0,76.0
+perdition beam titan,XL,7337,6755,12229,1.0,1.0,26.0
+nanite flak battery,P,52576,5224,3007,3743.0,3743.0,1872.0
+nuclear missiles,S,0,5228,3001,411.0,411.0,3494.0
+fusion missiles,S,0,5245,3003,307.0,307.0,2610.0
+antimatter missiles,S,0,5241,3025,235.0,235.0,1998.0
+quantum missiles,S,0,5267,3026,181.0,181.0,1538.0
+marauder missiles,S,0,5220,3045,135.0,135.0,1148.0
+space torpedoes,G,0,6463,3303,6.0,6.0,124.0
+armored torpedoes,G,0,6122,4172,5.0,5.0,104.0
+devastator torpedoes,G,0,5632,3904,3.0,3.0,62.0
+swarmer missiles,M,0,5240,3022,191.0,191.0,812.0
+whirlwind missiles,M,0,5225,3017,112.0,112.0,476.0
+ancient macro batteries,L,334130,5239,3160,2999.0,1632.0,12746.0
+nano-missile cloud launcher,S,0,0,3007,606.0,606.0,515.0
+ancient ruination glare,XL,7772,12021,9594,2.0,2.0,29.0
+ancient saturator artillery,L,11497,5451,5118,19.0,15.0,217.0
