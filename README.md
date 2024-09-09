@@ -15,6 +15,7 @@ De map data_ttk bevat de output met time to kill in seconden.
 Scatterplot hieronder is een weergaven van data_ttk.
 ![Test](stellaris_weapon_simulator/data_ttk/figure_all_ttk.png?raw=True "Time to kill")
 
-![Test](stellaris_weapon_simulator/data_ttk/figure_w_dps.png?raw=True "DPS per tech groep")
+[//]: # (![Test]&#40;stellaris_weapon_simulator/data_ttk/figure_w_dps.png?raw=True "DPS per tech groep"&#41;)
 
-![Test](stellaris_weapon_simulator/data_ttk/figure_XL_dps.png?raw=True "DPS voor XL groep")
+[//]: # ()
+[//]: # (![Test]&#40;stellaris_weapon_simulator/data_ttk/figure_XL_dps.png?raw=True "DPS voor XL groep"&#41;)
