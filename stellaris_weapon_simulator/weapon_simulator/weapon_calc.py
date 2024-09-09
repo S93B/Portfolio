@@ -3,9 +3,8 @@ import pandas as pd
 from stellaris_weapon_simulator.weapon_simulator.weapon_OOP import *
 from stellaris_weapon_simulator.data_prep.ship_data.ship_OOP import *
 
-ws = pd.read_csv("C:/Python homedirectory/portfolio_stellaris/main/create_weap_data/weapon_set.csv", delimiter=',',
-                 skiprows=0)
-scol = pd.read_csv("/stellaris_weapon_simulator/ship_data/ship_col.csv", delimiter=',')
+ws = pd.read_csv("C:\Python homedirectory\Portfolio_git\stellaris_weapon_simulator\data_prep\create_weap_data\weapon_set.csv", delimiter=',' , skiprows=0)
+scol = pd.read_csv("C:\Python homedirectory\Portfolio_git\stellaris_weapon_simulator\data_prep\ship_data\ship_col.csv", delimiter=',')
 
 # SHIP CHOICE
 ship = Ship(scol)
@@ -129,7 +128,7 @@ def calculate_time(name, damage_range, cooldown, accuracy, tracking, num_simulat
 list_w_against_battleship = [14, 29, 38, 44, 53, 58, 60, 62, 64, 66, 67, 68, 81, 84, 86, 95]
 list_best_w = [12, 13, 14, 27, 28, 29, 36, 37, 38, 43, 44, 51, 52, 53, 54, 55, 56, 58, 60, 62, 64, 66, 67, 68, 81, 84,
                86, 95]
-list_w_against_all = range(0, 97)
+list_w_against_all = range(0, 96)
 weapon_S_sizes = ws[ws["size"] == "S"]
 weapon_S_sizes = weapon_S_sizes.reset_index(drop=True)
 weapon_M_sizes = ws[ws["size"] == "M"]
@@ -149,4 +148,6 @@ for i in ship_list:
         end_list = pd.concat([end_list, kinetic_times], ignore_index=True)
 
 end_list.set_index("name", inplace=True)
-end_list.to_csv("C:/Python homedirectory/portfolio_stellaris/main/data_ttk/data_ttk.csv")
+end_list.to_csv("C:\Python homedirectory\Portfolio_git\stellaris_weapon_simulator\data_ttk\data_ttk2.csv")
+
+#TODO; nalopen na wijzigingen 9-9-24

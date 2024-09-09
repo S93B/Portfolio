@@ -9,7 +9,6 @@ titan_group = XL_group.iloc[-3:, :]
 small_slot = ws.loc[ws["size"] == "S"]
 medium_slot = ws.loc[ws["size"] == "M"]
 large_slot = ws.loc[ws["size"] == "L"]
-ws.drop(ws.index[ws['size'] == "empty"], inplace=True)  # remove empty size rows
 
 for index, row in ws.iterrows():
     if row['seconds'] > 5000:
@@ -19,4 +18,5 @@ plt.figure(figsize=(10, 6))
 plt.yticks(ha='right', fontsize=12)
 sns.scatterplot(data=ws, y='name', x='seconds', size='size', hue='size')
 plt.tight_layout()
+plt.savefig('figure_all_ttk')
 plt.show()
