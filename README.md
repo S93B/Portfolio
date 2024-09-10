@@ -14,3 +14,7 @@ De map data_ttk bevat de output met time to kill in seconden.
 
 Scatterplot hieronder is een weergaven van data_ttk.
 ![Test](stellaris_weapon_simulator/data_ttk/figure_all_ttk.png?raw=True "Time to kill")
+
+##### Work in Progress: 
+1. Plots avg DPS; etc
+2. Readme uitleg wapen calculator
