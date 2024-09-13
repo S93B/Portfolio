@@ -151,3 +151,4 @@ end_list.set_index("name", inplace=True)
 end_list.to_csv("C:\Python homedirectory\Portfolio_git\stellaris_weapon_simulator\data_ttk\data_ttk2.csv")
 
 #TODO; nalopen na wijzigingen 9-9-24
+# TODO: zet de functie in een andere module. Maak deze puur selectie wapen
