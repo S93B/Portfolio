@@ -16,5 +16,7 @@ Scatterplot hieronder is een weergaven van data_ttk.
 ![Test](stellaris_weapon_simulator/data_ttk/figure_all_ttk.png?raw=True "Time to kill")
 
 ![Test](stellaris_weapon_simulator/data_ttk/figure_w_dps.png?raw=True "DPS")
+
 sidenote voor torpedoes: damage multiplier is niet toegepast. Ingame output is daarom hoger afhankelijk van het doelwit. 
+
 ![Test](stellaris_weapon_simulator/data_ttk/figure_XL_dps.png?raw=True "DPS XL weapons")
