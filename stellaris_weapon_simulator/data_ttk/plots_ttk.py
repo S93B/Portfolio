@@ -15,8 +15,8 @@ for index, row in ws.iterrows():
         ws.drop(index, inplace=True)
 
 plt.figure(figsize=(10, 6))
-plt.yticks(ha='right', fontsize=12)
+plt.yticks(ha='right')
 sns.scatterplot(data=ws, y='name', x='seconds', size='size', hue='size')
 plt.tight_layout()
-plt.savefig('figure_all_ttk')
+#plt.savefig('figure_all_ttk')
 plt.show()
