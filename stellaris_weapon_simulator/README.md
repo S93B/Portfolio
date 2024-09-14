@@ -17,10 +17,13 @@ Below I will show some of the output
 
 ## Plots
 This scatterplot shows the 'Time to kill' (TTK) for all weapons that were able to destroy a battleship.
+
 ![Test](data_ttk/figure_all_ttk.png?raw=True "Time to kill")
 
 Important note for the torpedoes: for the DPS calculation it does not include the damage modifier, this being dependant on the target. If you compare the TTK and the DPS output, you will notice a large difference. e.g., the modifier for hitting a battleship is *10.
+
 ![Test](data_ttk/figure_w_dps.png?raw=True "DPS")
 
 This figure displays the DPS output for the XL weapons. 
+
 ![Test](data_ttk/figure_XL_dps.png?raw=True "DPS XL weapons")
