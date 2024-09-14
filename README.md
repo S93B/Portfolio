@@ -1,22 +1,13 @@
-# Python leren
-Dit zijn mijn persoonlijke projecten waarmee ik Python oefen. 
+# Python portfolio
+These are my personal projects for learning and developing my Python skillset. 
 
+## Stellaris weapon simulator
+This was my first personal project with Python. Before this I had done small projects from courses like building a snake game or a coffee making machine.
+My goal with this project was to implement all that I had learned until that point.
 
-## Stellaris wapen simulator
-Dit was mijn eerste persoonlijk project met Python na het leren van wat basics. 
-Het oorspronkelijke idee van dit project was om data van een spel (stellaris)
-te gebruiken om Python mee te oefenen. 
-Mijn initiële vraag ging over welke wapens in dit spel het 'beste' zijn. 
-Ik heb daarom een soort wapen simulator gemaakt, waarbij je de diverse wapens kan uitkiezen en 'afvuren'. 
-Ook de doelwitten bevatten de stats uit het spel.
+## European Social Survey (ESS11)
+This will be my second portfolio project whereby I will demonstrate and practice my Python and data-analytical skills.
+The data that I will be using is from the European Social Survey round 11 - 2023. Social inequalities in health, Gender in contemporary Europe.
 
-De map data_ttk bevat de output met time to kill in seconden.
+My goal with this project is to replicate statistical methods and techniques I learned during my studies, with Python instead of SPSS.
 
-Scatterplot hieronder is een weergaven van data_ttk.
-![Test](stellaris_weapon_simulator/data_ttk/figure_all_ttk.png?raw=True "Time to kill")
-
-![Test](stellaris_weapon_simulator/data_ttk/figure_w_dps.png?raw=True "DPS")
-
-sidenote voor torpedoes: damage multiplier is niet toegepast. Ingame output is daarom hoger afhankelijk van het doelwit. 
-
-![Test](stellaris_weapon_simulator/data_ttk/figure_XL_dps.png?raw=True "DPS XL weapons")
