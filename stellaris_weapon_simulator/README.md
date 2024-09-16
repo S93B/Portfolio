@@ -13,7 +13,9 @@ Something I would also do ingame.
 ## Planned features 
 1. A more user friendly way to 'operate' the weapon calculator
 
-Below I will show some of the output  
+### Possible future features
+1. The ability to choose multiple weapons, instead of one. 
+
 
 ## Plots
 This scatterplot shows the 'Time to kill' (TTK) for all weapons that were able to destroy a battleship.
