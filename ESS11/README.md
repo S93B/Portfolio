@@ -16,4 +16,4 @@ This will include the following:
 I will start with answering the following research question:
 1. What is the relationship between educational level and political voting in the Netherlands?
 
-Work in progress
+**Work in progress**

@@ -10,4 +10,3 @@ This will be my second portfolio project whereby I will demonstrate and practice
 The data that I will be using is from the European Social Survey round 11 - 2023. Social inequalities in health, Gender in contemporary Europe.
 
 My goal with this project is to replicate statistical methods and techniques I learned during my studies, with Python instead of SPSS.
-
