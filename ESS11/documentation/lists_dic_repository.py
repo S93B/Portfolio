@@ -1,4 +1,4 @@
-dic_cat_missing_thou = {
+dic_cat_sentinel_thou = {
     6666: 'not applicable',
     7777: 'refusal',
     8888: 'dont know',
@@ -6,14 +6,14 @@ dic_cat_missing_thou = {
     999: 'not available',
 }
 
-dic_cat_missing_ten = {
+dic_cat_sentinel_ten = {
     66: 'not applicable',
     77: 'refusal',
     88: 'dont know',
     99: 'no answer'
 }
 
-dic_cat_missing_single = {
+dic_cat_sentinel_single = {
 6: 'not applicable',
 7: 'refusal',
 9: 'no answer',
