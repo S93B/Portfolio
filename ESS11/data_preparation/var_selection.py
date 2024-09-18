@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 from ESS11.documentation.lists_dic_repository import dic_political_parties
 df = pd.read_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\raw\ESS11.csv')
