@@ -3,56 +3,35 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Python homedirectory\Stellaris\ship_designer\utility\def_high_tier.csv">
+        <entry key="\.new_things_practice\Pandas course\Course_Materials_Part1\Video_Lecture_NBs\titanic.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\main\1. create_weap_data\weapon_components_original.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\main\1. create_weap_data\weapon_set.csv">
+        <entry key="\ESS11\data\interim\data_selected_NL.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\main\2. ship_data\ship_col.csv">
+        <entry key="\ESS11\data\processed\data_NL_transf.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\main\2. ship_data\ship_data_original.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\main\3. utility_components\def_high_tier.csv">
+        <entry key="\functions\data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\main\3. utility_components\defense_modules.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\main\data_ttk\data_ttk.csv">
+        <entry key="\functions\kat.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
