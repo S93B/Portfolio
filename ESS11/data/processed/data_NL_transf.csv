@@ -1,0 +1,1696 @@
+,gender,age,education,activity_work,educational_level,voted,party
+16468,Male,36.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16469,Male,48.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16470,Male,59.0,17.0,1,highly_educated,1,Green Left
+16471,Female,46.0,9.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16472,Female,80.0,3.0,6,lower_educated,2,Not applicable*
+16473,Female,40.0,14.0,1,highly_educated,1,Democrats '66
+16474,Female,50.0,14.0,1,highly_educated,1,Don't know*
+16475,Female,62.0,10.0,1,mid_educated,1,Party for Freedom
+16476,Female,33.0,17.0,1,highly_educated,1,Party for the Animals
+16477,Female,90.0,4.0,6,lower_educated,1,Labour Party
+16478,Female,63.0,10.0,1,mid_educated,1,Socialist Party
+16479,Male,,3.0,1,lower_educated,1,JA21
+16480,Male,90.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+16481,Male,25.0,16.0,1,highly_educated,1,Green Left
+16482,Male,33.0,14.0,1,highly_educated,2,Not applicable*
+16483,Female,79.0,11.0,6,mid_educated,1,Christian Union
+16484,Female,76.0,14.0,6,highly_educated,1,People's Party for Freedom and Democracy
+16485,Female,44.0,13.0,1,highly_educated,1,Socialist Party
+16486,Female,40.0,16.0,8,highly_educated,1,DENK
+16487,Male,45.0,10.0,1,mid_educated,1,Labour Party
+16488,Male,33.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+16489,Female,17.0,4.0,2,lower_educated,3,Not applicable*
+16490,Female,86.0,3.0,6,lower_educated,2,Not applicable*
+16491,Male,34.0,18.0,1,highly_educated,1,Democrats '66
+16492,Female,81.0,3.0,8,lower_educated,1,Party for Freedom
+16493,Male,21.0,10.0,4,mid_educated,1,Forum for Democracy
+16494,Female,74.0,4.0,6,lower_educated,1,Labour Party
+16495,Female,23.0,17.0,1,highly_educated,1,Democrats '66
+16496,Male,56.0,16.0,9,highly_educated,1,Christian Democratic Appeal
+16497,Female,50.0,10.0,1,mid_educated,1,Party for the Animals
+16498,Male,61.0,14.0,1,highly_educated,1,Labour Party
+16499,Female,75.0,4.0,6,lower_educated,1,Christian Union
+16500,Male,32.0,6.0,1,mid_educated,1,Don't know*
+16501,Male,48.0,14.0,8,highly_educated,1,Christian Union
+16502,Female,41.0,10.0,1,mid_educated,3,Not applicable*
+16503,Male,53.0,17.0,9,highly_educated,1,Forum for Democracy
+16504,Female,18.0,4.0,1,lower_educated,3,Not applicable*
+16505,Female,46.0,10.0,1,mid_educated,2,Not applicable*
+16506,Male,85.0,18.0,6,highly_educated,1,Refusal*
+16507,Female,52.0,3.0,1,lower_educated,2,Not applicable*
+16508,Female,72.0,14.0,6,highly_educated,1,50PLUS
+16509,Female,56.0,9.0,5,mid_educated,1,Christian Democratic Appeal
+16510,Male,72.0,17.0,6,highly_educated,1,Green Left
+16511,Female,35.0,17.0,1,highly_educated,1,Volt
+16512,Male,28.0,14.0,1,highly_educated,1,Christian Union
+16513,Male,44.0,10.0,1,mid_educated,2,Not applicable*
+16514,Male,69.0,7.0,6,mid_educated,1,Christian Union
+16515,Female,59.0,10.0,1,mid_educated,1,Christian Union
+16516,Female,49.0,5.0,8,lower_educated,1,Don't know*
+16517,Female,49.0,17.0,1,highly_educated,1,Democrats '66
+16518,Female,77.0,3.0,8,lower_educated,1,Don't know*
+16519,Female,45.0,10.0,1,mid_educated,1,Don't know*
+16520,Female,63.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16521,Female,64.0,17.0,1,highly_educated,1,Democrats '66
+16522,Female,64.0,8.0,8,mid_educated,2,Not applicable*
+16523,Male,65.0,8.0,6,mid_educated,1,Labour Party
+16524,Female,74.0,13.0,6,highly_educated,1,People's Party for Freedom and Democracy
+16525,Male,68.0,3.0,6,lower_educated,1,Party for Freedom
+16526,Female,33.0,4.0,1,lower_educated,2,Not applicable*
+16527,Female,49.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+16528,Female,42.0,10.0,1,mid_educated,1,Party for Freedom
+16529,Male,57.0,17.0,1,highly_educated,1,BoerBurgerBeweging
+16530,Male,33.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16531,Male,44.0,14.0,1,highly_educated,1,Democrats '66
+16532,Male,74.0,7.0,6,mid_educated,1,JA21
+16533,Female,48.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16534,Male,72.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+16535,Female,50.0,9.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16536,Male,33.0,16.0,1,highly_educated,1,Socialist Party
+16537,Male,68.0,14.0,6,highly_educated,1,Christian Democratic Appeal
+16538,Female,77.0,6.0,6,mid_educated,1,People's Party for Freedom and Democracy
+16539,Male,77.0,17.0,6,highly_educated,1,Labour Party
+16540,Female,73.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+16541,Male,67.0,3.0,6,lower_educated,1,BoerBurgerBeweging
+16542,Female,75.0,7.0,6,mid_educated,1,People's Party for Freedom and Democracy
+16543,Male,48.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16544,Male,33.0,4.0,8,lower_educated,1,Green Left
+16545,Female,78.0,3.0,8,lower_educated,1,Socialist Party
+16546,Male,54.0,14.0,1,highly_educated,1,Labour Party
+16547,Male,64.0,16.0,1,highly_educated,1,BoerBurgerBeweging
+16548,Male,31.0,15.0,1,highly_educated,1,JA21
+16549,Male,21.0,4.0,2,lower_educated,1,Green Left
+16550,Female,47.0,17.0,8,highly_educated,2,Not applicable*
+16551,Female,33.0,13.0,1,highly_educated,1,Don't know*
+16552,Male,50.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16553,Male,78.0,8.0,8,mid_educated,1,People's Party for Freedom and Democracy
+16554,Male,39.0,17.0,1,highly_educated,1,Christian Democratic Appeal
+16555,Male,38.0,14.0,1,highly_educated,2,Not applicable*
+16556,Male,38.0,15.0,8,highly_educated,1,Democrats '66
+16557,Male,52.0,17.0,1,highly_educated,1,Party for the Animals
+16558,Female,67.0,5.0,8,lower_educated,1,BoerBurgerBeweging
+16559,Female,79.0,3.0,8,lower_educated,2,Not applicable*
+16560,Male,52.0,9.0,8,mid_educated,1,Refusal*
+16561,Female,48.0,16.0,1,highly_educated,1,Christian Union
+16562,Female,32.0,9.0,1,mid_educated,1,Reformed Political Party
+16563,Female,75.0,17.0,6,highly_educated,1,Socialist Party
+16564,Male,57.0,17.0,5,highly_educated,1,Don't know*
+16565,Female,18.0,10.0,2,mid_educated,2,Not applicable*
+16566,Male,64.0,3.0,6,lower_educated,1,Party for Freedom
+16567,Female,40.0,10.0,1,mid_educated,2,Not applicable*
+16568,Male,42.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16569,Male,76.0,3.0,6,lower_educated,1,Party for Freedom
+16570,Female,23.0,10.0,1,mid_educated,1,Other
+16571,Male,46.0,17.0,1,highly_educated,1,Volt
+16572,Female,43.0,4.0,1,lower_educated,1,Democrats '66
+16573,Female,69.0,14.0,8,highly_educated,1,People's Party for Freedom and Democracy
+16574,Male,37.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16575,Male,64.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16576,Female,62.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16577,Female,52.0,10.0,8,mid_educated,1,People's Party for Freedom and Democracy
+16578,Female,76.0,3.0,6,lower_educated,1,Socialist Party
+16579,Male,60.0,3.0,1,lower_educated,2,Not applicable*
+16580,Male,74.0,9.0,1,mid_educated,8,Not applicable*
+16581,Male,44.0,9.0,1,mid_educated,1,Christian Democratic Appeal
+16582,Female,56.0,17.0,1,highly_educated,1,Party for the Animals
+16583,Male,39.0,6.0,1,mid_educated,1,Christian Democratic Appeal
+16584,Female,33.0,14.0,1,highly_educated,1,Democrats '66
+16585,Male,73.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+16586,Male,61.0,17.0,1,highly_educated,1,Christian Union
+16587,Female,42.0,4.0,8,lower_educated,1,Reformed Political Party
+16588,Male,49.0,14.0,1,highly_educated,1,BoerBurgerBeweging
+16589,Female,61.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16590,Female,34.0,16.0,1,highly_educated,2,Not applicable*
+16591,Female,72.0,17.0,6,highly_educated,2,Not applicable*
+16592,Female,80.0,16.0,6,highly_educated,2,Not applicable*
+16593,Male,36.0,10.0,1,mid_educated,2,Not applicable*
+16594,Male,62.0,16.0,8,highly_educated,1,Labour Party
+16595,Male,38.0,10.0,1,mid_educated,1,Reformed Political Party
+16596,Male,63.0,3.0,1,lower_educated,1,Reformed Political Party
+16597,Female,78.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+16598,Female,53.0,14.0,1,highly_educated,1,Volt
+16599,Male,76.0,3.0,6,lower_educated,2,Not applicable*
+16600,Male,81.0,17.0,6,highly_educated,2,Not applicable*
+16601,Female,,12.0,2,highly_educated,3,Not applicable*
+16602,Male,32.0,9.0,1,mid_educated,1,Democrats '66
+16603,Female,35.0,16.0,1,highly_educated,1,Democrats '66
+16604,Female,55.0,17.0,8,highly_educated,1,Democrats '66
+16605,Male,17.0,2.0,2,lower_educated,3,Not applicable*
+16606,Female,40.0,14.0,1,highly_educated,1,Christian Democratic Appeal
+16607,Female,59.0,4.0,1,lower_educated,1,JA21
+16608,Female,31.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16609,Male,43.0,11.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16610,Female,41.0,9.0,8,mid_educated,1,Party for Freedom
+16611,Female,73.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+16612,Male,35.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16613,Female,48.0,5555.0,1,,1,Don't know*
+16614,Female,80.0,14.0,8,highly_educated,1,Don't know*
+16615,Male,36.0,3.0,1,lower_educated,1,Labour Party
+16616,Female,54.0,2.0,5,lower_educated,1,Forum for Democracy
+16617,Male,69.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+16618,Male,35.0,3.0,4,lower_educated,2,Not applicable*
+16619,Male,68.0,18.0,6,highly_educated,1,Green Left
+16620,Female,73.0,3.0,6,lower_educated,1,Socialist Party
+16621,Female,73.0,3.0,6,lower_educated,1,Labour Party
+16622,Male,17.0,1.0,9,lower_educated,3,Not applicable*
+16623,Male,65.0,18.0,1,highly_educated,1,Party for the Animals
+16624,Female,53.0,14.0,1,highly_educated,1,Christian Democratic Appeal
+16625,Male,26.0,10.0,2,mid_educated,1,People's Party for Freedom and Democracy
+16626,Female,17.0,1.0,2,lower_educated,3,Not applicable*
+16627,Male,61.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16628,Female,18.0,4.0,2,lower_educated,3,Not applicable*
+16629,Female,58.0,9.0,1,mid_educated,1,Green Left
+16630,Male,29.0,17.0,1,highly_educated,1,Labour Party
+16631,Female,72.0,4.0,6,lower_educated,1,Democrats '66
+16632,Male,20.0,6.0,1,mid_educated,2,Not applicable*
+16633,Male,36.0,12.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16634,Male,74.0,3.0,1,lower_educated,1,Refusal*
+16635,Male,33.0,10.0,1,mid_educated,2,Not applicable*
+16636,Female,40.0,13.0,1,highly_educated,3,Not applicable*
+16637,Male,36.0,14.0,1,highly_educated,3,Not applicable*
+16638,Female,35.0,14.0,1,highly_educated,1,Party for the Animals
+16639,Male,46.0,2.0,1,lower_educated,1,Socialist Party
+16640,Male,72.0,13.0,8,highly_educated,1,Democrats '66
+16641,Female,69.0,4.0,6,lower_educated,1,Green Left
+16642,Female,79.0,3.0,6,lower_educated,1,Don't know*
+16643,Male,67.0,4.0,1,lower_educated,1,Socialist Party
+16644,Female,59.0,4.0,5,lower_educated,1,Democrats '66
+16645,Female,75.0,2.0,6,lower_educated,2,Not applicable*
+16646,Female,75.0,4.0,6,lower_educated,1,Party for Freedom
+16647,Male,55.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16648,Male,57.0,9.0,1,mid_educated,1,JA21
+16649,Female,33.0,17.0,1,highly_educated,1,Green Left
+16650,Male,33.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16651,Female,34.0,17.0,1,highly_educated,1,Democrats '66
+16652,Male,73.0,13.0,6,highly_educated,1,BoerBurgerBeweging
+16653,Female,67.0,3.0,8,lower_educated,2,Not applicable*
+16654,Female,55.0,17.0,1,highly_educated,1,Democrats '66
+16655,Male,64.0,13.0,6,highly_educated,1,Volt
+16656,Female,17.0,2.0,2,lower_educated,3,Not applicable*
+16657,Female,71.0,4.0,6,lower_educated,1,BoerBurgerBeweging
+16658,Female,26.0,14.0,1,highly_educated,2,Not applicable*
+16659,Male,38.0,2.0,1,lower_educated,2,Not applicable*
+16660,Male,44.0,9.0,1,mid_educated,1,Forum for Democracy
+16661,Female,48.0,16.0,1,highly_educated,1,Democrats '66
+16662,Male,19.0,4.0,2,lower_educated,3,Not applicable*
+16663,Female,71.0,17.0,6,highly_educated,1,Democrats '66
+16664,Female,66.0,9.0,8,mid_educated,2,Not applicable*
+16665,Male,67.0,10.0,6,mid_educated,1,Labour Party
+16666,Female,50.0,16.0,1,highly_educated,1,Green Left
+16667,Female,73.0,13.0,6,highly_educated,1,People's Party for Freedom and Democracy
+16668,Female,17.0,2.0,2,lower_educated,3,Not applicable*
+16669,Female,90.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+16670,Female,52.0,10.0,8,mid_educated,1,Democrats '66
+16671,Female,62.0,6.0,1,mid_educated,1,Democrats '66
+16672,Female,21.0,8.0,2,mid_educated,2,Not applicable*
+16673,Male,76.0,13.0,6,highly_educated,1,Volt
+16674,Female,28.0,3.0,4,lower_educated,2,Not applicable*
+16675,Male,47.0,18.0,1,highly_educated,1,Party for the Animals
+16676,Male,66.0,4.0,1,lower_educated,1,Labour Party
+16677,Female,49.0,3.0,1,lower_educated,8,Not applicable*
+16678,Male,36.0,14.0,8,highly_educated,1,Forum for Democracy
+16679,Female,83.0,4.0,6,lower_educated,1,Party for the Animals
+16680,Female,66.0,14.0,1,highly_educated,1,Green Left
+16681,Female,81.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+16682,Male,43.0,6.0,1,mid_educated,1,Other
+16683,Male,56.0,16.0,1,highly_educated,1,Socialist Party
+16684,Male,66.0,16.0,1,highly_educated,1,Democrats '66
+16685,Female,42.0,14.0,1,highly_educated,1,Christian Union
+16686,Male,52.0,16.0,1,highly_educated,1,Party for Freedom
+16687,Female,42.0,14.0,1,highly_educated,1,Democrats '66
+16688,Female,34.0,17.0,1,highly_educated,1,Democrats '66
+16689,Female,58.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16690,Male,34.0,4.0,9,lower_educated,1,Don't know*
+16691,Female,48.0,16.0,8,highly_educated,1,Socialist Party
+16692,Female,82.0,17.0,6,highly_educated,1,Democrats '66
+16693,Male,31.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+16694,Male,72.0,17.0,6,highly_educated,1,Democrats '66
+16695,Female,59.0,18.0,1,highly_educated,3,Not applicable*
+16696,Male,51.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16697,Female,36.0,10.0,1,mid_educated,2,Not applicable*
+16698,Male,48.0,4.0,1,lower_educated,1,Forum for Democracy
+16699,Male,23.0,16.0,1,highly_educated,1,Democrats '66
+16700,Male,56.0,16.0,1,highly_educated,1,Socialist Party
+16701,Female,16.0,4.0,1,lower_educated,3,Not applicable*
+16702,Male,41.0,2.0,1,lower_educated,1,Green Left
+16703,Male,49.0,10.0,1,mid_educated,1,Democrats '66
+16704,Female,19.0,6.0,2,mid_educated,1,Volt
+16705,Female,77.0,8.0,6,mid_educated,1,Christian Democratic Appeal
+16706,Female,26.0,15.0,1,highly_educated,1,Party for the Animals
+16707,Female,27.0,10.0,1,mid_educated,1,Don't know*
+16708,Female,16.0,4.0,1,lower_educated,3,Not applicable*
+16709,Female,72.0,13.0,6,highly_educated,1,Labour Party
+16710,Female,66.0,12.0,6,highly_educated,1,Labour Party
+16711,Male,57.0,10.0,1,mid_educated,1,Democrats '66
+16712,Female,31.0,16.0,1,highly_educated,1,BoerBurgerBeweging
+16713,Female,36.0,14.0,1,highly_educated,1,Christian Union
+16714,Male,33.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16715,Female,87.0,3.0,6,lower_educated,1,Democrats '66
+16716,Female,20.0,12.0,2,highly_educated,1,People's Party for Freedom and Democracy
+16717,Male,29.0,10.0,1,mid_educated,1,Democrats '66
+16718,Female,54.0,10.0,1,mid_educated,1,Democrats '66
+16719,Female,45.0,9.0,1,mid_educated,1,Party for the Animals
+16720,Female,29.0,6.0,8,mid_educated,1,Party for Freedom
+16721,Female,67.0,2.0,6,lower_educated,1,Don't know*
+16722,Male,66.0,16.0,5,highly_educated,1,Volt
+16723,Male,77.0,3.0,6,lower_educated,1,Labour Party
+16724,Female,82.0,4.0,8,lower_educated,1,Labour Party
+16725,Male,,7.0,4,mid_educated,1,Party for Freedom
+16726,Male,29.0,14.0,1,highly_educated,1,Christian Democratic Appeal
+16727,Female,53.0,10.0,1,mid_educated,1,50PLUS
+16728,Female,45.0,10.0,1,mid_educated,1,DENK
+16729,Female,24.0,14.0,1,highly_educated,1,Democrats '66
+16730,Male,36.0,17.0,1,highly_educated,1,Refusal*
+16731,Male,19.0,2.0,2,lower_educated,3,Not applicable*
+16732,Female,71.0,6.0,8,mid_educated,1,Labour Party
+16733,Female,77.0,5.0,6,lower_educated,1,People's Party for Freedom and Democracy
+16734,Male,22.0,16.0,1,highly_educated,1,JA21
+16735,Male,22.0,10.0,1,mid_educated,1,JA21
+16736,Male,66.0,4.0,6,lower_educated,2,Not applicable*
+16737,Female,27.0,17.0,1,highly_educated,1,Volt
+16738,Male,41.0,10.0,1,mid_educated,2,Not applicable*
+16739,Female,76.0,2.0,6,lower_educated,1,Party for Freedom
+16740,Male,90.0,1.0,6,lower_educated,2,Not applicable*
+16741,Male,55.0,14.0,1,highly_educated,1,Christian Union
+16742,Male,75.0,3.0,6,lower_educated,1,Party for Freedom
+16743,Female,19.0,9.0,2,mid_educated,1,BoerBurgerBeweging
+16744,Male,52.0,11.0,1,mid_educated,1,Socialist Party
+16745,Female,53.0,6.0,1,mid_educated,1,Party for Freedom
+16746,Male,21.0,12.0,2,highly_educated,1,People's Party for Freedom and Democracy
+16747,Male,75.0,4.0,6,lower_educated,1,Christian Democratic Appeal
+16748,Female,68.0,8.0,6,mid_educated,1,Party for the Animals
+16749,Male,44.0,7.0,1,mid_educated,1,Party for the Animals
+16750,Male,47.0,4.0,8,lower_educated,2,Not applicable*
+16751,Male,73.0,3.0,6,lower_educated,1,Christian Union
+16752,Female,67.0,5.0,6,lower_educated,8,Not applicable*
+16753,Male,36.0,16.0,1,highly_educated,2,Not applicable*
+16754,Male,62.0,3.0,9,lower_educated,1,People's Party for Freedom and Democracy
+16755,Female,75.0,14.0,6,highly_educated,1,Volt
+16756,Female,33.0,14.0,8,highly_educated,2,Not applicable*
+16757,Female,77.0,2.0,6,lower_educated,1,Christian Union
+16758,Male,52.0,17.0,1,highly_educated,1,Democrats '66
+16759,Female,33.0,10.0,3,mid_educated,1,Christian Union
+16760,Female,21.0,7.0,1,mid_educated,1,50PLUS
+16761,Female,41.0,17.0,1,highly_educated,1,Volt
+16762,Female,59.0,10.0,1,mid_educated,1,BoerBurgerBeweging
+16763,Female,53.0,18.0,5,highly_educated,1,Don't know*
+16764,Male,27.0,9.0,1,mid_educated,2,Not applicable*
+16765,Female,63.0,14.0,1,highly_educated,1,Democrats '66
+16766,Male,69.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+16767,Female,69.0,14.0,6,highly_educated,1,Democrats '66
+16768,Female,53.0,5.0,1,lower_educated,2,Not applicable*
+16769,Male,65.0,10.0,6,mid_educated,1,People's Party for Freedom and Democracy
+16770,Male,68.0,5.0,6,lower_educated,2,Not applicable*
+16771,Female,60.0,10.0,1,mid_educated,1,Artikel1/Bij1
+16772,Female,50.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16773,Male,26.0,10.0,1,mid_educated,1,Christian Democratic Appeal
+16774,Male,57.0,3.0,5,lower_educated,2,Not applicable*
+16775,Male,76.0,3.0,6,lower_educated,1,BoerBurgerBeweging
+16776,Male,16.0,2.0,2,lower_educated,3,Not applicable*
+16777,Female,63.0,4.0,9,lower_educated,1,Don't know*
+16778,Male,51.0,13.0,1,highly_educated,1,Socialist Party
+16779,Male,67.0,9.0,1,mid_educated,1,Socialist Party
+16780,Female,66.0,10.0,5,mid_educated,1,People's Party for Freedom and Democracy
+16781,Female,50.0,14.0,1,highly_educated,1,Party for the Animals
+16782,Female,76.0,4.0,6,lower_educated,1,Christian Democratic Appeal
+16783,Male,80.0,3.0,8,lower_educated,1,Party for Freedom
+16784,Male,47.0,10.0,5,mid_educated,1,Reformed Political Party
+16785,Male,54.0,11.0,1,mid_educated,1,BoerBurgerBeweging
+16786,Female,59.0,14.0,1,highly_educated,1,Democrats '66
+16787,Male,42.0,10.0,1,mid_educated,2,Not applicable*
+16788,Female,86.0,2.0,6,lower_educated,1,Party for Freedom
+16789,Female,65.0,13.0,6,highly_educated,1,Democrats '66
+16790,Female,28.0,3.0,5,lower_educated,2,Not applicable*
+16791,Female,41.0,14.0,1,highly_educated,1,Christian Union
+16792,Female,65.0,13.0,6,highly_educated,1,Democrats '66
+16793,Female,77.0,4.0,6,lower_educated,1,BoerBurgerBeweging
+16794,Male,49.0,17.0,1,highly_educated,1,Democrats '66
+16795,Female,38.0,17.0,8,highly_educated,1,Party for the Animals
+16796,Male,25.0,17.0,1,highly_educated,3,Not applicable*
+16797,Female,33.0,9.0,1,mid_educated,2,Not applicable*
+16798,Female,61.0,17.0,8,highly_educated,1,Christian Democratic Appeal
+16799,Female,32.0,10.0,1,mid_educated,2,Not applicable*
+16800,Female,22.0,6.0,2,mid_educated,1,Artikel1/Bij1
+16801,Male,60.0,14.0,1,highly_educated,1,Democrats '66
+16802,Male,38.0,4.0,1,lower_educated,1,People's Party for Freedom and Democracy
+16803,Male,39.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16804,Male,73.0,17.0,6,highly_educated,1,Refusal*
+16805,Female,54.0,4.0,1,lower_educated,2,Not applicable*
+16806,Male,61.0,5.0,9,lower_educated,1,People's Party for Freedom and Democracy
+16807,Male,40.0,14.0,1,highly_educated,1,Christian Union
+16808,Female,68.0,10.0,6,mid_educated,2,Not applicable*
+16809,Female,54.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16810,Female,51.0,17.0,1,highly_educated,2,Not applicable*
+16811,Male,65.0,16.0,1,highly_educated,1,BoerBurgerBeweging
+16812,Female,32.0,17.0,1,highly_educated,1,Green Left
+16813,Female,18.0,6.0,2,mid_educated,3,Not applicable*
+16814,Female,47.0,11.0,1,mid_educated,1,Party for the Animals
+16815,Female,56.0,3.0,9,lower_educated,2,Not applicable*
+16816,Male,48.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16817,Female,16.0,2.0,1,lower_educated,3,Not applicable*
+16818,Female,75.0,9.0,6,mid_educated,1,Labour Party
+16819,Male,31.0,9.0,1,mid_educated,1,Party for Freedom
+16820,Male,25.0,6.0,1,mid_educated,2,Not applicable*
+16821,Female,24.0,10.0,1,mid_educated,1,Forum for Democracy
+16822,Male,77.0,15.0,6,highly_educated,1,Democrats '66
+16823,Male,42.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16824,Male,60.0,2.0,1,lower_educated,1,Blanc
+16825,Male,33.0,17.0,1,highly_educated,1,Democrats '66
+16826,Female,58.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16827,Male,77.0,17.0,6,highly_educated,1,Christian Democratic Appeal
+16828,Male,43.0,10.0,1,mid_educated,1,Reformed Political Party
+16829,Male,45.0,9.0,1,mid_educated,2,Not applicable*
+16830,Female,70.0,4.0,8,lower_educated,1,Socialist Party
+16831,Female,54.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16832,Male,62.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16833,Female,70.0,7.0,5,mid_educated,1,50PLUS
+16834,Male,84.0,2.0,5,lower_educated,1,Party for Freedom
+16835,Female,55.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16836,Female,42.0,18.0,1,highly_educated,1,Democrats '66
+16837,Female,56.0,4.0,1,lower_educated,1,People's Party for Freedom and Democracy
+16838,Female,35.0,10.0,8,mid_educated,1,Party for the Animals
+16839,Male,19.0,4.0,2,lower_educated,1,BoerBurgerBeweging
+16840,Male,75.0,17.0,6,highly_educated,2,Not applicable*
+16841,Female,67.0,16.0,6,highly_educated,1,Democrats '66
+16842,Male,21.0,4.0,1,lower_educated,8,Not applicable*
+16843,Female,49.0,10.0,1,mid_educated,1,BoerBurgerBeweging
+16844,Male,75.0,15.0,6,highly_educated,1,Volt
+16845,Female,31.0,4.0,1,lower_educated,2,Not applicable*
+16846,Female,42.0,16.0,1,highly_educated,1,Democrats '66
+16847,Male,40.0,14.0,1,highly_educated,1,Volt
+16848,Male,74.0,17.0,6,highly_educated,1,People's Party for Freedom and Democracy
+16849,Male,61.0,16.0,1,highly_educated,1,Refusal*
+16850,Female,65.0,10.0,6,mid_educated,1,Party for the Animals
+16851,Male,32.0,2.0,1,lower_educated,2,Not applicable*
+16852,Female,57.0,10.0,1,mid_educated,1,Don't know*
+16853,Female,32.0,10.0,1,mid_educated,1,Party for the Animals
+16854,Female,81.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+16855,Female,43.0,3.0,8,lower_educated,1,Reformed Political Party
+16856,Male,46.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16857,Male,61.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16858,Female,65.0,10.0,8,mid_educated,1,Democrats '66
+16859,Female,60.0,10.0,1,mid_educated,1,Volt
+16860,Female,17.0,2.0,2,lower_educated,3,Not applicable*
+16861,Male,24.0,10.0,1,mid_educated,1,Party for the Animals
+16862,Male,17.0,2.0,2,lower_educated,3,Not applicable*
+16863,Male,57.0,14.0,1,highly_educated,1,Christian Democratic Appeal
+16864,Male,55.0,8.0,1,mid_educated,1,Don't know*
+16865,Female,71.0,6.0,6,mid_educated,1,Refusal*
+16866,Female,22.0,9.0,1,mid_educated,1,Don't know*
+16867,Female,68.0,17.0,6,highly_educated,1,People's Party for Freedom and Democracy
+16868,Female,69.0,2.0,6,lower_educated,2,Not applicable*
+16869,Female,64.0,4.0,8,lower_educated,1,Socialist Party
+16870,Female,57.0,6.0,8,mid_educated,2,Not applicable*
+16871,Male,48.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16872,Male,23.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16873,Female,39.0,14.0,1,highly_educated,1,Labour Party
+16874,Female,69.0,3.0,6,lower_educated,1,Democrats '66
+16875,Female,43.0,14.0,1,highly_educated,1,Party for the Animals
+16876,Male,84.0,8.0,6,mid_educated,1,Labour Party
+16877,Male,74.0,3.0,6,lower_educated,2,Not applicable*
+16878,Male,66.0,16.0,1,highly_educated,1,Democrats '66
+16879,Female,27.0,9.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16880,Female,63.0,3.0,1,lower_educated,3,Not applicable*
+16881,Male,58.0,11.0,1,mid_educated,1,Refusal*
+16882,Male,59.0,17.0,1,highly_educated,1,Democrats '66
+16883,Male,56.0,14.0,1,highly_educated,1,Don't know*
+16884,Female,77.0,4.0,6,lower_educated,1,Christian Democratic Appeal
+16885,Female,34.0,16.0,1,highly_educated,1,Socialist Party
+16886,Male,62.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+16887,Male,52.0,14.0,1,highly_educated,1,Democrats '66
+16888,Female,70.0,2.0,6,lower_educated,1,Refusal*
+16889,Male,20.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16890,Male,65.0,10.0,1,mid_educated,1,Christian Union
+16891,Female,64.0,16.0,1,highly_educated,1,Forum for Democracy
+16892,Female,25.0,10.0,1,mid_educated,1,JA21
+16893,Female,82.0,4.0,6,lower_educated,1,Labour Party
+16894,Female,65.0,17.0,9,highly_educated,1,Democrats '66
+16895,Male,52.0,16.0,1,highly_educated,3,Not applicable*
+16896,Male,82.0,10.0,6,mid_educated,1,JA21
+16897,Male,23.0,15.0,2,highly_educated,1,Democrats '66
+16898,Male,37.0,10.0,1,mid_educated,2,Not applicable*
+16899,Female,22.0,12.0,2,highly_educated,2,Not applicable*
+16900,Female,72.0,14.0,6,highly_educated,2,Not applicable*
+16901,Female,71.0,16.0,6,highly_educated,1,Democrats '66
+16902,Male,24.0,14.0,1,highly_educated,1,Party for the Animals
+16903,Female,23.0,6.0,2,mid_educated,1,Democrats '66
+16904,Female,50.0,16.0,8,highly_educated,1,Labour Party
+16905,Female,47.0,4.0,3,lower_educated,1,Party for Freedom
+16906,Male,63.0,6.0,3,mid_educated,1,People's Party for Freedom and Democracy
+16907,Female,51.0,9.0,1,mid_educated,1,Democrats '66
+16908,Female,41.0,4.0,8,lower_educated,2,Not applicable*
+16909,Female,60.0,9.0,1,mid_educated,1,Green Left
+16910,Female,35.0,14.0,1,highly_educated,1,Don't know*
+16911,Female,60.0,4.0,1,lower_educated,1,Democrats '66
+16912,Male,38.0,18.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16913,Male,66.0,3.0,6,lower_educated,1,Labour Party
+16914,Male,40.0,6.0,1,mid_educated,1,Party for the Animals
+16915,Female,45.0,9.0,8,mid_educated,2,Not applicable*
+16916,Male,52.0,12.0,1,highly_educated,1,Green Left
+16917,Female,27.0,9.0,1,mid_educated,3,Not applicable*
+16918,Female,21.0,9.0,8,mid_educated,1,Don't know*
+16919,Male,54.0,7.0,1,mid_educated,1,Green Left
+16920,Male,53.0,3.0,1,lower_educated,1,Party for Freedom
+16921,Male,68.0,7.0,6,mid_educated,1,Volt
+16922,Male,76.0,3.0,6,lower_educated,1,Labour Party
+16923,Male,53.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16924,Male,43.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16925,Male,54.0,6.0,1,mid_educated,1,Christian Democratic Appeal
+16926,Female,66.0,11.0,8,mid_educated,2,Not applicable*
+16927,Female,60.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16928,Male,50.0,10.0,8,mid_educated,3,Not applicable*
+16929,Female,68.0,10.0,6,mid_educated,1,Party for Freedom
+16930,Male,76.0,14.0,8,highly_educated,1,Labour Party
+16931,Female,37.0,17.0,8,highly_educated,1,Democrats '66
+16932,Male,69.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+16933,Female,27.0,14.0,1,highly_educated,1,Don't know*
+16934,Female,85.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+16935,Female,35.0,17.0,1,highly_educated,1,Democrats '66
+16936,Female,16.0,9.0,2,mid_educated,3,Not applicable*
+16937,Female,69.0,9.0,1,mid_educated,2,Not applicable*
+16938,Male,38.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16939,Male,53.0,10.0,1,mid_educated,1,Christian Democratic Appeal
+16940,Male,45.0,15.0,1,highly_educated,1,Party for the Animals
+16941,Male,73.0,2.0,6,lower_educated,1,Christian Democratic Appeal
+16942,Female,79.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+16943,Female,57.0,14.0,8,highly_educated,1,Christian Democratic Appeal
+16944,Male,64.0,3.0,5,lower_educated,1,BoerBurgerBeweging
+16945,Male,43.0,4.0,1,lower_educated,1,People's Party for Freedom and Democracy
+16946,Male,20.0,7.0,2,mid_educated,1,Democrats '66
+16947,Male,42.0,14.0,1,highly_educated,1,Democrats '66
+16948,Female,50.0,9.0,5,mid_educated,2,Not applicable*
+16949,Male,26.0,7.0,2,mid_educated,1,No answer*
+16950,Female,37.0,1.0,1,lower_educated,1,People's Party for Freedom and Democracy
+16951,Male,65.0,13.0,1,highly_educated,1,Christian Union
+16952,Male,51.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16953,Male,33.0,4.0,1,lower_educated,1,Forum for Democracy
+16954,Male,24.0,14.0,2,highly_educated,2,Not applicable*
+16955,Male,17.0,4.0,1,lower_educated,3,Not applicable*
+16956,Female,73.0,4.0,6,lower_educated,1,Socialist Party
+16957,Male,83.0,4.0,6,lower_educated,1,Reformed Political Party
+16958,Female,58.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16959,Female,19.0,7.0,2,mid_educated,3,Not applicable*
+16960,Female,29.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16961,Female,19.0,7.0,2,mid_educated,3,Not applicable*
+16962,Male,36.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16963,Female,46.0,9.0,8,mid_educated,1,Christian Union
+16964,Male,32.0,4.0,1,lower_educated,2,Not applicable*
+16965,Female,52.0,11.0,1,mid_educated,1,People's Party for Freedom and Democracy
+16966,Male,19.0,5.0,1,lower_educated,3,Not applicable*
+16967,Male,18.0,4.0,2,lower_educated,3,Not applicable*
+16968,Female,33.0,9.0,1,mid_educated,1,Green Left
+16969,Male,83.0,16.0,6,highly_educated,1,No answer*
+16970,Female,29.0,14.0,8,highly_educated,2,Not applicable*
+16971,Female,74.0,3.0,6,lower_educated,1,Socialist Party
+16972,Male,66.0,14.0,1,highly_educated,1,Party for the Animals
+16973,Female,52.0,13.0,1,highly_educated,1,Democrats '66
+16974,Female,46.0,12.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16975,Male,22.0,9.0,2,mid_educated,1,Reformed Political Party
+16976,Male,51.0,10.0,1,mid_educated,1,Christian Union
+16977,Male,20.0,4.0,4,lower_educated,3,Not applicable*
+16978,Male,85.0,14.0,6,highly_educated,1,Refusal*
+16979,Female,34.0,10.0,1,mid_educated,1,Socialist Party
+16980,Male,64.0,10.0,1,mid_educated,1,BoerBurgerBeweging
+16981,Female,26.0,17.0,3,highly_educated,1,Green Left
+16982,Male,64.0,3.0,5,lower_educated,2,Not applicable*
+16983,Female,46.0,16.0,1,highly_educated,1,Democrats '66
+16984,Male,63.0,10.0,1,mid_educated,1,Green Left
+16985,Female,81.0,4.0,6,lower_educated,1,Christian Democratic Appeal
+16986,Female,25.0,12.0,2,highly_educated,1,Democrats '66
+16987,Male,63.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16988,Male,82.0,5.0,6,lower_educated,1,Democrats '66
+16989,Female,53.0,10.0,1,mid_educated,2,Not applicable*
+16990,Male,45.0,17.0,1,highly_educated,1,Democrats '66
+16991,Female,31.0,10.0,1,mid_educated,1,Labour Party
+16992,Female,76.0,17.0,6,highly_educated,1,Refusal*
+16993,Female,62.0,5.0,8,lower_educated,1,Christian Democratic Appeal
+16994,Male,20.0,2.0,1,lower_educated,1,Don't know*
+16995,Male,72.0,10.0,6,mid_educated,1,People's Party for Freedom and Democracy
+16996,Female,48.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+16997,Female,72.0,17.0,6,highly_educated,1,People's Party for Freedom and Democracy
+16998,Female,79.0,3.0,6,lower_educated,2,Not applicable*
+16999,Female,33.0,16.0,8,highly_educated,1,Green Left
+17000,Female,57.0,3.0,8,lower_educated,1,Party for Freedom
+17001,Female,43.0,5555.0,8,,2,Not applicable*
+17002,Male,52.0,10.0,1,mid_educated,1,Blanc
+17003,Male,67.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17004,Female,58.0,2.0,9,lower_educated,2,Not applicable*
+17005,Male,32.0,9.0,1,mid_educated,1,BoerBurgerBeweging
+17006,Male,27.0,3.0,1,lower_educated,1,Labour Party
+17007,Male,64.0,9.0,6,mid_educated,1,JA21
+17008,Male,68.0,3.0,6,lower_educated,1,BoerBurgerBeweging
+17009,Male,62.0,4.0,1,lower_educated,1,Democrats '66
+17010,Female,16.0,2.0,2,lower_educated,3,Not applicable*
+17011,Female,82.0,13.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17012,Female,28.0,16.0,1,highly_educated,1,Don't know*
+17013,Female,36.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17014,Male,54.0,10.0,1,mid_educated,1,JA21
+17015,Female,43.0,17.0,1,highly_educated,1,Democrats '66
+17016,Male,21.0,9.0,2,mid_educated,2,Not applicable*
+17017,Female,20.0,7.0,2,mid_educated,3,Not applicable*
+17018,Female,22.0,12.0,2,highly_educated,1,Green Left
+17019,Female,29.0,17.0,1,highly_educated,1,Party for the Animals
+17020,Male,70.0,17.0,8,highly_educated,1,Labour Party
+17021,Male,31.0,12.0,1,highly_educated,2,Not applicable*
+17022,Male,71.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17023,Female,17.0,1.0,2,lower_educated,3,Not applicable*
+17024,Male,43.0,17.0,1,highly_educated,2,Not applicable*
+17025,Male,68.0,10.0,6,mid_educated,1,Socialist Party
+17026,Female,34.0,10.0,1,mid_educated,1,Party for the Animals
+17027,Male,51.0,10.0,1,mid_educated,1,Party for Freedom
+17028,Male,66.0,17.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17029,Female,70.0,3.0,6,lower_educated,1,BoerBurgerBeweging
+17030,Male,71.0,17.0,6,highly_educated,1,Green Left
+17031,Male,15.0,2.0,2,lower_educated,3,Not applicable*
+17032,Female,48.0,15.0,1,highly_educated,1,Labour Party
+17033,Female,37.0,2.0,8,lower_educated,1,Christian Union
+17034,Female,79.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17035,Male,19.0,6.0,1,mid_educated,3,Not applicable*
+17036,Female,40.0,14.0,1,highly_educated,1,Democrats '66
+17037,Female,28.0,9.0,1,mid_educated,1,Forum for Democracy
+17038,Male,18.0,6.0,2,mid_educated,3,Not applicable*
+17039,Female,80.0,3.0,8,lower_educated,2,Not applicable*
+17040,Male,51.0,10.0,1,mid_educated,1,Green Left
+17041,Female,78.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17042,Male,52.0,2.0,5,lower_educated,1,Forum for Democracy
+17043,Male,51.0,17.0,1,highly_educated,1,Party for the Animals
+17044,Female,35.0,17.0,1,highly_educated,1,Democrats '66
+17045,Male,59.0,17.0,1,highly_educated,1,Democrats '66
+17046,Female,70.0,14.0,6,highly_educated,1,Democrats '66
+17047,Male,50.0,10.0,1,mid_educated,1,BoerBurgerBeweging
+17048,Male,44.0,14.0,1,highly_educated,1,Reformed Political Party
+17049,Female,19.0,4.0,1,lower_educated,3,Not applicable*
+17050,Male,59.0,13.0,1,highly_educated,1,Forum for Democracy
+17051,Female,61.0,11.0,5,mid_educated,2,Not applicable*
+17052,Male,41.0,9.0,1,mid_educated,1,Party for the Animals
+17053,Male,61.0,14.0,1,highly_educated,1,Christian Union
+17054,Female,34.0,13.0,1,highly_educated,1,Don't know*
+17055,Female,65.0,17.0,1,highly_educated,1,Democrats '66
+17056,Male,69.0,9.0,6,mid_educated,1,Party for the Animals
+17057,Male,68.0,3.0,6,lower_educated,1,Party for Freedom
+17058,Female,72.0,14.0,6,highly_educated,2,Not applicable*
+17059,Male,43.0,3.0,1,lower_educated,2,Not applicable*
+17060,Male,68.0,8.0,1,mid_educated,1,Party for Freedom
+17061,Female,33.0,17.0,1,highly_educated,1,Democrats '66
+17062,Female,36.0,14.0,1,highly_educated,3,Not applicable*
+17063,Male,20.0,9.0,1,mid_educated,2,Not applicable*
+17064,Male,51.0,14.0,1,highly_educated,1,Christian Union
+17065,Male,61.0,3.0,1,lower_educated,1,Socialist Party
+17066,Female,31.0,16.0,8,highly_educated,1,Green Left
+17067,Female,57.0,2.0,1,lower_educated,2,Not applicable*
+17068,Male,67.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17069,Male,46.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17070,Male,45.0,9.0,5,mid_educated,1,Socialist Party
+17071,Female,49.0,3.0,1,lower_educated,1,Christian Democratic Appeal
+17072,Male,53.0,12.0,1,highly_educated,1,50PLUS
+17073,Female,69.0,3.0,8,lower_educated,1,Labour Party
+17074,Female,31.0,11.0,8,mid_educated,1,DENK
+17075,Female,49.0,13.0,1,highly_educated,1,Democrats '66
+17076,Female,73.0,4.0,6,lower_educated,1,Democrats '66
+17077,Male,63.0,17.0,1,highly_educated,1,Volt
+17078,Male,70.0,18.0,9,highly_educated,1,Green Left
+17079,Female,32.0,17.0,1,highly_educated,1,Party for the Animals
+17080,Male,58.0,16.0,1,highly_educated,1,Democrats '66
+17081,Female,62.0,4.0,5,lower_educated,2,Not applicable*
+17082,Female,37.0,14.0,1,highly_educated,1,Christian Union
+17083,Male,76.0,13.0,6,highly_educated,1,Socialist Party
+17084,Male,83.0,9.0,8,mid_educated,1,Democrats '66
+17085,Female,70.0,17.0,6,highly_educated,3,Not applicable*
+17086,Male,39.0,6.0,1,mid_educated,1,Green Left
+17087,Female,66.0,14.0,6,highly_educated,1,Christian Democratic Appeal
+17088,Male,50.0,3.0,1,lower_educated,1,Party for Freedom
+17089,Male,26.0,9.0,1,mid_educated,2,Not applicable*
+17090,Male,59.0,9.0,1,mid_educated,1,Democrats '66
+17091,Female,56.0,3.0,8,lower_educated,1,Don't know*
+17092,Male,57.0,10.0,1,mid_educated,1,Volt
+17093,Male,42.0,16.0,1,highly_educated,2,Not applicable*
+17094,Male,78.0,3.0,8,lower_educated,1,Christian Democratic Appeal
+17095,Male,50.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17096,Male,25.0,10.0,1,mid_educated,1,Don't know*
+17097,Male,44.0,14.0,1,highly_educated,1,Reformed Political Party
+17098,Female,43.0,8.0,1,mid_educated,1,Democrats '66
+17099,Male,51.0,14.0,1,highly_educated,1,Refusal*
+17100,Female,61.0,4.0,8,lower_educated,1,Democrats '66
+17101,Male,88.0,2.0,6,lower_educated,1,Refusal*
+17102,Female,21.0,7.0,2,mid_educated,1,Democrats '66
+17103,Female,68.0,5.0,6,lower_educated,1,Christian Democratic Appeal
+17104,Female,41.0,16.0,1,highly_educated,1,Refusal*
+17105,Male,32.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17106,Male,42.0,14.0,1,highly_educated,1,Party for the Animals
+17107,Female,67.0,9.0,9,mid_educated,1,Christian Democratic Appeal
+17108,Male,56.0,3.0,1,lower_educated,1,Democrats '66
+17109,Male,36.0,7.0,1,mid_educated,1,Labour Party
+17110,Male,41.0,4.0,1,lower_educated,1,Party for the Animals
+17111,Male,73.0,17.0,8,highly_educated,1,Democrats '66
+17112,Male,45.0,17.0,1,highly_educated,1,Democrats '66
+17113,Female,60.0,14.0,1,highly_educated,1,Democrats '66
+17114,Male,65.0,16.0,9,highly_educated,1,Green Left
+17115,Male,66.0,10.0,6,mid_educated,1,People's Party for Freedom and Democracy
+17116,Female,65.0,3.0,5,lower_educated,1,Party for the Animals
+17117,Male,63.0,9.0,5,mid_educated,2,Not applicable*
+17118,Female,61.0,3.0,5,lower_educated,1,Party for the Animals
+17119,Male,53.0,4.0,1,lower_educated,1,Socialist Party
+17120,Male,44.0,17.0,1,highly_educated,1,Party for the Animals
+17121,Male,36.0,14.0,1,highly_educated,3,Not applicable*
+17122,Female,52.0,9.0,1,mid_educated,2,Not applicable*
+17123,Female,52.0,13.0,1,highly_educated,1,Don't know*
+17124,Female,36.0,14.0,1,highly_educated,1,Green Left
+17125,Female,47.0,5.0,1,lower_educated,2,Not applicable*
+17126,Male,82.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17127,Male,42.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17128,Female,84.0,2.0,6,lower_educated,1,Christian Union
+17129,Male,47.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17130,Male,26.0,14.0,3,highly_educated,2,Not applicable*
+17131,Male,86.0,7.0,6,mid_educated,1,People's Party for Freedom and Democracy
+17132,Female,41.0,17.0,8,highly_educated,1,People's Party for Freedom and Democracy
+17133,Female,65.0,16.0,1,highly_educated,1,Don't know*
+17134,Male,52.0,14.0,1,highly_educated,1,BoerBurgerBeweging
+17135,Female,36.0,9.0,8,mid_educated,1,Party for the Animals
+17136,Female,19.0,6.0,2,mid_educated,3,Not applicable*
+17137,Female,70.0,14.0,6,highly_educated,2,Not applicable*
+17138,Male,87.0,17.0,6,highly_educated,1,Christian Democratic Appeal
+17139,Male,51.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17140,Male,38.0,17.0,1,highly_educated,2,Not applicable*
+17141,Female,59.0,12.0,8,highly_educated,1,People's Party for Freedom and Democracy
+17142,Male,68.0,16.0,6,highly_educated,1,Green Left
+17143,Male,46.0,10.0,1,mid_educated,1,Party for the Animals
+17144,Male,17.0,2.0,1,lower_educated,3,Not applicable*
+17145,Female,77.0,3.0,6,lower_educated,1,Socialist Party
+17146,Female,43.0,14.0,1,highly_educated,1,Labour Party
+17147,Female,52.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17148,Male,23.0,10.0,1,mid_educated,1,Democrats '66
+17149,Female,54.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17150,Male,24.0,9.0,1,mid_educated,1,JA21
+17151,Female,57.0,16.0,1,highly_educated,1,Christian Union
+17152,Male,35.0,14.0,1,highly_educated,2,Not applicable*
+17153,Female,57.0,4.0,8,lower_educated,1,Party for the Animals
+17154,Female,72.0,17.0,8,highly_educated,1,Democrats '66
+17155,Female,35.0,9.0,1,mid_educated,1,Christian Democratic Appeal
+17156,Male,72.0,8.0,1,mid_educated,1,50PLUS
+17157,Female,29.0,17.0,1,highly_educated,1,Democrats '66
+17158,Male,37.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17159,Male,58.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17160,Male,68.0,4.0,6,lower_educated,1,Labour Party
+17161,Male,16.0,2.0,1,lower_educated,3,Not applicable*
+17162,Male,54.0,10.0,1,mid_educated,1,Christian Union
+17163,Female,15.0,2.0,2,lower_educated,3,Not applicable*
+17164,Male,64.0,17.0,1,highly_educated,1,Democrats '66
+17165,Female,16.0,2.0,2,lower_educated,3,Not applicable*
+17166,Female,64.0,2.0,8,lower_educated,1,Party for the Animals
+17167,Male,34.0,14.0,1,highly_educated,1,Party for the Animals
+17168,Female,41.0,14.0,8,highly_educated,1,People's Party for Freedom and Democracy
+17169,Female,50.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17170,Female,70.0,3.0,6,lower_educated,1,JA21
+17171,Male,71.0,7.0,6,mid_educated,1,Democrats '66
+17172,Male,50.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17173,Female,38.0,10.0,8,mid_educated,2,Not applicable*
+17174,Male,62.0,14.0,1,highly_educated,1,Volt
+17175,Female,25.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17176,Female,28.0,14.0,1,highly_educated,1,Socialist Party
+17177,Male,69.0,9.0,6,mid_educated,1,People's Party for Freedom and Democracy
+17178,Female,64.0,5555.0,6,,1,Party for Freedom
+17179,Male,70.0,10.0,6,mid_educated,1,People's Party for Freedom and Democracy
+17180,Female,43.0,14.0,1,highly_educated,1,Green Left
+17181,Male,72.0,14.0,6,highly_educated,1,Refusal*
+17182,Male,57.0,16.0,1,highly_educated,1,Democrats '66
+17183,Male,16.0,2.0,2,lower_educated,3,Not applicable*
+17184,Male,51.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17185,Male,39.0,2.0,5,lower_educated,1,Don't know*
+17186,Female,33.0,14.0,8,highly_educated,1,Democrats '66
+17187,Female,35.0,14.0,1,highly_educated,1,Green Left
+17188,Female,19.0,4.0,1,lower_educated,3,Not applicable*
+17189,Male,67.0,14.0,8,highly_educated,1,Christian Union
+17190,Male,33.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17191,Female,66.0,14.0,1,highly_educated,1,Reformed Political Party
+17192,Male,69.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17193,Female,42.0,3.0,1,lower_educated,1,DENK
+17194,Male,30.0,10.0,1,mid_educated,1,Party for Freedom
+17195,Female,65.0,10.0,5,mid_educated,2,Not applicable*
+17196,Male,33.0,14.0,1,highly_educated,1,No answer*
+17197,Female,32.0,10.0,8,mid_educated,1,Reformed Political Party
+17198,Female,26.0,17.0,1,highly_educated,3,Not applicable*
+17199,Female,66.0,16.0,6,highly_educated,1,BoerBurgerBeweging
+17200,Male,64.0,17.0,1,highly_educated,1,Democrats '66
+17201,Female,67.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17202,Male,66.0,3.0,6,lower_educated,2,Not applicable*
+17203,Female,56.0,3.0,1,lower_educated,1,Labour Party
+17204,Female,57.0,17.0,1,highly_educated,1,Green Left
+17205,Female,32.0,9.0,1,mid_educated,1,Labour Party
+17206,Female,68.0,3.0,8,lower_educated,1,Party for Freedom
+17207,Female,88.0,7.0,8,mid_educated,1,Reformed Political Party
+17208,Male,37.0,4.0,1,lower_educated,1,Reformed Political Party
+17209,Male,44.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17210,Male,28.0,17.0,1,highly_educated,1,Refusal*
+17211,Female,68.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17212,Female,39.0,16.0,1,highly_educated,1,Labour Party
+17213,Female,50.0,11.0,1,mid_educated,1,Green Left
+17214,Male,47.0,17.0,1,highly_educated,1,Christian Democratic Appeal
+17215,Male,75.0,13.0,6,highly_educated,1,Christian Democratic Appeal
+17216,Male,51.0,17.0,1,highly_educated,1,Christian Union
+17217,Female,30.0,10.0,8,mid_educated,1,Don't know*
+17218,Male,83.0,7.0,6,mid_educated,1,Christian Democratic Appeal
+17219,Male,74.0,5.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17220,Female,85.0,2.0,6,lower_educated,2,Not applicable*
+17221,Male,33.0,10.0,1,mid_educated,2,Not applicable*
+17222,Female,24.0,7.0,1,mid_educated,1,Party for the Animals
+17223,Male,52.0,16.0,1,highly_educated,1,Democrats '66
+17224,Female,55.0,3.0,1,lower_educated,2,Not applicable*
+17225,Female,34.0,17.0,8,highly_educated,1,People's Party for Freedom and Democracy
+17226,Female,49.0,14.0,1,highly_educated,3,Not applicable*
+17227,Female,38.0,16.0,1,highly_educated,1,Green Left
+17228,Male,34.0,17.0,1,highly_educated,1,Other
+17229,Female,77.0,18.0,6,highly_educated,1,Democrats '66
+17230,Female,44.0,1.0,3,lower_educated,1,People's Party for Freedom and Democracy
+17231,Female,85.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+17232,Male,37.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17233,Male,49.0,10.0,1,mid_educated,1,Green Left
+17234,Female,33.0,17.0,1,highly_educated,1,Democrats '66
+17235,Male,60.0,16.0,8,highly_educated,1,Democrats '66
+17236,Male,51.0,13.0,1,highly_educated,1,Christian Democratic Appeal
+17237,Male,32.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17238,Male,19.0,4.0,2,lower_educated,1,Forum for Democracy
+17239,Male,40.0,16.0,1,highly_educated,1,BoerBurgerBeweging
+17240,Male,48.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17241,Male,65.0,7.0,1,mid_educated,3,Not applicable*
+17242,Female,20.0,10.0,1,mid_educated,3,Not applicable*
+17243,Female,63.0,13.0,3,highly_educated,1,50PLUS
+17244,Female,63.0,4.0,8,lower_educated,1,Democrats '66
+17245,Female,70.0,2.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17246,Female,36.0,17.0,8,highly_educated,1,Democrats '66
+17247,Female,38.0,17.0,1,highly_educated,1,Don't know*
+17248,Male,20.0,7.0,1,mid_educated,1,Party for the Animals
+17249,Female,73.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17250,Female,69.0,3.0,6,lower_educated,1,Socialist Party
+17251,Male,63.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17252,Male,34.0,9.0,1,mid_educated,2,Not applicable*
+17253,Male,70.0,5555.0,6,,1,Labour Party
+17254,Female,16.0,2.0,2,lower_educated,3,Not applicable*
+17255,Female,42.0,13.0,1,highly_educated,1,Party for the Animals
+17256,Male,61.0,10.0,5,mid_educated,1,People's Party for Freedom and Democracy
+17257,Female,63.0,14.0,1,highly_educated,1,Democrats '66
+17258,Female,20.0,6.0,1,mid_educated,3,Not applicable*
+17259,Female,66.0,13.0,1,highly_educated,1,Green Left
+17260,Male,18.0,6.0,2,mid_educated,3,Not applicable*
+17261,Male,61.0,4.0,1,lower_educated,1,Party for Freedom
+17262,Female,63.0,11.0,1,mid_educated,1,Democrats '66
+17263,Female,23.0,10.0,1,mid_educated,8,Not applicable*
+17264,Female,25.0,6.0,8,mid_educated,1,Labour Party
+17265,Female,54.0,6.0,1,mid_educated,1,Party for the Animals
+17266,Male,35.0,10.0,1,mid_educated,2,Not applicable*
+17267,Male,56.0,10.0,1,mid_educated,1,Green Left
+17268,Male,26.0,7.0,2,mid_educated,1,Green Left
+17269,Male,53.0,3.0,1,lower_educated,2,Not applicable*
+17270,Male,28.0,10.0,1,mid_educated,2,Not applicable*
+17271,Female,49.0,10.0,1,mid_educated,1,Party for the Animals
+17272,Female,82.0,2.0,6,lower_educated,2,Not applicable*
+17273,Female,56.0,2.0,5,lower_educated,2,Not applicable*
+17274,Female,60.0,4.0,8,lower_educated,1,People's Party for Freedom and Democracy
+17275,Female,44.0,9.0,8,mid_educated,1,Labour Party
+17276,Male,75.0,3.0,6,lower_educated,1,BoerBurgerBeweging
+17277,Male,19.0,7.0,2,mid_educated,3,Not applicable*
+17278,Female,55.0,10.0,8,mid_educated,1,BoerBurgerBeweging
+17279,Male,41.0,3.0,1,lower_educated,1,Christian Democratic Appeal
+17280,Male,20.0,10.0,2,mid_educated,2,Not applicable*
+17281,Male,40.0,18.0,1,highly_educated,1,Green Left
+17282,Male,16.0,2.0,2,lower_educated,3,Not applicable*
+17283,Female,79.0,14.0,6,highly_educated,1,Volt
+17284,Male,31.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+17285,Male,16.0,2.0,2,lower_educated,3,Not applicable*
+17286,Female,70.0,4.0,6,lower_educated,1,Green Left
+17287,Female,50.0,9.0,1,mid_educated,2,Not applicable*
+17288,Male,75.0,9.0,6,mid_educated,1,Christian Democratic Appeal
+17289,Female,24.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+17290,Female,41.0,9.0,8,mid_educated,3,Not applicable*
+17291,Female,30.0,10.0,8,mid_educated,1,Reformed Political Party
+17292,Male,57.0,8.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17293,Female,65.0,10.0,6,mid_educated,1,People's Party for Freedom and Democracy
+17294,Female,62.0,9.0,1,mid_educated,1,Christian Union
+17295,Male,16.0,2.0,2,lower_educated,3,Not applicable*
+17296,Female,38.0,16.0,1,highly_educated,1,Labour Party
+17297,Male,52.0,3.0,1,lower_educated,2,Not applicable*
+17298,Male,69.0,3.0,1,lower_educated,1,People's Party for Freedom and Democracy
+17299,Female,71.0,2.0,6,lower_educated,3,Not applicable*
+17300,Female,65.0,6.0,6,mid_educated,1,Democrats '66
+17301,Female,58.0,17.0,1,highly_educated,1,Don't know*
+17302,Female,46.0,4.0,1,lower_educated,1,Labour Party
+17303,Male,29.0,5555.0,1,,1,Party for the Animals
+17304,Female,47.0,16.0,8,highly_educated,1,Volt
+17305,Male,76.0,13.0,6,highly_educated,1,Democrats '66
+17306,Male,62.0,10.0,6,mid_educated,1,BoerBurgerBeweging
+17307,Male,25.0,15.0,1,highly_educated,1,Green Left
+17308,Female,46.0,10.0,1,mid_educated,1,BoerBurgerBeweging
+17309,Male,82.0,17.0,6,highly_educated,1,Democrats '66
+17310,Male,51.0,14.0,1,highly_educated,1,Democrats '66
+17311,Female,40.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17312,Male,18.0,1.0,2,lower_educated,3,Not applicable*
+17313,Male,64.0,3.0,1,lower_educated,1,Labour Party
+17314,Male,59.0,17.0,1,highly_educated,1,Party for the Animals
+17315,Male,50.0,5555.0,9,,2,Not applicable*
+17316,Female,42.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17317,Female,60.0,16.0,1,highly_educated,1,Green Left
+17318,Male,66.0,4.0,8,lower_educated,2,Not applicable*
+17319,Male,39.0,16.0,1,highly_educated,1,Don't know*
+17320,Female,73.0,9.0,6,mid_educated,1,Green Left
+17321,Female,23.0,10.0,1,mid_educated,1,Green Left
+17322,Male,60.0,16.0,5,highly_educated,1,Green Left
+17323,Male,75.0,5.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17324,Male,69.0,3.0,6,lower_educated,1,Socialist Party
+17325,Female,43.0,17.0,1,highly_educated,1,Democrats '66
+17326,Female,74.0,3.0,8,lower_educated,1,Christian Democratic Appeal
+17327,Male,58.0,16.0,1,highly_educated,1,Green Left
+17328,Male,74.0,14.0,6,highly_educated,1,Reformed Political Party
+17329,Female,47.0,15.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17330,Female,67.0,5555.0,1,,2,Not applicable*
+17331,Male,68.0,2.0,6,lower_educated,1,Don't know*
+17332,Male,69.0,3.0,6,lower_educated,1,BoerBurgerBeweging
+17333,Male,57.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17334,Male,89.0,14.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17335,Male,46.0,16.0,1,highly_educated,1,Christian Union
+17336,Male,18.0,4.0,2,lower_educated,3,Not applicable*
+17337,Female,49.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17338,Male,18.0,9.0,1,mid_educated,3,Not applicable*
+17339,Female,68.0,4.0,8,lower_educated,1,Don't know*
+17340,Male,62.0,8.0,1,mid_educated,2,Not applicable*
+17341,Female,52.0,16.0,1,highly_educated,1,Christian Union
+17342,Male,25.0,17.0,2,highly_educated,1,People's Party for Freedom and Democracy
+17343,Female,59.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17344,Female,41.0,17.0,8,highly_educated,1,Party for the Animals
+17345,Female,19.0,4.0,1,lower_educated,1,People's Party for Freedom and Democracy
+17346,Female,42.0,5.0,5,lower_educated,2,Not applicable*
+17347,Female,61.0,10.0,1,mid_educated,1,Christian Democratic Appeal
+17348,Male,50.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17349,Female,55.0,10.0,1,mid_educated,1,Don't know*
+17350,Male,48.0,3.0,1,lower_educated,1,Labour Party
+17351,Male,38.0,3.0,1,lower_educated,2,Not applicable*
+17352,Female,66.0,9.0,8,mid_educated,1,Christian Union
+17353,Female,39.0,14.0,1,highly_educated,1,Democrats '66
+17354,Female,62.0,3.0,5,lower_educated,1,Socialist Party
+17355,Female,64.0,4.0,1,lower_educated,1,Christian Union
+17356,Male,40.0,16.0,1,highly_educated,1,Democrats '66
+17357,Male,42.0,4.0,4,lower_educated,1,Christian Democratic Appeal
+17358,Female,69.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17359,Female,59.0,10.0,5,mid_educated,1,Socialist Party
+17360,Female,18.0,6.0,2,mid_educated,3,Not applicable*
+17361,Male,86.0,2.0,6,lower_educated,1,50PLUS
+17362,Female,64.0,14.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17363,Male,23.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17364,Male,52.0,16.0,1,highly_educated,1,Democrats '66
+17365,Female,42.0,5.0,8,lower_educated,2,Not applicable*
+17366,Male,53.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17367,Female,62.0,3.0,1,lower_educated,1,BoerBurgerBeweging
+17368,Male,56.0,1.0,5,lower_educated,2,Not applicable*
+17369,Male,53.0,10.0,1,mid_educated,1,Christian Democratic Appeal
+17370,Male,30.0,17.0,3,highly_educated,1,Don't know*
+17371,Male,77.0,16.0,6,highly_educated,1,Reformed Political Party
+17372,Male,55.0,14.0,1,highly_educated,1,Socialist Party
+17373,Male,16.0,4.0,1,lower_educated,3,Not applicable*
+17374,Male,17.0,6.0,2,mid_educated,3,Not applicable*
+17375,Female,25.0,10.0,1,mid_educated,1,Democrats '66
+17376,Male,76.0,14.0,6,highly_educated,1,Christian Union
+17377,Male,85.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+17378,Female,17.0,2.0,2,lower_educated,2,Not applicable*
+17379,Male,19.0,6.0,2,mid_educated,3,Not applicable*
+17380,Male,50.0,15.0,3,highly_educated,3,Not applicable*
+17381,Female,78.0,17.0,6,highly_educated,1,Christian Democratic Appeal
+17382,Male,37.0,8888.0,1,,3,Not applicable*
+17383,Male,70.0,10.0,1,mid_educated,1,Democrats '66
+17384,Female,39.0,10.0,5,mid_educated,1,Party for the Animals
+17385,Female,62.0,6.0,5,mid_educated,1,JA21
+17386,Male,75.0,6.0,6,mid_educated,1,Democrats '66
+17387,Female,22.0,12.0,2,highly_educated,1,Christian Union
+17388,Female,66.0,4.0,6,lower_educated,2,Not applicable*
+17389,Female,69.0,4.0,6,lower_educated,2,Not applicable*
+17390,Male,43.0,16.0,1,highly_educated,1,Democrats '66
+17391,Male,72.0,10.0,6,mid_educated,1,Don't know*
+17392,Male,27.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17393,Male,79.0,14.0,6,highly_educated,1,Green Left
+17394,Male,32.0,4.0,1,lower_educated,1,Reformed Political Party
+17395,Female,48.0,3.0,5,lower_educated,2,Not applicable*
+17396,Female,33.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17397,Female,30.0,10.0,4,mid_educated,1,People's Party for Freedom and Democracy
+17398,Male,51.0,10.0,1,mid_educated,1,Don't know*
+17399,Male,75.0,13.0,6,highly_educated,1,Party for Freedom
+17400,Male,51.0,16.0,1,highly_educated,1,Democrats '66
+17401,Male,35.0,16.0,1,highly_educated,2,Not applicable*
+17402,Male,38.0,10.0,1,mid_educated,1,Green Left
+17403,Female,68.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17404,Male,83.0,10.0,6,mid_educated,1,People's Party for Freedom and Democracy
+17405,Female,53.0,10.0,1,mid_educated,1,Party for the Animals
+17406,Male,19.0,6.0,1,mid_educated,3,Not applicable*
+17407,Female,82.0,3.0,6,lower_educated,1,Christian Union
+17408,Male,83.0,2.0,6,lower_educated,2,Not applicable*
+17409,Female,70.0,13.0,6,highly_educated,1,Democrats '66
+17410,Male,59.0,10.0,1,mid_educated,1,BoerBurgerBeweging
+17411,Male,38.0,17.0,1,highly_educated,1,Green Left
+17412,Female,57.0,6.0,1,mid_educated,7,Not applicable*
+17413,Male,59.0,9.0,1,mid_educated,1,Democrats '66
+17414,Female,37.0,10.0,1,mid_educated,2,Not applicable*
+17415,Female,33.0,14.0,1,highly_educated,1,Don't know*
+17416,Male,,8.0,1,mid_educated,2,Not applicable*
+17417,Female,40.0,3.0,1,lower_educated,2,Not applicable*
+17418,Male,28.0,17.0,1,highly_educated,1,Democrats '66
+17419,Male,19.0,6.0,1,mid_educated,2,Not applicable*
+17420,Male,60.0,10.0,1,mid_educated,2,Not applicable*
+17421,Female,63.0,9.0,1,mid_educated,2,Not applicable*
+17422,Female,71.0,17.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17423,Male,69.0,16.0,6,highly_educated,1,Reformed Political Party
+17424,Male,20.0,4.0,2,lower_educated,1,Green Left
+17425,Female,71.0,4.0,6,lower_educated,1,Green Left
+17426,Male,66.0,16.0,9,highly_educated,1,Christian Union
+17427,Male,66.0,16.0,1,highly_educated,1,Green Left
+17428,Male,79.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17429,Female,67.0,3.0,8,lower_educated,1,Christian Union
+17430,Female,43.0,5.0,1,lower_educated,1,BoerBurgerBeweging
+17431,Male,28.0,10.0,4,mid_educated,1,Forum for Democracy
+17432,Male,27.0,14.0,1,highly_educated,1,Democrats '66
+17433,Male,21.0,7.0,2,mid_educated,1,Democrats '66
+17434,Male,34.0,14.0,1,highly_educated,1,Christian Democratic Appeal
+17435,Female,39.0,17.0,8,highly_educated,1,Democrats '66
+17436,Female,69.0,9.0,6,mid_educated,1,Green Left
+17437,Female,65.0,9.0,1,mid_educated,1,Christian Democratic Appeal
+17438,Male,60.0,16.0,1,highly_educated,1,Don't know*
+17439,Female,32.0,14.0,8,highly_educated,1,Reformed Political Party
+17440,Male,24.0,15.0,1,highly_educated,3,Not applicable*
+17441,Male,36.0,10.0,1,mid_educated,1,Party for the Animals
+17442,Male,56.0,10.0,5,mid_educated,1,Labour Party
+17443,Male,51.0,10.0,1,mid_educated,1,BoerBurgerBeweging
+17444,Male,49.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17445,Male,26.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17446,Male,40.0,9.0,5,mid_educated,1,Party for Freedom
+17447,Male,37.0,14.0,1,highly_educated,1,Democrats '66
+17448,Male,52.0,16.0,1,highly_educated,1,Socialist Party
+17449,Male,53.0,13.0,1,highly_educated,1,Party for Freedom
+17450,Male,57.0,14.0,1,highly_educated,1,Democrats '66
+17451,Female,63.0,3.0,5,lower_educated,1,Forum for Democracy
+17452,Female,24.0,10.0,1,mid_educated,1,Christian Democratic Appeal
+17453,Male,46.0,5.0,1,lower_educated,1,Party for Freedom
+17454,Male,68.0,3.0,6,lower_educated,1,Party for Freedom
+17455,Female,57.0,10.0,8,mid_educated,1,Christian Union
+17456,Male,31.0,10.0,1,mid_educated,1,Party for the Animals
+17457,Male,19.0,4.0,1,lower_educated,3,Not applicable*
+17458,Male,67.0,16.0,6,highly_educated,1,Don't know*
+17459,Male,19.0,10.0,1,mid_educated,3,Not applicable*
+17460,Female,54.0,3.0,1,lower_educated,1,Socialist Party
+17461,Female,81.0,4.0,6,lower_educated,1,Christian Union
+17462,Male,63.0,16.0,1,highly_educated,1,Reformed Political Party
+17463,Male,61.0,6.0,1,mid_educated,1,Democrats '66
+17464,Male,62.0,8.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17465,Male,42.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17466,Male,59.0,12.0,1,highly_educated,1,Socialist Party
+17467,Male,73.0,4.0,6,lower_educated,1,Green Left
+17468,Female,72.0,3.0,6,lower_educated,1,Labour Party
+17469,Female,75.0,14.0,6,highly_educated,1,Labour Party
+17470,Female,42.0,17.0,1,highly_educated,1,Labour Party
+17471,Female,38.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+17472,Male,18.0,7.0,2,mid_educated,3,Not applicable*
+17473,Female,24.0,10.0,2,mid_educated,1,Democrats '66
+17474,Male,71.0,14.0,8,highly_educated,1,Green Left
+17475,Male,23.0,10.0,1,mid_educated,2,Not applicable*
+17476,Female,74.0,13.0,8,highly_educated,1,Christian Democratic Appeal
+17477,Male,76.0,10.0,6,mid_educated,1,Don't know*
+17478,Male,67.0,6.0,6,mid_educated,1,Party for the Animals
+17479,Male,48.0,9.0,1,mid_educated,1,Forum for Democracy
+17480,Female,57.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17481,Male,35.0,10.0,1,mid_educated,1,Party for Freedom
+17482,Female,17.0,4.0,2,lower_educated,3,Not applicable*
+17483,Female,19.0,7.0,2,mid_educated,3,Not applicable*
+17484,Male,75.0,14.0,6,highly_educated,1,Democrats '66
+17485,Female,23.0,10.0,3,mid_educated,1,Party for Freedom
+17486,Male,18.0,5.0,2,lower_educated,3,Not applicable*
+17487,Male,79.0,10.0,6,mid_educated,1,People's Party for Freedom and Democracy
+17488,Male,23.0,4.0,1,lower_educated,2,Not applicable*
+17489,Female,29.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17490,Female,33.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17491,Female,55.0,17.0,1,highly_educated,1,Christian Democratic Appeal
+17492,Female,60.0,14.0,1,highly_educated,1,Democrats '66
+17493,Male,38.0,10.0,1,mid_educated,1,Forum for Democracy
+17494,Male,62.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+17495,Female,25.0,15.0,1,highly_educated,1,Green Left
+17496,Female,40.0,10.0,1,mid_educated,8,Not applicable*
+17497,Female,57.0,14.0,1,highly_educated,1,Democrats '66
+17498,Female,74.0,3.0,6,lower_educated,1,Don't know*
+17499,Female,58.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17500,Male,75.0,16.0,6,highly_educated,1,Christian Union
+17501,Male,72.0,6.0,6,mid_educated,1,Refusal*
+17502,Female,37.0,17.0,1,highly_educated,1,Democrats '66
+17503,Female,17.0,3.0,2,lower_educated,3,Not applicable*
+17504,Female,76.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+17505,Male,16.0,2.0,8,lower_educated,3,Not applicable*
+17506,Male,39.0,2.0,1,lower_educated,1,Party for Freedom
+17507,Male,32.0,14.0,8,highly_educated,1,Party for Freedom
+17508,Female,22.0,6.0,1,mid_educated,1,Democrats '66
+17509,Female,49.0,4.0,1,lower_educated,3,Not applicable*
+17510,Female,70.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17511,Male,76.0,14.0,6,highly_educated,1,Labour Party
+17512,Female,62.0,8.0,1,mid_educated,1,Don't know*
+17513,Male,64.0,4.0,1,lower_educated,1,People's Party for Freedom and Democracy
+17514,Female,49.0,7.0,1,mid_educated,2,Not applicable*
+17515,Female,84.0,3.0,6,lower_educated,1,Socialist Party
+17516,Female,53.0,9.0,1,mid_educated,1,Socialist Party
+17517,Female,43.0,4.0,5,lower_educated,2,Not applicable*
+17518,Female,41.0,14.0,1,highly_educated,3,Not applicable*
+17519,Female,38.0,16.0,8,highly_educated,1,Volt
+17520,Female,37.0,16.0,1,highly_educated,1,Green Left
+17521,Female,69.0,4.0,8,lower_educated,1,People's Party for Freedom and Democracy
+17522,Female,41.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17523,Female,18.0,2.0,2,lower_educated,2,Not applicable*
+17524,Female,61.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+17525,Male,80.0,15.0,6,highly_educated,1,Reformed Political Party
+17526,Male,49.0,16.0,1,highly_educated,3,Not applicable*
+17527,Female,53.0,8.0,1,mid_educated,2,Not applicable*
+17528,Male,52.0,9.0,1,mid_educated,1,Don't know*
+17529,Female,35.0,15.0,1,highly_educated,3,Not applicable*
+17530,Male,46.0,9.0,1,mid_educated,2,Not applicable*
+17531,Male,58.0,10.0,1,mid_educated,1,Democrats '66
+17532,Female,81.0,14.0,6,highly_educated,1,Christian Democratic Appeal
+17533,Male,41.0,9.0,1,mid_educated,1,Don't know*
+17534,Female,77.0,9.0,6,mid_educated,1,Christian Democratic Appeal
+17535,Male,81.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+17536,Female,56.0,10.0,1,mid_educated,1,Socialist Party
+17537,Female,66.0,17.0,1,highly_educated,1,BoerBurgerBeweging
+17538,Female,64.0,17.0,1,highly_educated,1,Volt
+17539,Female,35.0,9.0,1,mid_educated,1,Party for Freedom
+17540,Male,43.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17541,Female,21.0,9.0,1,mid_educated,1,JA21
+17542,Male,71.0,4.0,6,lower_educated,1,Socialist Party
+17543,Male,41.0,16.0,1,highly_educated,1,Other
+17544,Female,56.0,15.0,1,highly_educated,1,Democrats '66
+17545,Female,48.0,13.0,1,highly_educated,1,Party for the Animals
+17546,Female,53.0,4.0,1,lower_educated,1,Party for Freedom
+17547,Female,17.0,2.0,2,lower_educated,3,Not applicable*
+17548,Male,20.0,9.0,1,mid_educated,3,Not applicable*
+17549,Male,40.0,16.0,5,highly_educated,1,Other
+17550,Male,63.0,2.0,1,lower_educated,1,DENK
+17551,Female,49.0,16.0,1,highly_educated,1,Labour Party
+17552,Male,16.0,2.0,2,lower_educated,3,Not applicable*
+17553,Male,65.0,17.0,1,highly_educated,1,Democrats '66
+17554,Female,50.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17555,Male,54.0,6.0,1,mid_educated,1,Christian Democratic Appeal
+17556,Female,45.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17557,Female,41.0,10.0,1,mid_educated,1,Labour Party
+17558,Male,40.0,14.0,1,highly_educated,1,Party for the Animals
+17559,Male,55.0,11.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17560,Male,22.0,10.0,1,mid_educated,2,Not applicable*
+17561,Female,39.0,14.0,1,highly_educated,1,Labour Party
+17562,Female,59.0,17.0,1,highly_educated,1,Labour Party
+17563,Female,29.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17564,Male,38.0,16.0,1,highly_educated,1,Christian Union
+17565,Male,56.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17566,Female,18.0,6.0,2,mid_educated,3,Not applicable*
+17567,Male,55.0,17.0,3,highly_educated,2,Not applicable*
+17568,Female,17.0,4.0,2,lower_educated,3,Not applicable*
+17569,Female,44.0,9.0,1,mid_educated,1,Christian Union
+17570,Male,63.0,17.0,1,highly_educated,1,Labour Party
+17571,Male,73.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17572,Female,86.0,3.0,8,lower_educated,8,Not applicable*
+17573,Female,24.0,15.0,4,highly_educated,1,Volt
+17574,Male,37.0,17.0,4,highly_educated,1,Democrats '66
+17575,Male,69.0,10.0,6,mid_educated,1,Labour Party
+17576,Female,27.0,17.0,1,highly_educated,1,Green Left
+17577,Female,55.0,3.0,1,lower_educated,1,People's Party for Freedom and Democracy
+17578,Male,53.0,3.0,1,lower_educated,1,Christian Union
+17579,Male,46.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17580,Male,63.0,3.0,1,lower_educated,1,People's Party for Freedom and Democracy
+17581,Female,41.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17582,Female,75.0,3.0,6,lower_educated,2,Not applicable*
+17583,Female,28.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17584,Male,79.0,2.0,6,lower_educated,2,Not applicable*
+17585,Male,16.0,1.0,9,lower_educated,2,Not applicable*
+17586,Female,65.0,14.0,1,highly_educated,1,Labour Party
+17587,Female,21.0,6.0,2,mid_educated,1,Party for Freedom
+17588,Male,61.0,3.0,1,lower_educated,2,Not applicable*
+17589,Female,61.0,10.0,1,mid_educated,2,Not applicable*
+17590,Female,26.0,16.0,1,highly_educated,1,Democrats '66
+17591,Male,28.0,14.0,1,highly_educated,1,Reformed Political Party
+17592,Female,75.0,9.0,8,mid_educated,1,People's Party for Freedom and Democracy
+17593,Female,49.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17594,Female,36.0,9.0,5,mid_educated,1,People's Party for Freedom and Democracy
+17595,Female,52.0,10.0,1,mid_educated,1,Forum for Democracy
+17596,Male,75.0,4.0,6,lower_educated,1,Democrats '66
+17597,Female,57.0,14.0,1,highly_educated,1,Don't know*
+17598,Female,16.0,2.0,2,lower_educated,3,Not applicable*
+17599,Female,39.0,16.0,1,highly_educated,2,Not applicable*
+17600,Female,39.0,17.0,1,highly_educated,1,Green Left
+17601,Female,66.0,3.0,1,lower_educated,1,Socialist Party
+17602,Male,66.0,14.0,1,highly_educated,1,Labour Party
+17603,Male,59.0,3.0,5,lower_educated,1,Party for Freedom
+17604,Male,71.0,5555.0,6,,1,Green Left
+17605,Male,58.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17606,Female,35.0,14.0,1,highly_educated,2,Not applicable*
+17607,Female,43.0,14.0,8,highly_educated,1,Christian Democratic Appeal
+17608,Male,57.0,16.0,1,highly_educated,1,Party for Freedom
+17609,Male,16.0,2.0,2,lower_educated,3,Not applicable*
+17610,Female,20.0,7.0,2,mid_educated,3,Not applicable*
+17611,Female,46.0,10.0,1,mid_educated,1,Democrats '66
+17612,Female,22.0,10.0,2,mid_educated,1,People's Party for Freedom and Democracy
+17613,Male,69.0,17.0,6,highly_educated,1,Democrats '66
+17614,Female,77.0,13.0,6,highly_educated,1,Democrats '66
+17615,Male,71.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17616,Male,27.0,9.0,1,mid_educated,2,Not applicable*
+17617,Male,40.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17618,Male,75.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17619,Female,60.0,17.0,1,highly_educated,1,Labour Party
+17620,Male,43.0,15.0,1,highly_educated,3,Not applicable*
+17621,Female,51.0,13.0,1,highly_educated,1,Green Left
+17622,Male,56.0,16.0,1,highly_educated,1,Democrats '66
+17623,Male,64.0,16.0,1,highly_educated,2,Not applicable*
+17624,Male,35.0,14.0,1,highly_educated,1,Democrats '66
+17625,Male,42.0,18.0,1,highly_educated,1,Labour Party
+17626,Female,25.0,10.0,1,mid_educated,1,Labour Party
+17627,Female,33.0,10.0,1,mid_educated,1,Forum for Democracy
+17628,Male,34.0,10.0,1,mid_educated,1,Democrats '66
+17629,Female,79.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17630,Female,31.0,17.0,1,highly_educated,1,Party for the Animals
+17631,Male,25.0,15.0,2,highly_educated,1,Socialist Party
+17632,Female,51.0,3.0,5,lower_educated,8,Not applicable*
+17633,Male,26.0,17.0,1,highly_educated,1,Volt
+17634,Female,32.0,16.0,8,highly_educated,1,Christian Union
+17635,Female,16.0,2.0,2,lower_educated,3,Not applicable*
+17636,Female,30.0,9.0,8,mid_educated,1,Forum for Democracy
+17637,Male,68.0,3.0,1,lower_educated,1,People's Party for Freedom and Democracy
+17638,Female,81.0,14.0,8,highly_educated,1,Party for the Animals
+17639,Male,40.0,10.0,1,mid_educated,1,Green Left
+17640,Male,52.0,17.0,1,highly_educated,1,Volt
+17641,Male,44.0,17.0,1,highly_educated,1,Christian Democratic Appeal
+17642,Male,80.0,14.0,6,highly_educated,1,Christian Union
+17643,Female,54.0,13.0,1,highly_educated,1,Democrats '66
+17644,Female,64.0,8.0,8,mid_educated,1,Party for the Animals
+17645,Male,55.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17646,Male,61.0,14.0,5,highly_educated,1,Don't know*
+17647,Male,85.0,1.0,6,lower_educated,1,Labour Party
+17648,Male,84.0,7.0,6,mid_educated,1,Christian Democratic Appeal
+17649,Male,30.0,14.0,1,highly_educated,2,Not applicable*
+17650,Female,38.0,10.0,8,mid_educated,2,Not applicable*
+17651,Male,71.0,17.0,6,highly_educated,1,Green Left
+17652,Female,54.0,10.0,5,mid_educated,1,Socialist Party
+17653,Male,41.0,17.0,4,highly_educated,1,Democrats '66
+17654,Male,78.0,13.0,6,highly_educated,1,Socialist Party
+17655,Male,68.0,14.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17656,Female,72.0,3.0,6,lower_educated,1,Democrats '66
+17657,Female,50.0,13.0,1,highly_educated,1,Labour Party
+17658,Female,51.0,6.0,1,mid_educated,1,BoerBurgerBeweging
+17659,Female,61.0,3.0,5,lower_educated,1,Socialist Party
+17660,Male,44.0,10.0,1,mid_educated,8,Not applicable*
+17661,Female,75.0,3.0,6,lower_educated,1,Christian Union
+17662,Female,59.0,14.0,1,highly_educated,1,Democrats '66
+17663,Female,23.0,10.0,1,mid_educated,1,Party for Freedom
+17664,Female,77.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+17665,Female,56.0,10.0,1,mid_educated,2,Not applicable*
+17666,Male,71.0,10.0,6,mid_educated,1,Socialist Party
+17667,Male,61.0,3.0,1,lower_educated,2,Not applicable*
+17668,Female,60.0,9.0,8,mid_educated,1,Christian Democratic Appeal
+17669,Male,58.0,10.0,1,mid_educated,1,Volt
+17670,Male,77.0,18.0,6,highly_educated,1,Socialist Party
+17671,Male,56.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17672,Female,74.0,3.0,6,lower_educated,1,Labour Party
+17673,Female,53.0,16.0,1,highly_educated,1,BoerBurgerBeweging
+17674,Male,15.0,2.0,2,lower_educated,3,Not applicable*
+17675,Female,67.0,14.0,8,highly_educated,1,Labour Party
+17676,Male,63.0,16.0,1,highly_educated,1,Labour Party
+17677,Female,67.0,8.0,6,mid_educated,1,Don't know*
+17678,Female,75.0,10.0,6,mid_educated,1,Democrats '66
+17679,Female,38.0,17.0,1,highly_educated,1,Labour Party
+17680,Female,63.0,10.0,8,mid_educated,1,Green Left
+17681,Male,68.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17682,Female,45.0,16.0,1,highly_educated,1,Democrats '66
+17683,Male,71.0,17.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17684,Male,34.0,15.0,8,highly_educated,1,Democrats '66
+17685,Male,90.0,7.0,6,mid_educated,1,Democrats '66
+17686,Female,78.0,3.0,5,lower_educated,1,Labour Party
+17687,Female,18.0,4.0,1,lower_educated,3,Not applicable*
+17688,Female,33.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17689,Male,54.0,10.0,1,mid_educated,1,Party for the Animals
+17690,Male,69.0,9.0,6,mid_educated,1,Democrats '66
+17691,Female,55.0,1.0,1,lower_educated,2,Not applicable*
+17692,Male,74.0,2.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17693,Male,32.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17694,Male,42.0,2.0,1,lower_educated,2,Not applicable*
+17695,Female,69.0,3.0,6,lower_educated,2,Not applicable*
+17696,Male,58.0,6.0,1,mid_educated,1,Labour Party
+17697,Female,24.0,10.0,1,mid_educated,1,JA21
+17698,Female,27.0,17.0,1,highly_educated,1,Democrats '66
+17699,Male,55.0,2.0,5,lower_educated,1,Party for Freedom
+17700,Male,48.0,17.0,1,highly_educated,1,Labour Party
+17701,Male,72.0,17.0,6,highly_educated,1,Labour Party
+17702,Male,54.0,17.0,6,highly_educated,3,Not applicable*
+17703,Male,63.0,3.0,9,lower_educated,1,People's Party for Freedom and Democracy
+17704,Female,82.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+17705,Female,35.0,17.0,8,highly_educated,1,Democrats '66
+17706,Male,53.0,11.0,1,mid_educated,1,Green Left
+17707,Male,90.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+17708,Female,38.0,17.0,1,highly_educated,1,Party for the Animals
+17709,Female,20.0,6.0,2,mid_educated,1,Socialist Party
+17710,Female,54.0,14.0,1,highly_educated,1,Christian Union
+17711,Male,39.0,17.0,1,highly_educated,1,Democrats '66
+17712,Male,42.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17713,Female,51.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17714,Male,64.0,2.0,1,lower_educated,2,Not applicable*
+17715,Male,57.0,16.0,5,highly_educated,1,Labour Party
+17716,Female,68.0,4.0,1,lower_educated,2,Not applicable*
+17717,Male,68.0,17.0,6,highly_educated,1,Party for the Animals
+17718,Female,59.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17719,Female,31.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+17720,Male,56.0,10.0,1,mid_educated,1,Socialist Party
+17721,Male,44.0,17.0,8,highly_educated,1,Refusal*
+17722,Female,60.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17723,Female,28.0,15.0,2,highly_educated,1,Green Left
+17724,Female,40.0,13.0,1,highly_educated,1,Democrats '66
+17725,Male,38.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17726,Female,41.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17727,Male,29.0,14.0,1,highly_educated,1,Christian Union
+17728,Male,44.0,8.0,1,mid_educated,1,Party for Freedom
+17729,Male,18.0,6.0,2,mid_educated,3,Not applicable*
+17730,Male,24.0,9.0,1,mid_educated,1,Party for Freedom
+17731,Female,59.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17732,Male,16.0,2.0,2,lower_educated,2,Not applicable*
+17733,Male,54.0,17.0,1,highly_educated,1,Christian Union
+17734,Male,73.0,14.0,1,highly_educated,1,Christian Union
+17735,Male,41.0,14.0,1,highly_educated,1,Volt
+17736,Male,58.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17737,Female,16.0,2.0,2,lower_educated,2,Not applicable*
+17738,Female,65.0,9.0,1,mid_educated,1,50PLUS
+17739,Male,54.0,9.0,1,mid_educated,1,Forum for Democracy
+17740,Female,56.0,10.0,8,mid_educated,1,Party for Freedom
+17741,Female,28.0,14.0,1,highly_educated,1,Democrats '66
+17742,Female,57.0,10.0,1,mid_educated,1,Green Left
+17743,Male,24.0,12.0,9,highly_educated,1,Party for Freedom
+17744,Female,53.0,14.0,1,highly_educated,1,Labour Party
+17745,Female,41.0,16.0,1,highly_educated,1,Party for the Animals
+17746,Male,49.0,16.0,1,highly_educated,1,Party for the Animals
+17747,Male,40.0,8.0,1,mid_educated,1,Don't know*
+17748,Male,56.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17749,Female,53.0,14.0,1,highly_educated,1,Christian Union
+17750,Female,67.0,3.0,8,lower_educated,1,Christian Union
+17751,Female,68.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17752,Male,73.0,17.0,6,highly_educated,1,Volt
+17753,Female,18.0,7.0,1,mid_educated,3,Not applicable*
+17754,Male,68.0,3.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17755,Female,46.0,10.0,1,mid_educated,1,Party for Freedom
+17756,Male,54.0,10.0,8,mid_educated,1,JA21
+17757,Male,24.0,14.0,2,highly_educated,1,Volt
+17758,Female,59.0,16.0,1,highly_educated,1,Democrats '66
+17759,Male,23.0,14.0,1,highly_educated,1,Democrats '66
+17760,Female,80.0,3.0,6,lower_educated,1,Socialist Party
+17761,Male,65.0,16.0,1,highly_educated,1,Green Left
+17762,Female,46.0,15.0,1,highly_educated,1,Party for the Animals
+17763,Male,21.0,9.0,1,mid_educated,1,Reformed Political Party
+17764,Male,21.0,2.0,2,lower_educated,2,Not applicable*
+17765,Male,64.0,13.0,4,highly_educated,1,Party for the Animals
+17766,Male,59.0,9.0,9,mid_educated,1,Socialist Party
+17767,Female,60.0,3.0,1,lower_educated,1,Christian Union
+17768,Male,20.0,4.0,2,lower_educated,3,Not applicable*
+17769,Male,32.0,16.0,1,highly_educated,1,Democrats '66
+17770,Male,64.0,2.0,5,lower_educated,2,Not applicable*
+17771,Male,81.0,4.0,6,lower_educated,1,Labour Party
+17772,Female,81.0,3.0,6,lower_educated,1,Labour Party
+17773,Female,22.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17774,Male,62.0,10.0,1,mid_educated,1,Christian Democratic Appeal
+17775,Female,40.0,13.0,1,highly_educated,1,BoerBurgerBeweging
+17776,Female,55.0,17.0,1,highly_educated,1,Labour Party
+17777,Male,43.0,15.0,1,highly_educated,1,Party for Freedom
+17778,Female,54.0,14.0,3,highly_educated,1,Green Left
+17779,Male,59.0,17.0,1,highly_educated,1,Labour Party
+17780,Male,49.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17781,Female,43.0,11.0,1,mid_educated,1,Party for Freedom
+17782,Female,41.0,9.0,1,mid_educated,1,BoerBurgerBeweging
+17783,Female,40.0,10.0,1,mid_educated,2,Not applicable*
+17784,Male,77.0,3.0,9,lower_educated,1,BoerBurgerBeweging
+17785,Female,47.0,4.0,5,lower_educated,1,People's Party for Freedom and Democracy
+17786,Female,77.0,3.0,8,lower_educated,1,People's Party for Freedom and Democracy
+17787,Female,74.0,10.0,6,mid_educated,1,Christian Democratic Appeal
+17788,Female,50.0,17.0,3,highly_educated,1,Christian Democratic Appeal
+17789,Female,20.0,13.0,2,highly_educated,1,People's Party for Freedom and Democracy
+17790,Male,45.0,3.0,1,lower_educated,2,Not applicable*
+17791,Female,54.0,3.0,1,lower_educated,1,Democrats '66
+17792,Male,81.0,2.0,6,lower_educated,1,Labour Party
+17793,Female,51.0,11.0,1,mid_educated,1,JA21
+17794,Female,62.0,14.0,1,highly_educated,1,Party for the Animals
+17795,Male,84.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17796,Female,62.0,14.0,1,highly_educated,1,Democrats '66
+17797,Male,51.0,9.0,1,mid_educated,1,Christian Democratic Appeal
+17798,Male,72.0,17.0,6,highly_educated,2,Not applicable*
+17799,Male,67.0,16.0,1,highly_educated,1,Christian Democratic Appeal
+17800,Female,64.0,2.0,1,lower_educated,1,DENK
+17801,Female,56.0,14.0,8,highly_educated,1,Christian Democratic Appeal
+17802,Male,20.0,9.0,1,mid_educated,2,Not applicable*
+17803,Male,75.0,17.0,6,highly_educated,1,Labour Party
+17804,Male,29.0,17.0,1,highly_educated,1,Volt
+17805,Male,25.0,10.0,1,mid_educated,2,Not applicable*
+17806,Female,62.0,3.0,1,lower_educated,1,Party for the Animals
+17807,Male,79.0,14.0,6,highly_educated,1,Labour Party
+17808,Male,19.0,6.0,2,mid_educated,3,Not applicable*
+17809,Male,85.0,1.0,6,lower_educated,2,Not applicable*
+17810,Male,54.0,9.0,1,mid_educated,1,Refusal*
+17811,Female,54.0,8.0,1,mid_educated,1,Democrats '66
+17812,Female,26.0,17.0,1,highly_educated,2,Not applicable*
+17813,Female,44.0,10.0,8,mid_educated,1,Don't know*
+17814,Male,69.0,13.0,6,highly_educated,1,Democrats '66
+17815,Male,80.0,4.0,6,lower_educated,2,Not applicable*
+17816,Female,39.0,16.0,1,highly_educated,1,Volt
+17817,Female,47.0,14.0,1,highly_educated,1,Democrats '66
+17818,Female,39.0,16.0,1,highly_educated,2,Not applicable*
+17819,Female,74.0,4.0,6,lower_educated,1,Democrats '66
+17820,Female,80.0,3.0,6,lower_educated,2,Not applicable*
+17821,Female,44.0,14.0,1,highly_educated,1,Don't know*
+17822,Female,45.0,10.0,1,mid_educated,1,JA21
+17823,Male,71.0,13.0,6,highly_educated,1,Labour Party
+17824,Female,23.0,17.0,1,highly_educated,1,Party for the Animals
+17825,Male,65.0,14.0,1,highly_educated,1,Christian Union
+17826,Male,67.0,17.0,6,highly_educated,1,Labour Party
+17827,Male,22.0,12.0,1,highly_educated,1,Party for the Animals
+17828,Female,52.0,17.0,1,highly_educated,1,Refusal*
+17829,Male,61.0,3.0,1,lower_educated,1,Labour Party
+17830,Female,80.0,9.0,8,mid_educated,1,People's Party for Freedom and Democracy
+17831,Male,40.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17832,Male,81.0,16.0,6,highly_educated,1,Democrats '66
+17833,Male,42.0,10.0,1,mid_educated,1,Don't know*
+17834,Female,50.0,14.0,1,highly_educated,1,Socialist Party
+17835,Female,54.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17836,Male,65.0,17.0,1,highly_educated,1,Democrats '66
+17837,Female,38.0,11.0,1,mid_educated,1,Democrats '66
+17838,Male,76.0,16.0,6,highly_educated,1,Labour Party
+17839,Female,17.0,4.0,2,lower_educated,3,Not applicable*
+17840,Female,28.0,10.0,1,mid_educated,1,Green Left
+17841,Male,53.0,13.0,1,highly_educated,1,Reformed Political Party
+17842,Female,86.0,6.0,6,mid_educated,1,Refusal*
+17843,Female,34.0,17.0,1,highly_educated,1,Green Left
+17844,Male,54.0,5.0,1,lower_educated,2,Not applicable*
+17845,Female,77.0,10.0,6,mid_educated,1,Party for the Animals
+17846,Female,77.0,3.0,8,lower_educated,1,Christian Democratic Appeal
+17847,Female,34.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17848,Female,56.0,9.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17849,Male,38.0,17.0,1,highly_educated,1,BoerBurgerBeweging
+17850,Female,56.0,16.0,1,highly_educated,1,Democrats '66
+17851,Female,35.0,9.0,1,mid_educated,1,Don't know*
+17852,Male,47.0,6.0,1,mid_educated,1,Volt
+17853,Female,24.0,14.0,4,highly_educated,1,JA21
+17854,Female,63.0,9.0,1,mid_educated,1,Don't know*
+17855,Female,30.0,10.0,8,mid_educated,2,Not applicable*
+17856,Male,16.0,4.0,2,lower_educated,3,Not applicable*
+17857,Female,20.0,14.0,2,highly_educated,1,Volt
+17858,Male,20.0,7.0,9,mid_educated,2,Not applicable*
+17859,Female,32.0,17.0,1,highly_educated,1,No answer*
+17860,Male,60.0,1.0,1,lower_educated,1,BoerBurgerBeweging
+17861,Male,36.0,18.0,1,highly_educated,2,Not applicable*
+17862,Male,49.0,3.0,1,lower_educated,2,Not applicable*
+17863,Female,46.0,14.0,1,highly_educated,1,BoerBurgerBeweging
+17864,Male,35.0,3.0,3,lower_educated,2,Not applicable*
+17865,Male,46.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17866,Female,25.0,10.0,1,mid_educated,2,Not applicable*
+17867,Female,40.0,14.0,1,highly_educated,1,Democrats '66
+17868,Female,82.0,4.0,6,lower_educated,2,Not applicable*
+17869,Male,54.0,17.0,1,highly_educated,3,Not applicable*
+17870,Male,30.0,10.0,1,mid_educated,1,Green Left
+17871,Female,71.0,10.0,6,mid_educated,2,Not applicable*
+17872,Female,42.0,16.0,8,highly_educated,2,Not applicable*
+17873,Female,90.0,13.0,6,highly_educated,2,Not applicable*
+17874,Male,72.0,13.0,1,highly_educated,2,Not applicable*
+17875,Male,52.0,17.0,3,highly_educated,1,Democrats '66
+17876,Female,68.0,9.0,6,mid_educated,1,Party for the Animals
+17877,Female,65.0,9.0,1,mid_educated,2,Not applicable*
+17878,Male,53.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17879,Male,49.0,15.0,1,highly_educated,1,Party for the Animals
+17880,Female,43.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17881,Male,84.0,10.0,6,mid_educated,1,Party for the Animals
+17882,Male,18.0,7.0,1,mid_educated,3,Not applicable*
+17883,Male,48.0,4.0,5,lower_educated,1,Democrats '66
+17884,Female,20.0,10.0,1,mid_educated,1,Don't know*
+17885,Female,83.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+17886,Male,72.0,9.0,6,mid_educated,2,Not applicable*
+17887,Male,50.0,16.0,4,highly_educated,3,Not applicable*
+17888,Female,24.0,7.0,2,mid_educated,1,Green Left
+17889,Male,64.0,5.0,8,lower_educated,1,People's Party for Freedom and Democracy
+17890,Male,45.0,16.0,1,highly_educated,1,Reformed Political Party
+17891,Male,89.0,16.0,6,highly_educated,1,Green Left
+17892,Female,79.0,2.0,8,lower_educated,2,Not applicable*
+17893,Female,25.0,17.0,1,highly_educated,1,Democrats '66
+17894,Male,15.0,2.0,2,lower_educated,3,Not applicable*
+17895,Male,52.0,17.0,1,highly_educated,1,Democrats '66
+17896,Female,58.0,15.0,1,highly_educated,3,Not applicable*
+17897,Male,39.0,3.0,1,lower_educated,2,Not applicable*
+17898,Female,39.0,14.0,1,highly_educated,1,Don't know*
+17899,Male,69.0,10.0,6,mid_educated,1,Socialist Party
+17900,Male,20.0,12.0,2,highly_educated,3,Not applicable*
+17901,Female,18.0,6.0,2,mid_educated,3,Not applicable*
+17902,Female,31.0,10.0,1,mid_educated,1,Party for the Animals
+17903,Male,62.0,4.0,1,lower_educated,1,People's Party for Freedom and Democracy
+17904,Male,39.0,16.0,1,highly_educated,1,Green Left
+17905,Female,23.0,10.0,2,mid_educated,1,People's Party for Freedom and Democracy
+17906,Female,65.0,3.0,9,lower_educated,1,BoerBurgerBeweging
+17907,Female,68.0,4.0,6,lower_educated,1,Christian Democratic Appeal
+17908,Female,44.0,15.0,1,highly_educated,1,Party for the Animals
+17909,Male,67.0,10.0,6,mid_educated,1,Christian Democratic Appeal
+17910,Male,83.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+17911,Female,63.0,6.0,5,mid_educated,1,Democrats '66
+17912,Male,49.0,17.0,1,highly_educated,1,Christian Democratic Appeal
+17913,Male,71.0,9.0,5,mid_educated,2,Not applicable*
+17914,Female,38.0,10.0,1,mid_educated,2,Not applicable*
+17915,Male,27.0,15.0,1,highly_educated,1,Green Left
+17916,Male,74.0,14.0,6,highly_educated,2,Not applicable*
+17917,Male,32.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17918,Male,72.0,17.0,6,highly_educated,1,Christian Democratic Appeal
+17919,Female,63.0,4.0,4,lower_educated,1,Socialist Party
+17920,Female,37.0,6.0,1,mid_educated,3,Not applicable*
+17921,Female,30.0,17.0,1,highly_educated,2,Not applicable*
+17922,Female,62.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17923,Male,28.0,17.0,1,highly_educated,1,Volt
+17924,Male,64.0,17.0,1,highly_educated,1,Democrats '66
+17925,Male,51.0,3.0,5,lower_educated,1,Party for Freedom
+17926,Female,51.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17927,Female,55.0,3.0,8,lower_educated,1,Party for the Animals
+17928,Female,37.0,4.0,1,lower_educated,1,Democrats '66
+17929,Female,78.0,4.0,6,lower_educated,1,Democrats '66
+17930,Female,79.0,4.0,6,lower_educated,1,Democrats '66
+17931,Female,25.0,7.0,1,mid_educated,3,Not applicable*
+17932,Female,73.0,18.0,9,highly_educated,1,Democrats '66
+17933,Female,39.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17934,Male,49.0,3.0,1,lower_educated,1,Reformed Political Party
+17935,Female,35.0,17.0,1,highly_educated,1,Democrats '66
+17936,Male,56.0,16.0,1,highly_educated,1,Democrats '66
+17937,Female,25.0,17.0,3,highly_educated,1,People's Party for Freedom and Democracy
+17938,Male,58.0,10.0,1,mid_educated,1,Party for the Animals
+17939,Male,62.0,4.0,1,lower_educated,1,JA21
+17940,Female,49.0,6.0,1,mid_educated,1,Forum for Democracy
+17941,Female,66.0,17.0,1,highly_educated,1,Labour Party
+17942,Male,69.0,5.0,6,lower_educated,1,Volt
+17943,Female,59.0,4.0,8,lower_educated,1,Refusal*
+17944,Female,33.0,10.0,1,mid_educated,7,Not applicable*
+17945,Male,49.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17946,Male,50.0,4.0,1,lower_educated,1,50PLUS
+17947,Female,64.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17948,Male,76.0,4.0,6,lower_educated,1,Christian Democratic Appeal
+17949,Male,63.0,17.0,9,highly_educated,2,Not applicable*
+17950,Female,26.0,14.0,1,highly_educated,1,Don't know*
+17951,Male,79.0,3.0,6,lower_educated,2,Not applicable*
+17952,Male,52.0,10.0,1,mid_educated,1,Party for Freedom
+17953,Female,90.0,7.0,6,mid_educated,1,People's Party for Freedom and Democracy
+17954,Male,28.0,14.0,1,highly_educated,1,Refusal*
+17955,Male,42.0,14.0,1,highly_educated,1,Democrats '66
+17956,Male,48.0,4.0,1,lower_educated,1,Labour Party
+17957,Male,52.0,9.0,1,mid_educated,1,Socialist Party
+17958,Male,30.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17959,Female,24.0,9.0,1,mid_educated,1,Green Left
+17960,Female,77.0,13.0,6,highly_educated,1,People's Party for Freedom and Democracy
+17961,Female,31.0,14.0,1,highly_educated,1,Volt
+17962,Male,77.0,16.0,6,highly_educated,1,Labour Party
+17963,Male,21.0,4.0,1,lower_educated,1,Artikel1/Bij1
+17964,Female,80.0,3.0,8,lower_educated,1,Labour Party
+17965,Male,51.0,10.0,1,mid_educated,1,Christian Union
+17966,Male,58.0,14.0,1,highly_educated,1,JA21
+17967,Female,48.0,17.0,1,highly_educated,1,Democrats '66
+17968,Female,26.0,14.0,1,highly_educated,1,Don't know*
+17969,Female,58.0,5.0,8,lower_educated,1,Other
+17970,Female,17.0,4.0,2,lower_educated,3,Not applicable*
+17971,Female,32.0,16.0,1,highly_educated,1,Volt
+17972,Male,66.0,9.0,6,mid_educated,1,People's Party for Freedom and Democracy
+17973,Female,34.0,18.0,1,highly_educated,1,Democrats '66
+17974,Male,60.0,3.0,5,lower_educated,2,Not applicable*
+17975,Male,60.0,14.0,1,highly_educated,1,Party for the Animals
+17976,Male,38.0,17.0,1,highly_educated,1,Reformed Political Party
+17977,Male,56.0,9.0,6,mid_educated,1,Christian Democratic Appeal
+17978,Female,59.0,10.0,1,mid_educated,2,Not applicable*
+17979,Female,58.0,13.0,1,highly_educated,3,Not applicable*
+17980,Female,43.0,10.0,1,mid_educated,1,Christian Democratic Appeal
+17981,Male,68.0,14.0,6,highly_educated,1,Party for Freedom
+17982,Female,61.0,14.0,8,highly_educated,1,Democrats '66
+17983,Male,51.0,2.0,9,lower_educated,2,Not applicable*
+17984,Female,47.0,14.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17985,Female,54.0,9.0,8,mid_educated,1,Party for Freedom
+17986,Female,46.0,10.0,9,mid_educated,1,Democrats '66
+17987,Male,52.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17988,Male,33.0,12.0,1,highly_educated,1,People's Party for Freedom and Democracy
+17989,Female,22.0,15.0,2,highly_educated,1,Democrats '66
+17990,Female,41.0,18.0,1,highly_educated,1,Party for the Animals
+17991,Male,26.0,14.0,1,highly_educated,2,Not applicable*
+17992,Female,65.0,16.0,1,highly_educated,1,Labour Party
+17993,Female,63.0,16.0,1,highly_educated,1,Refusal*
+17994,Male,43.0,17.0,1,highly_educated,1,Labour Party
+17995,Male,46.0,9.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17996,Male,40.0,6.0,1,mid_educated,1,Refusal*
+17997,Male,55.0,8.0,1,mid_educated,1,People's Party for Freedom and Democracy
+17998,Male,57.0,9.0,1,mid_educated,1,Christian Union
+17999,Female,59.0,14.0,8,highly_educated,1,Christian Democratic Appeal
+18000,Female,24.0,15.0,2,highly_educated,1,Volt
+18001,Male,67.0,3.0,6,lower_educated,1,BoerBurgerBeweging
+18002,Male,36.0,14.0,1,highly_educated,1,Green Left
+18003,Female,61.0,16.0,1,highly_educated,1,Democrats '66
+18004,Male,52.0,10.0,1,mid_educated,1,Party for Freedom
+18005,Male,16.0,2.0,2,lower_educated,3,Not applicable*
+18006,Male,76.0,7.0,6,mid_educated,1,Christian Democratic Appeal
+18007,Male,63.0,6.0,6,mid_educated,1,Democrats '66
+18008,Male,65.0,13.0,1,highly_educated,1,Labour Party
+18009,Male,31.0,3.0,1,lower_educated,1,Don't know*
+18010,Female,57.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18011,Male,43.0,10.0,1,mid_educated,1,Forum for Democracy
+18012,Female,31.0,9.0,1,mid_educated,1,Party for Freedom
+18013,Female,47.0,13.0,1,highly_educated,1,Green Left
+18014,Female,56.0,9.0,1,mid_educated,1,Christian Union
+18015,Female,61.0,3.0,5,lower_educated,1,Socialist Party
+18016,Female,18.0,4.0,2,lower_educated,3,Not applicable*
+18017,Female,17.0,4.0,2,lower_educated,3,Not applicable*
+18018,Female,49.0,17.0,1,highly_educated,1,Democrats '66
+18019,Male,64.0,3.0,1,lower_educated,1,BoerBurgerBeweging
+18020,Female,47.0,6.0,1,mid_educated,2,Not applicable*
+18021,Female,57.0,8.0,1,mid_educated,1,Don't know*
+18022,Female,55.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18023,Female,50.0,14.0,1,highly_educated,2,Not applicable*
+18024,Female,44.0,10.0,1,mid_educated,1,Labour Party
+18025,Female,83.0,2.0,6,lower_educated,1,Labour Party
+18026,Female,28.0,14.0,1,highly_educated,1,Party for the Animals
+18027,Female,81.0,4.0,6,lower_educated,1,Labour Party
+18028,Female,85.0,4.0,6,lower_educated,1,People's Party for Freedom and Democracy
+18029,Male,51.0,16.0,1,highly_educated,1,Christian Union
+18030,Male,16.0,2.0,2,lower_educated,3,Not applicable*
+18031,Female,35.0,14.0,1,highly_educated,1,Christian Democratic Appeal
+18032,Female,27.0,16.0,1,highly_educated,1,Democrats '66
+18033,Male,64.0,3.0,1,lower_educated,2,Not applicable*
+18034,Female,41.0,10.0,5,mid_educated,1,JA21
+18035,Female,58.0,17.0,1,highly_educated,1,Party for the Animals
+18036,Female,35.0,9.0,5,mid_educated,1,Party for Freedom
+18037,Male,61.0,10.0,1,mid_educated,1,Reformed Political Party
+18038,Female,59.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+18039,Male,57.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18040,Male,65.0,9.0,6,mid_educated,1,Democrats '66
+18041,Female,23.0,12.0,2,highly_educated,1,Christian Union
+18042,Female,61.0,13.0,1,highly_educated,1,Socialist Party
+18043,Male,67.0,3.0,5,lower_educated,1,Socialist Party
+18044,Male,33.0,14.0,1,highly_educated,1,Party for the Animals
+18045,Female,49.0,16.0,1,highly_educated,3,Not applicable*
+18046,Male,71.0,9.0,6,mid_educated,1,50PLUS
+18047,Female,44.0,16.0,8,highly_educated,1,Party for the Animals
+18048,Female,40.0,5555.0,1,,3,Not applicable*
+18049,Female,46.0,10.0,1,mid_educated,1,BoerBurgerBeweging
+18050,Male,29.0,5555.0,1,,3,Not applicable*
+18051,Male,77.0,10.0,6,mid_educated,1,Labour Party
+18052,Male,46.0,13.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18053,Female,52.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18054,Male,89.0,2.0,6,lower_educated,2,Not applicable*
+18055,Female,19.0,4.0,1,lower_educated,1,Christian Democratic Appeal
+18056,Male,58.0,3.0,1,lower_educated,1,BoerBurgerBeweging
+18057,Female,70.0,3.0,6,lower_educated,1,BoerBurgerBeweging
+18058,Female,51.0,17.0,1,highly_educated,1,Democrats '66
+18059,Male,31.0,17.0,1,highly_educated,1,JA21
+18060,Female,32.0,17.0,8,highly_educated,1,Democrats '66
+18061,Male,20.0,3.0,1,lower_educated,2,Not applicable*
+18062,Male,22.0,6.0,2,mid_educated,2,Not applicable*
+18063,Male,56.0,9.0,1,mid_educated,1,People's Party for Freedom and Democracy
+18064,Female,56.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+18065,Female,71.0,4.0,8,lower_educated,1,Party for Freedom
+18066,Female,60.0,3.0,1,lower_educated,1,Party for Freedom
+18067,Male,23.0,15.0,1,highly_educated,1,Forum for Democracy
+18068,Female,80.0,13.0,6,highly_educated,1,Christian Democratic Appeal
+18069,Female,67.0,9.0,6,mid_educated,1,Green Left
+18070,Female,46.0,9.0,1,mid_educated,2,Not applicable*
+18071,Female,72.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+18072,Female,49.0,10.0,8,mid_educated,1,People's Party for Freedom and Democracy
+18073,Female,21.0,5.0,2,lower_educated,3,Not applicable*
+18074,Female,22.0,14.0,1,highly_educated,1,Forum for Democracy
+18075,Male,24.0,10.0,1,mid_educated,2,Not applicable*
+18076,Male,70.0,17.0,6,highly_educated,1,Green Left
+18077,Female,75.0,8.0,6,mid_educated,1,50PLUS
+18078,Male,42.0,2.0,1,lower_educated,2,Not applicable*
+18079,Male,52.0,11.0,1,mid_educated,1,Christian Union
+18080,Male,29.0,9.0,1,mid_educated,1,Democrats '66
+18081,Male,52.0,13.0,1,highly_educated,1,Refusal*
+18082,Male,76.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+18083,Male,43.0,9.0,1,mid_educated,1,Christian Democratic Appeal
+18084,Male,54.0,16.0,1,highly_educated,1,Christian Union
+18085,Female,55.0,14.0,4,highly_educated,1,Democrats '66
+18086,Female,70.0,14.0,6,highly_educated,1,Volt
+18087,Male,26.0,7.0,2,mid_educated,1,Green Left
+18088,Female,24.0,12.0,2,highly_educated,2,Not applicable*
+18089,Female,58.0,10.0,1,mid_educated,1,Forum for Democracy
+18090,Male,74.0,4.0,6,lower_educated,1,JA21
+18091,Female,38.0,4.0,5,lower_educated,2,Not applicable*
+18092,Male,37.0,17.0,1,highly_educated,1,Labour Party
+18093,Female,72.0,3.0,6,lower_educated,1,Refusal*
+18094,Male,65.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+18095,Female,51.0,9.0,1,mid_educated,1,Other
+18096,Female,20.0,6.0,2,mid_educated,2,Not applicable*
+18097,Male,49.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+18098,Female,41.0,9.0,8,mid_educated,1,JA21
+18099,Female,50.0,3.0,8,lower_educated,1,Don't know*
+18100,Female,,14.0,8,highly_educated,2,Not applicable*
+18101,Male,21.0,7.0,2,mid_educated,3,Not applicable*
+18102,Female,32.0,14.0,1,highly_educated,1,Democrats '66
+18103,Female,31.0,17.0,4,highly_educated,1,Party for the Animals
+18104,Female,61.0,6.0,1,mid_educated,1,Green Left
+18105,Female,62.0,3.0,5,lower_educated,1,Socialist Party
+18106,Female,61.0,9.0,8,mid_educated,1,Don't know*
+18107,Female,17.0,2.0,2,lower_educated,3,Not applicable*
+18108,Male,67.0,16.0,6,highly_educated,1,50PLUS
+18109,Female,71.0,9.0,6,mid_educated,1,Socialist Party
+18110,Male,31.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18111,Male,49.0,6.0,1,mid_educated,1,People's Party for Freedom and Democracy
+18112,Male,56.0,14.0,1,highly_educated,1,Christian Union
+18113,Female,26.0,17.0,1,highly_educated,1,Christian Union
+18114,Male,31.0,16.0,1,highly_educated,1,Democrats '66
+18115,Male,65.0,17.0,1,highly_educated,1,JA21
+18116,Female,55.0,2.0,5,lower_educated,1,Party for Freedom
+18117,Female,72.0,14.0,6,highly_educated,1,Green Left
+18118,Male,75.0,2.0,6,lower_educated,2,Not applicable*
+18119,Male,71.0,14.0,6,highly_educated,1,Don't know*
+18120,Female,60.0,9.0,1,mid_educated,1,Christian Democratic Appeal
+18121,Male,52.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+18122,Male,69.0,8.0,6,mid_educated,2,Not applicable*
+18123,Male,58.0,17.0,1,highly_educated,1,Democrats '66
+18124,Male,27.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18125,Female,48.0,16.0,1,highly_educated,1,Democrats '66
+18126,Male,47.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18127,Male,37.0,10.0,1,mid_educated,1,Don't know*
+18128,Female,63.0,9.0,6,mid_educated,1,People's Party for Freedom and Democracy
+18129,Male,35.0,14.0,1,highly_educated,1,Volt
+18130,Female,61.0,3.0,8,lower_educated,1,Christian Democratic Appeal
+18131,Female,65.0,7.0,5,mid_educated,1,People's Party for Freedom and Democracy
+18132,Male,73.0,10.0,6,mid_educated,1,Socialist Party
+18133,Female,35.0,14.0,2,highly_educated,1,People's Party for Freedom and Democracy
+18134,Female,61.0,18.0,1,highly_educated,1,Green Left
+18135,Male,35.0,6.0,1,mid_educated,1,Green Left
+18136,Female,27.0,17.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18137,Female,23.0,14.0,1,highly_educated,1,Green Left
+18138,Male,64.0,4.0,1,lower_educated,1,People's Party for Freedom and Democracy
+18139,Female,53.0,10.0,1,mid_educated,1,People's Party for Freedom and Democracy
+18140,Male,35.0,10.0,1,mid_educated,1,Democrats '66
+18141,Male,77.0,16.0,6,highly_educated,1,People's Party for Freedom and Democracy
+18142,Female,49.0,17.0,1,highly_educated,1,Christian Democratic Appeal
+18143,Female,68.0,3.0,6,lower_educated,1,Christian Democratic Appeal
+18144,Male,77.0,16.0,6,highly_educated,1,JA21
+18145,Male,50.0,4.0,5,lower_educated,1,People's Party for Freedom and Democracy
+18146,Female,70.0,14.0,6,highly_educated,1,Party for the Animals
+18147,Male,26.0,17.0,1,highly_educated,1,Green Left
+18148,Male,33.0,13.0,1,highly_educated,1,Christian Democratic Appeal
+18149,Male,32.0,10.0,1,mid_educated,1,Party for Freedom
+18150,Female,49.0,14.0,1,highly_educated,1,Party for the Animals
+18151,Male,27.0,14.0,1,highly_educated,1,Democrats '66
+18152,Female,43.0,2.0,8,lower_educated,2,Not applicable*
+18153,Female,54.0,15.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18154,Male,56.0,4.0,1,lower_educated,2,Not applicable*
+18155,Male,72.0,17.0,8,highly_educated,1,Democrats '66
+18156,Male,53.0,17.0,1,highly_educated,3,Not applicable*
+18157,Female,19.0,7.0,2,mid_educated,2,Not applicable*
+18158,Male,27.0,10.0,1,mid_educated,2,Not applicable*
+18159,Male,54.0,16.0,1,highly_educated,1,People's Party for Freedom and Democracy
+18160,Male,16.0,4.0,2,lower_educated,3,Not applicable*
+18161,Male,23.0,15.0,1,highly_educated,1,Democrats '66
+18162,Male,72.0,14.0,6,highly_educated,1,Christian Democratic Appeal
