@@ -8,12 +8,10 @@ print(df.head())
 
 # selection country NL
 dd = df.loc[df['cntry'] == 'NL']
-# print(dd.shape)
 
 # var selection socio-demographics
-socdemo_var = dd.loc[:, ['gndr', 'agea', 'edlvenl', 'mnactic']]
-socdemo_labels = {'gndr': 'gender', 'agea': 'age', 'edlvenl': 'education', 'mnactic': 'activity_work'}
-socdemo_var = socdemo_var.rename(columns=socdemo_labels)
+socdemo_var = dd[['gndr', 'agea', 'edlvenl', 'mnactic']].copy()
+socdemo_var = socdemo_var.rename(columns = {'gndr': 'gender', 'agea': 'age', 'edlvenl': 'education', 'mnactic': 'activity_work'})
 print(socdemo_var.info())
 
 #recode educational level into three categories
@@ -34,15 +32,30 @@ print(socdemo_var.gender.value_counts())
 
 # var selection politics
 ptrust_var = dd.loc[:, ['trstprl', 'trstlgl', 'trstplc', 'trstplt', 'trstprt', 'trstep', 'trstun',]]
-pvote_var = dd.loc[:, ['vote', 'prtvtinl']]
-pvote_labels = {'vote': 'voted', 'prtvtinl': 'party'}
-pvote_var = pvote_var.rename(columns=pvote_labels)
+pvote_var = dd[['vote', 'prtvtinl']].copy()
+pvote_var = pvote_var.rename(columns={'vote': 'voted', 'prtvtinl': 'party'})
 pvote_var['party'] = pvote_var['party'].map(dic_political_parties)
 
-#check for matching index, just incase
-print(socdemo_var.index)
-print(pvote_var.index)
+#check for matching index
+print(socdemo_var.index.equals(pvote_var.index))
 
-df = pd.merge(socdemo_var, pvote_var, left_index=True, right_index=True)
-#df.to_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\interim\data_selected_NL.csv')
-print(df.info())
+#var selection social trus
+soc_trust = dd.loc[:, ['ppltrst', 'pplfair', 'pplhlp',]]
+
+#var selection subjective-wellbeing; identity etc
+nat_id_var = dd.loc[:, ['atchctr', 'atcherp']]
+
+# health variable selection
+health_var = dd.loc[:, ['etfruit', 'eatveg', 'dosprt', 'cgtsmok', 'alcfreq', 'alcwkdy', 'alcwknd', 'alcbnge',]]
+bmi = dd.loc[:, ['height', 'weighta']]
+
+from ESS11.utilities.functions import check_matching_indices
+if check_matching_indices(socdemo_var, pvote_var, ptrust_var, soc_trust, nat_id_var):
+     df = pd.concat([socdemo_var, pvote_var, ptrust_var, soc_trust, nat_id_var], axis=1)
+else:
+    print("DataFrames do not have matching indices.")
+
+#data_concat_b = pd.concat([socdemo_var, health_var, bmi], axis=1) for later
+
+df.to_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\interim\data_NL_political_soctrust.csv')
+#print(df.info())
