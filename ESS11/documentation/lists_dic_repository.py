@@ -19,6 +19,12 @@ dic_cat_sentinel_single = {
 9: 'no answer',
 }
 
+list_sentinel_thou = [5555, 6666, 7777, 8888, 9999, 999]
+
+list_sentinel_ten = [66, 77, 88, 99]
+
+
+
 dic_political_parties = {
     1: "People's Party for Freedom and Democracy",
     2: "Labour Party",
