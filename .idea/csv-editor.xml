@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Python homedirectory\Pandas\new_things_practice\Pandas_course\Course_Materials_Part3\Data_Aggregation_Challenge\wik_1976.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ESS11\archive\data_selected_NL.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\ESS11\data\interim\data_NL_political_soctrust.csv">
           <value>
             <Attribute>
@@ -11,6 +25,20 @@
           </value>
         </entry>
         <entry key="\ESS11\data\processed\data_NL_transf.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ESS11\data\processed\data_NL_transf_v2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ESS11\data\processed\political_trust_correlation_p.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 from factor_analyzer import FactorAnalyzer, calculate_kmo, calculate_bartlett_sphericity
-from sklearn.preprocessing import StandardScaler
 df = pd.read_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf.csv', index_col=0)
 
 #trust variables
@@ -10,8 +9,7 @@ pol_trust = pol_trust.rename(columns={'trstprl': 't_parlement', 'trstlgl': 't_le
 print(pol_trust.isna().sum())
 print(pol_trust.info())
 
-# Step 3: Check Data Suitability
-# Assuming your dataframe is stored in 'df' and you want to use all numeric columns for factor analysis
+# Check Data Suitability
 df_numeric = pol_trust.select_dtypes(include=[np.number])
 
 # Check KMO Measure

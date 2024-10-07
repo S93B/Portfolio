@@ -34,6 +34,7 @@ def calculate_pearson_correlation(df):
         for col2 in columns:
             if col1 != col2: #niet met zichzelf correleren
                 corr, p_value = pearsonr(df[col1], df[col2])
+                round(corr,2)
                 corr_dict[(col1, col2)] = corr
                 p_value_dict[(col1, col2)] = p_value
 
