@@ -17,3 +17,13 @@ I will start with answering the following research question:
 1. What is the relationship between educational level and political voting in the Netherlands?
 
 **Work in progress**
+
+Some descriptive figures 
+![Age](./Portfolio_git/ESS11/reports/figures/age.png)
+![Gender](./Portfolio_git/ESS11/reports/figures/gender.png)]
+
+![Education!](./Portfolio_git/ESS11/reports/figures/educational_level.png)
+
+![Political_trust](./Portfolio_git/ESS11/reports/figures/political_trust.png)
+![political_trust_line](./Portfolio_git/ESS11/reports/figures/political_trust_line.png)
+![political_trust_edu](./Portfolio_git/ESS11/reports/figures/education_political_trust.png)
