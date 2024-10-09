@@ -18,10 +18,10 @@ I will start with answering the following research question:
 
 **Work in progress**
 
-Descriptive figures
+
 
 <p align="center">
-  Some descriptive figures
+  Descriptive figures
 </p>
 
 <p align="center">
