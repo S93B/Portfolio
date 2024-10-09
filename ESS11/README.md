@@ -18,11 +18,11 @@ I will start with answering the following research question:
 
 **Work in progress**
 
-Some descriptive figures 
+Descriptive figures
 
-![Age](./Portfolio_git/ESS11/reports/figures/age.png?raw=True)
-![Gender](./Portfolio_git/ESS11/reports/figures/gender.png?raw=True)
-![Education](./Portfolio_git/ESS11/reports/figures/educational_level.png?raw=True)
-![Political Trust](./Portfolio_git/ESS11/reports/figures/political_trust.png?raw=True)
-![Political Trust Line](./Portfolio_git/ESS11/reports/figures/political_trust_line.png?raw=True)
-![Political Trust Education](./Portfolio_git/ESS11/reports/figures/education_political_trust.png?raw=True)
+![Age](reports/figures/age.png?raw=True)
+![Gender](reports/figures/gender.png?raw=True)
+![Education](reports/figures/educational_level.png?raw=True)
+![Political Trust](reports/figures/political_trust.png?raw=True)
+![Political Trust Line](reports/figures/political_trust_line.png?raw=True)
+![Political Trust Education](reports/figures/education_political_trust.png?raw=True)
