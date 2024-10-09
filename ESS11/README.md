@@ -20,9 +20,15 @@ I will start with answering the following research question:
 
 Descriptive figures
 
-![Age](reports/figures/age.png?raw=True)
-![Gender](reports/figures/gender.png?raw=True)
-![Education](reports/figures/educational_level.png?raw=True)
-![Political Trust](reports/figures/political_trust.png?raw=True)
-![Political Trust Line](reports/figures/political_trust_line.png?raw=True)
-![Political Trust Education](reports/figures/education_political_trust.png?raw=True)
+<p align="center">
+  Some descriptive figures
+</p>
+
+<p align="center">
+  <img src="reports/figures/age.png?raw=True" alt="Age" />
+  <img src="reports/figures/gender.png?raw=True" alt="Gender" />
+   <img src="reports/figures/political_trust.png?raw=True" alt="Political Trust" />
+     <img src="reports/figures/education_political_trust.png?raw=True" alt="Political Trust Education" />
+  <img src="reports/figures/educational_level.png?raw=True" alt="Education" />
+  <img src="reports/figures/political_trust_line.png?raw=True" alt="Political Trust Line" />
+</p>
