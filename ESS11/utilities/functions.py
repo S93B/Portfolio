@@ -45,3 +45,8 @@ def calculate_pearson_correlation(df):
     # Concatenate the two DataFrames
     result_df = pd.concat([corr_df, p_value_df], axis=1)
     return result_df
+
+# TODO write documentation
+def recode_educational_level(df, var, bins, levels):
+    df['educational_level'] = pd.cut(df[var], bins=bins, labels=levels)
+    return df
