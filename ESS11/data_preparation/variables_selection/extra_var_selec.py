@@ -13,3 +13,4 @@ safe_var = dd.loc[:, ['crmvct', 'aesfdrk']]
 
 satisfaction_society = dd.loc[:, ['stflife', 'stfeco', 'stfgov', 'stfdem', 'stfedu', 'stfhlth']]
 
+masculine_feminine = dd.loc[:, ['likrisk', 'liklead', 'sothnds', 'actcomp', 'mascfel', 'femifel', 'impbemw']]
