@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-path = 'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_v2.csv'
+path = '/ESS11/archive/data_NL_transf_v2.csv'
 df = pd.read_csv(path, index_col=0)
 
 print(df.columns)

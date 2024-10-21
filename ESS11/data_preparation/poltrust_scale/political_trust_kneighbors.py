@@ -1,7 +1,7 @@
 import pandas as pd
 import pingouin as pg
 from sklearn.impute import KNNImputer
-df = pd.read_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf.csv')
+df = pd.read_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf.csv', index_col=0)
 #df.set_index(keys=['respondent'], inplace=True)
 print(df.isna().sum())
 
