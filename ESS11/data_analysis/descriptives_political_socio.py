@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-path = '/ESS11/archive/data_NL_transf_v2.csv'
+path = 'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor.csv'
 df = pd.read_csv(path, index_col=0)
 
 print(df.columns)
@@ -25,7 +25,8 @@ df_pol = df.loc[:, ['age', 'gender', 'education', 'educational_level', 'activity
 df_describe = df_pol.describe()
 
 slice = df_pol.loc[:, ['political_trust', 'educational_level']]
-slice2 = slice.groupby(by = ['educational_level'])
+slice2 = slice.groupby(by = ['educational_level'], observed=False)
+
 desc_slice2 = slice2.describe()
 
 
