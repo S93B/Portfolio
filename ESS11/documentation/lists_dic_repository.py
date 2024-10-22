@@ -16,11 +16,12 @@ dic_cat_sentinel_ten = {
 dic_cat_sentinel_single = {
 6: 'not applicable',
 7: 'refusal',
+8: 'dont know',
 9: 'no answer',
 }
 
 list_sentinel_thou = [5555, 6666, 7777, 8888, 9999, 999]
-
+list_sentinel_single = [6, 7, 8, 9]
 list_sentinel_ten = [66, 77, 88, 99]
 
 
@@ -44,6 +45,32 @@ dic_political_parties = {
     16: "JA21",
     17: "BoerBurgerBeweging",
     18: "Blanc",
+    31: "Other",
+    66: "Not applicable*",
+    77: "Refusal*",
+    88: "Don't know*",
+    99: "No answer*"
+}
+# Important difference with the closeness dic and the political parties dic is that for the closeness question NSC was a new party that was added, which did not exist at time of previous elections1
+dic_political_parties_closeness = {
+    1: "People's Party for Freedom and Democracy",
+    2: "Labour Party",
+    3: "Party for Freedom",
+    4: "Socialist Party",
+    5: "Christian Democratic Appeal",
+    6: "Democrats '66",
+    7: "Christian Union",
+    8: "Green Left",
+    9: "Reformed Political Party",
+    10: "Party for the Animals",
+    11: "50PLUS",
+    12: "DENK",
+    13: "Forum for Democracy",
+    14: "Artikel1/Bij1",
+    15: "Volt",
+    16: "JA21",
+    17: "BoerBurgerBeweging",
+    18: "Omtzigt/NSC",
     31: "Other",
     66: "Not applicable*",
     77: "Refusal*",

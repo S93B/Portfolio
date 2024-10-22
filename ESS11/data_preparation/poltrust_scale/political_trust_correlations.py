@@ -5,7 +5,7 @@ from scipy.stats import pearsonr
 
 from ESS11.utilities.functions import calculate_pearson_correlation
 
-df = pd.read_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf.csv', index_col=0)
+df = pd.read_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf.csv', index_col=0)
 df.dropna(inplace=True)
 df.isna().sum()
 

@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-path = 'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_v2.csv'
+path = 'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor.csv'
 df = pd.read_csv(path, index_col=0)
 
 print(df.columns)
@@ -14,19 +14,27 @@ df.rename(columns={'trstprl': 't_parlement', 'trstlgl': 't_legalsystem', 'trstpl
 educational_bins = [0,5,11,18]
 educational_levels = ['lower_educated', 'mid_educated', 'highly_educated']
 df['educational_level'] = pd.cut(df['education'], bins=educational_bins, labels=educational_levels)
+
+# Update dataframe with var name changes
+df.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_v2.csv')
+
+#Selection to work with
 df_pol = df.loc[:, ['age', 'gender', 'education', 'educational_level', 'activity_work', 'voted', 'political_trust']]
 
 # sociodemo descriptivesoo
 df_describe = df_pol.describe()
 
 slice = df_pol.loc[:, ['political_trust', 'educational_level']]
-slice2 = slice.groupby(by = ['educational_level'])
+slice2 = slice.groupby(by = ['educational_level'], observed=False)
+
 desc_slice2 = slice2.describe()
 
-sns.set(style='whitegrid')
-#Exploration plots
-plt.figure(figsize=(10, 6))
 
+
+###############################################
+#Exploration plots
+sns.set(style='whitegrid')
+plt.figure(figsize=(10, 6))
 plot_categoricals = ['educational_level', 'activity_work', 'voted']
 
 for feature in plot_categoricals:
