@@ -3,6 +3,9 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+###UNUSED
+
+
 df = pd.read_csv('/ESS11/data/processed/data_NL_transf.csv', index_col=0)
 #plots
 sns.catplot(df, x='gender', kind='count')

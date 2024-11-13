@@ -2,12 +2,18 @@ import pandas as pd
 import pingouin as pg
 import numpy as np
 from sklearn.impute import KNNImputer
-df = pd.read_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf.csv', index_col=0)
+df = pd.read_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_satis.csv', index_col=0)
 #df.set_index(keys=['respondent'], inplace=True)
 print(df.isna().sum())
+print(df.shape)
+print(df.info())
+
+#How many non-voters?
+print(df.voted.value_counts())
 
 #Replace missings on voted with party closeness choice
-df['voted_party'].fillna(value=99, inplace=True)
+print(df.voted_party.unique())
+df['voted_party'] = df['voted_party'].fillna(value=99)
 df['voted_party'] = df.apply(lambda row: row['which_p_close'] if row['close_party'] == 1 else row['voted_party'], axis=1)
 df['voted_party'] = df.apply(lambda row: np.nan if row['voted_party'] == 99 else row['voted_party'], axis=1)
 
@@ -44,4 +50,4 @@ imputed_df['educational_level'] = df['educational_level']
 #insert pol trust scale
 imputed_df['political_trust'] = factor_2['political_trust']
 imputed_df.rename(columns={'Unnamed: 0': 'respondent'}, inplace=True)
-imputed_df.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbo.csv')
+imputed_df.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv')
