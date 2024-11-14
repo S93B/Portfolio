@@ -5,7 +5,7 @@ from scipy.stats import pearsonr
 
 from ESS11.utilities.functions import calculate_pearson_correlation
 
-df = pd.read_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf.csv', index_col=0)
+df = pd.read_csv(r'/ESS11/archive/data_NL_transf.csv', index_col=0)
 df.dropna(inplace=True)
 df.isna().sum()
 
@@ -30,5 +30,3 @@ pearson_result.sort_values(by='Correlation', ascending=False, inplace=True)
 print(pearson_result.head(10))
 pearsonr(pol_trust['trstprl'], pol_trust['trstplt'])
 pearson_result.to_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\political_trust_correlation_p.csv')
-
-# TODO: check datapath and overal

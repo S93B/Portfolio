@@ -6,9 +6,13 @@ from sklearn.metrics import mean_squared_error, r2_score
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-path = '/ESS11/archive/data_NL_transf_v2.csv'
+path = r'/ESS11/data/processed/data_NL_transf_kneighbor_v2.csv'
 df = pd.read_csv(path, index_col=0)
 
+#TODO model uitwerken in mindmap
+
+
+########################################## niet gebruiken
 stat, p_value=stats.shapiro(df['political_trust'])
 print(p_value)
 print(stat)
@@ -30,6 +34,7 @@ g = sns.jointplot(x="education", y="political_trust", data=df,
                   xlim=(0, 60), ylim=(0, 12),
                   color="m", height=7)
 plt.show()
+
 #MODEL EDU > VERTROUWEN nogo
 y = df[['educational_level']]
 X = df[['political_trust']]
