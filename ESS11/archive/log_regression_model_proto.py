@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 # Load the dataset
-data = pd.read_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv')
+data = pd.read_csv(r'/ESS11/data/processed/data_NL_transf_kneighbor_v2.csv')
 
 # Create feature matrix (X) and target vector (y)
 X = data[['stfdem', 'stfgov', 'stfeco']]  # Replace with your feature names

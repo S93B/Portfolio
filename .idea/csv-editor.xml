@@ -66,6 +66,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Oefeningen\customer_satisfaction\E-commerce_NPA_Dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oefeningen\icecream_summer\chap1-stand_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oefeningen\icecream_summer\chap1-survey_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\functions\data.csv">
           <value>
             <Attribute>

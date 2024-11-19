@@ -1,6 +1,10 @@
 import numpy as np
 import pandas as pd
 from scipy.stats import pearsonr
+from scipy import stats
+import statsmodels.api as sm
+
+
 def check_matching_indices(*dataframes):
     """
     :param dataframes: Variable number of pandas DataFrame objects to be checked.
@@ -51,17 +55,33 @@ def recode_educational_level(df, var, bins, levels):
     df['educational_level'] = pd.cut(df[var], bins=bins, labels=levels)
     return df
 
-## Python
+## Python # TODO check whether works
 def boot_CI_fun(dat_df, metric_fun, B = 20, conf_level = 9/10):
     coeff_boot = []
 # Calculate coeff of interest for each simulation
     for b in range(B):
-    print("beginning iteration number " + str(b) + "\n")
-    boot_df = dat_df.groupby("rep_ID").sample(n=1200, replace=True)
-    coeff = metric_fun(boot_df)
-    coeff_boot.append(coeff)
-    # Extract confidence interval
-    coeff_boot.sort()
-    offset = round(B * (1 - conf_level) / 2)
-    CI = [coeff_boot[offset], coeff_boot[-(offset+1)]]
-    return CI
+        print("beginning iteration number " + str(b) + "\n")
+        boot_df = dat_df.groupby("rep_ID").sample(n=1200, replace=True)
+        coeff = metric_fun(boot_df)
+        coeff_boot.append(coeff)
+        # Extract confidence interval
+        coeff_boot.sort()
+        offset = round(B * (1 - conf_level) / 2)
+        CI = [coeff_boot[offset], coeff_boot[-(offset+1)]]
+        return CI
+
+
+#Using shapiro to determine normality of residuals
+def shapiro_test(data, alpha):
+    """"
+    Input data and alpha value, returns p-value and shapiro statistic.
+    H0 = normally distributed variable
+    """
+    stat, p_value = stats.shapiro(data)
+    print(f"Shapiro-Wilk test p-value for distribution: {p_value}")
+    print(f"Shapiro-Wilk test statistic for distribution: {stat}")
+
+    if p_value > alpha:  # H0 = normally distributed variable
+        print("Distribution look Gaussian (fail to reject H0)")
+    else:
+        print("Distribution do not look Gaussian (reject H0)")

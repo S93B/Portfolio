@@ -1,16 +1,23 @@
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
 import pandas as pd
-from scipy import stats
 import seaborn as sns
+from ESS11.utilities.functions import shapiro_test
 
 path = r'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv'
 df = pd.read_csv(path, index_col=0)
 
+f, ax = plt.subplots(figsize=(20,14))
+corr = df.corr(numeric_only=True, method='pearson')
+hm = sns.heatmap(round(corr,2), annot=True, ax=ax, cmap="coolwarm",fmt='.2f', vmin=-1, vmax=1, yticklabels=corr.columns, xticklabels=corr.columns)
+f.subplots_adjust(top=0.83)
+t= f.suptitle('Correlation Heatmap', fontsize=14)
+plt.savefig(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\correlation_heatmap_all.png')
+
 alpha = 0.05
 
 #Model
-x = df.stfgov
+x = df.stfdem
 y = df.political_trust
 X = sm.add_constant(x)
 
@@ -23,14 +30,7 @@ residuals = res.resid
 y_pred = res.predict(X)
 
 #Using shapiro to determine normality of residuals
-stat, p_value = stats.shapiro(residuals)
-print(f"Shapiro-Wilk test p-value for distribution: {p_value}")
-print(f"Shapiro-Wilk test statistic for distribution: {stat}")
-
-if p_value > alpha:  # H0 = normally distributed variable
-    print("Variable look Gaussian (fail to reject H0)")
-else:
-    print("Variable do not look Gaussian (reject H0)")
+shapiro_test(residuals, alpha)
 
 # Inspect residuals histogram, extra for determining normality
 sns.histplot(residuals, kde=True)
