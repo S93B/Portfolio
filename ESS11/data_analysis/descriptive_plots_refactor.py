@@ -6,6 +6,7 @@ path = 'ESS11/data/processed/data_NL_transf_kneighbor_v2.csv'
 df = pd.read_csv(path, index_col=0)
 
 print(df.columns)
+print(df.info())
 
  #Selection to work with
 df_pol = df.loc[:, ['age', 'gender', 'education', 'educational_level', 'activity_work', 'voted', 'political_trust']]
@@ -16,10 +17,13 @@ df_pol = df.loc[:, ['age', 'gender', 'education', 'educational_level', 'activity
 sns.set_theme(style='whitegrid')
 plt.figure(figsize=(10, 6))
 plot_categoricals = ['educational_level', 'voted']
+print(df.voted.value_counts())
+sns.countplot(df, x=df.activity_work, stat='percent')
+plt.show()
 
 for feature in plot_categoricals:
     sns.countplot(data=df_pol, x=feature,stat='percent')
-    plt.savefig(fr'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\{feature}.png')
+    plt.show()
     plt.close()
 
 #age
@@ -49,26 +53,3 @@ sns.lineplot(data=df_pol, y='political_trust', x='educational_level', hue='gende
 plt.savefig(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\political_trust_line_gender.png')
 plt.close()
 #Divide per voted political party and compare % to latest election
-
-
-
-# #rename pol vars for easy readability
-# df.rename(columns={'trstprl': 't_parlement', 'trstlgl': 't_legalsystem', 'trstplc': 't_police', 'trstplt': 't_politicians', 'trstprt': 't_political_parties', 'trstep': 't_EU_parlement', 'trstun': 't_united_nations'}, inplace=True)
-#
-# #Create dataframe for analysis political trust
-# educational_bins = [-1,5,11,18]
-# educational_levels = ['lower_educated', 'mid_educated', 'highly_educated']
-# df['educational_level'] = pd.cut(df['education'], bins=educational_bins, labels=educational_levels)
-#
-# # Update dataframe with var name changes
-# df.to_csv('C:\Python homedirectory\Portfolio_git\ESS10\data\processed\data_NL_transf_v2.csv')
-
-#
-# # sociodemo descriptivesoo
-# df_describe = df_pol.describe()
-#
-# slice = df_pol.loc[:, ['political_trust', 'educational_level']]
-# slice1 = slice.groupby(by = ['educational_level'], observed=False)
-#
-# desc_slice1 = slice2.describe()
-#

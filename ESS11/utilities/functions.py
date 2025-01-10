@@ -85,3 +85,13 @@ def shapiro_test(data, alpha):
         print("Distribution look Gaussian (fail to reject H0)")
     else:
         print("Distribution do not look Gaussian (reject H0)")
+
+
+# Cronbach's Alpha function
+def cronbach_alpha(data):
+    itemscores = np.array(data, dtype=float)
+    itemvars = itemscores.var(axis=0, ddof=1)
+    tqscore_var = itemscores.sum(axis=1).var(ddof=1)
+    n_items = itemscores.shape[1]
+    alpha = n_items / (n_items - 1) * (1 - itemvars.sum() / tqscore_var)
+    return alpha

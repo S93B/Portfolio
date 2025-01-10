@@ -1,11 +1,15 @@
 import pandas as pd
 from ESS11.utilities.functions import replace_missing_with_sentinels
-
-df = pd.read_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\interim\data_NL_political.csv', index_col=0)
+# TODO REWRITE
+df = pd.read_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\interim\data_NL_master.csv', index_col=0)
 print(df.shape)
 print(df.info())
 
 print(df.duplicated().sum())
+
+for column in df:
+    print(df[column].isna().sum())
+
 desc = df.describe()
 
 # recode the no answers; dont knows et cetera. See codebook
@@ -17,9 +21,12 @@ print(df.value_counts(subset=['which_p_close'])) # 2 refusal;
 print(df.value_counts(subset=['close_party']))
 print(df.value_counts(subset=['voted_party']))
 
+# TODO besluit welkee variabelen je de missings van weghaald.
 var_list_mis_ten = ['activity_work','voted_party', 'placement_l_r', 'trstprl', 'trstlgl', 'trstplc', 'trstplt', 'trstprt', 'trstep', 'trstun']
 var_list_mis_thou = ['age', 'education']
-var_list_mis_single = ['gender', 'educational_level', 'voted']
+var_list_mis_single = ['educational_level', 'voted']
+
+
 
 # Important: first comes question close_party, if 1: which_p_close. if 2: which_p_close == Not applicable, thus != missing
 

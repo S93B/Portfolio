@@ -1,3 +1,5 @@
+from math import atan2
+
 import pandas as pd
 from ESS11.documentation.lists_dic_repository import dic_political_parties, dic_political_parties_closeness
 
@@ -14,6 +16,19 @@ dd = df.loc[df['cntry'] == 'NL']
 socdemo_var = dd[['gndr', 'agea', 'edlvenl', 'mnactic']].copy()
 socdemo_var = socdemo_var.rename(columns = {'gndr': 'gender', 'agea': 'age', 'edlvenl': 'education', 'mnactic': 'activity_work'})
 print(socdemo_var.info())
+
+# var satisfaction society
+satisfaction_society = dd.loc[:, ['stflife', 'stfeco', 'stfgov', 'stfdem', 'stfedu', 'stfhlth']]
+
+# var selection authoritarianism
+author_var = dd[
+    ["euftf", "lrnobed", "loylead", "imsmetn", "imdfetn", "impcntr", "imbgeco", "imueclt", "imwbcnt"]].copy()
+
+#var selection values
+values_var = dd[["ipcrtiva", "impricha", "ipeqopta", "ipshabta", "impsafea", "impdiffa", "ipfrulea", "ipudrsta", "ipmodsta",
+             "ipgdtima", "impfreea", "iphlppla", "ipsucesa", "ipstrgva", "ipadvnta", "ipbhprpa", "iprspota", "iplylfra",
+             "impenva", "imptrada", "impfuna", "atchctr", "atcherp"]].copy()
+
 
 #recode educational level into three categories
 ## 1 - 5 = low.
@@ -42,12 +57,10 @@ pvote_var = pvote_var.rename(columns={'vote': 'voted', 'prtvtinl': 'voted_party'
 print(socdemo_var.index.equals(pvote_var.index))
 
 from ESS11.utilities.functions import check_matching_indices
-if check_matching_indices(socdemo_var, pvote_var, ptrust_var):
-     df = pd.concat([socdemo_var, pvote_var, ptrust_var], axis=1)
+if check_matching_indices(socdemo_var, pvote_var, ptrust_var, satisfaction_society, author_var, values_var):
+     df = pd.concat([socdemo_var, pvote_var, ptrust_var, satisfaction_society, author_var, values_var], axis=1)
 else:
     print("DataFrames do not have matching indices.")
 
-#data_concat_b = pd.concat([socdemo_var, health_var, bmi], axis=1) for later
-
-df.to_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\interim\data_NL_political.csv')
+df.to_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\interim\data_NL_master.csv')
 #print(df.info())

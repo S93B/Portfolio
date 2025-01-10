@@ -39,7 +39,7 @@ print(factor_1.political_trust.mean())
 desc_factor1 = factor_1.describe()
 
 # Slicing for trust variables, cronbach alpha, creating mean scale
-# factor_2 = imputed_df.loc[: , ['trstprl', 'trstplt', 'trstprt', 'trstep']] # FIXME selectie variabel klopt niet
+# factor_2 = imputed_df.loc[: , ['trstprl', 'trstplt', 'trstprt', 'trstep']]
 # print(pg.cronbach_alpha(data=factor_2))  # alfa == 0.9
 # factor_2['political_trust'] = factor_2.mean(axis=1)
 # print(factor_2.political_trust.mean())
@@ -57,4 +57,4 @@ imputed_df.rename(columns={'Unnamed: 0': 'respondent'}, inplace=True)
 imputed_df.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv')
 
 
-# TODO K-NEIGHBORS moet afronden
+# TODO K-NEIGHBORS moet afronden. Zorg ervoor dat je niet alle variabelen meeneemt
