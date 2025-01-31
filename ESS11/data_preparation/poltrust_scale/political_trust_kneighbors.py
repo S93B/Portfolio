@@ -58,3 +58,4 @@ imputed_df.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\da
 
 
 # TODO K-NEIGHBORS moet afronden. Zorg ervoor dat je niet alle variabelen meeneemt
+# FIXME ZIE BOVENSTAANDE
