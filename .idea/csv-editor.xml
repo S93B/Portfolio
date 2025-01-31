@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="C:\Users\Svenb\Desktop\Prestatielogboek amd\Hardware.20241125-163055.CSV">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\ESS11\archive\data_NL_political_soctrust.csv">
           <value>
             <Attribute>
@@ -17,7 +24,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\ESS11\archive\data_NL_transf_kneighbor.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ESS11\archive\data_NL_transf_v2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\ESS11\archive\data_selected_NL.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ESS11\data\interim\data_NL_master.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -60,6 +88,27 @@
           </value>
         </entry>
         <entry key="\ESS11\data\processed\political_trust_correlation_p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oefeningen\customer_satisfaction\E-commerce_NPA_Dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oefeningen\icecream_summer\chap1-stand_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oefeningen\icecream_summer\chap1-survey_data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

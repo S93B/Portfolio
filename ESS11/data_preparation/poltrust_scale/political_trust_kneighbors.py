@@ -26,21 +26,25 @@ imputer = KNNImputer(n_neighbors=5, weights='uniform')
 imputed_df = pd.DataFrame(imputer.fit_transform(df_encoded), columns=df_encoded.columns)
 imputed_df.index = original_index
 
-
+# Round k-neighbor imputed values
+columns_to_round =['trstprl', 'trstlgl', 'trstplc', 'trstplt', 'trstprt', 'trstep', 'trstun', 'stfeco', 'stfdem', 'stfgov', 'stfhlth', 'stfedu']
+imputed_df[columns_to_round] = imputed_df[columns_to_round].apply(np.round, decimals=0)
 # Slicing for trust variables, cronbach alpha, creating mean scale
-factor_1 = df.loc[: , ['trstprl', 'trstplt', 'trstprt', 'trstep']]
+
+factor_1 = imputed_df.loc[: , ['trstprl', 'trstplt', 'trstprt', 'trstep']]
+#factor_1 = factor_1.loc[: , ['trstprl','trstplt', 'trstprt', 'trstep']].apply(np.round, decimals=1)
 print(pg.cronbach_alpha(data=factor_1))  # alfa == 0.9
 factor_1['political_trust'] = factor_1.mean(axis=1)
 print(factor_1.political_trust.mean())
 desc_factor1 = factor_1.describe()
 
 # Slicing for trust variables, cronbach alpha, creating mean scale
-factor_2 = imputed_df.loc[: , ['trstprl', 'trstplt', 'trstprt', 'trstep']]
-print(pg.cronbach_alpha(data=factor_2))  # alfa == 0.9
-factor_2['political_trust'] = factor_2.mean(axis=1)
-print(factor_2.political_trust.mean())
-desc_factor2 = factor_2.describe()
-desc_combined = pd.concat([desc_factor1, desc_factor2], axis=1) # compare
+# factor_2 = imputed_df.loc[: , ['trstprl', 'trstplt', 'trstprt', 'trstep']]
+# print(pg.cronbach_alpha(data=factor_2))  # alfa == 0.9
+# factor_2['political_trust'] = factor_2.mean(axis=1)
+# print(factor_2.political_trust.mean())
+# desc_factor2 = factor_2.describe()
+# desc_combined = pd.concat([desc_factor1, desc_factor2], axis=1) # compare
 
 #dropping dummys
 imputed_df.drop(columns=['gender_nan', 'gender_Male', 'gender_Female'], inplace=True)
@@ -48,6 +52,10 @@ imputed_df.drop(columns=['gender_nan', 'gender_Male', 'gender_Female'], inplace=
 imputed_df['gender'] = df['gender']
 imputed_df['educational_level'] = df['educational_level']
 #insert pol trust scale
-imputed_df['political_trust'] = factor_2['political_trust']
+imputed_df['political_trust'] = factor_1['political_trust']
 imputed_df.rename(columns={'Unnamed: 0': 'respondent'}, inplace=True)
 imputed_df.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv')
+
+
+# TODO K-NEIGHBORS moet afronden. Zorg ervoor dat je niet alle variabelen meeneemt
+# FIXME ZIE BOVENSTAANDE

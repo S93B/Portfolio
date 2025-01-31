@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy.stats import pearsonr
 
-df = pd.read_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\raw\ESS11.csv')
+df = pd.read_csv(r'/ESS11/data/raw/ESS11.csv')
 
 dd = df.loc[df['cntry'] == 'NL']
 
@@ -22,14 +22,14 @@ print(satisfaction_society.stfeco.value_counts())
 
 
 #Import transf dataset and merge satisfaction variables
-de = pd.read_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf.csv', index_col=0)
+de = pd.read_csv('/ESS11/data/interim/data_NL_transf.csv', index_col=0)
 
 from ESS11.utilities.functions import check_matching_indices, replace_missing_with_sentinels
 
 check_matching_indices(de, satisfaction_society)
 de = pd.concat([de, satisfaction_society], axis=1)
 
-#cleaning quick
+#cleaning_selection quick
 from ESS11.documentation.lists_dic_repository import list_sentinel_thou, list_sentinel_ten, list_sentinel_single
 from ESS11.utilities.functions import replace_missing_with_sentinels
 
@@ -42,7 +42,7 @@ for column in _columns:
 
 columns_fill_list = ['stflife', 'stfeco', 'stfgov', 'stfdem', 'stfedu', 'stfhlth']
 de = replace_missing_with_sentinels(de, list_sentinel_ten, columns_fill_list)
-de.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_satis.csv')
+de.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\interim\data_NL_transf_satis.csv')
 
 
 
