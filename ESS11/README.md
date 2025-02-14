@@ -29,6 +29,6 @@ I will start with answering the following research question:
   <img src="reports\figures\gender.png?raw=True" alt="Gender" />
    <img src="reports\figures\political_trust.png?raw=True" alt="Political Trust" />
    <img src="reports\figures\education_political_trust.png?raw=True" alt="Political Trust Education" />
-  <img src="reports\figures\education_level.png?raw=True" alt="Education" />
+  <img src="reports\figures\educational_level.png?raw=True" alt="Education" />
   <img src="reports\figures\political_trust_line.png?raw=True" alt="Political Trust Line" />
 </p>
