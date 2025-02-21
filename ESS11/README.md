@@ -25,7 +25,7 @@ I will start with answering the following research question:
 </p>
 
 <p align="center">
-  <img src="reports\figures\age.png?raw=True" alt="Age" />
+  <img src="reports\figures\age_pyramid_grouped.png?raw=True" alt="Age" />
   <img src="reports\figures\gender.png?raw=True" alt="Gender" />
    <img src="reports\figures\political_trust.png?raw=True" alt="Political Trust" />
    <img src="reports\figures\education_political_trust.png?raw=True" alt="Political Trust Education" />
