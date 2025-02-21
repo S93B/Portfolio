@@ -25,7 +25,7 @@ I will start with answering the following research question:
 </p>
 
 <p align="center">
-  <img src="C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\age.png" alt="Age" />
+  <img src="C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\age.png?raw=True" alt="Age" />
   <img src="C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\gender.png" alt="Gender" />
    <img src="C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\political_trust.png" alt="Political Trust" />
      <img src="archive/education_political_trust.png?raw=True" alt="Political Trust Education" />

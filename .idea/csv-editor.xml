@@ -66,13 +66,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\ESS11\data\processed\data_NL_transf_satis.csv">
           <value>
             <Attribute>

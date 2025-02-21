@@ -4,7 +4,7 @@ import pandas as pd
 import seaborn as sns
 from ESS11.utilities.functions import shapiro_test
 
-path = r'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv'
+path = 'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor.csv'
 df = pd.read_csv(path, index_col=0)
 
 f, ax = plt.subplots(figsize=(20,14))
@@ -16,6 +16,7 @@ plt.savefig(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\correl
 
 alpha = 0.05
 
+#FIXME model is no bueno
 #Model
 x = df.stfdem
 y = df.political_trust

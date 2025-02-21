@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from factor_analyzer import FactorAnalyzer, calculate_kmo, calculate_bartlett_sphericity
 
-df = pd.read_csv(r'C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv', index_col=0)
+df = pd.read_csv(r'/ESS11/archive/data_NL_transf_kneighbor_v2.csv', index_col=0)
 
 #trust variables
 #satisfaction = df.loc[:, ['stflife', 'stfeco', 'stfgov', 'stfdem', 'stfedu', 'stfhlth', ]].dropna()

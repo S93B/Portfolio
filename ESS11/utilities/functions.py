@@ -3,6 +3,8 @@ import pandas as pd
 from scipy.stats import pearsonr
 from scipy import stats
 import statsmodels.api as sm
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 def check_matching_indices(*dataframes):
@@ -95,3 +97,8 @@ def cronbach_alpha(data):
     n_items = itemscores.shape[1]
     alpha = n_items / (n_items - 1) * (1 - itemvars.sum() / tqscore_var)
     return alpha
+
+def save_plot(filepath):
+    plt.savefig(filepath)
+    plt.show()
+    plt.close()
