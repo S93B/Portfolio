@@ -16,7 +16,6 @@ plt.savefig(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\correl
 
 alpha = 0.05
 
-#FIXME model is no bueno
 #Model
 x = df.stfdem
 y = df.political_trust
