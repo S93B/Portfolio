@@ -1,8 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from ESS11.utilities.functions import save_plot
 
-path = "C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv"
+path = "/ESS11/archive/data_NL_transf_kneighbor_v3.csv"
 df = pd.read_csv(path, index_col=0)
 
 print(df.columns)
@@ -26,32 +27,37 @@ plt.pie(
 )
 
 plt.title('Gender Distribution', fontsize=14)
-plt.savefig(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\gender.png')
+save_plot(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\gender.png')
 
 #Exploration plots
-sns.set_theme(style='whitegrid')
-plt.figure(figsize=(10, 6))
-plot_categoricals = ['educational_level', 'voted']
-print(df.voted.value_counts())
-plt.show()
+# sns.set_theme(style='whitegrid')
+# plt.figure(figsize=(10, 6))
+# plot_categoricals = ['educational_level', 'voted']
+# print(df.voted.value_counts())
+#
+# for feature in plot_categoricals:
+#     sns.countplot(data=df_pol, x=feature,stat='percent')
+#     plt.show()
+#     plt.close()
 
-for feature in plot_categoricals:
-    sns.countplot(data=df_pol, x=feature,stat='percent')
-    plt.show()
-    plt.close()
 
-sns.displot(data=df_pol, x='political_trust', kind='hist', stat='percent')
-plt.savefig(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\political_trust.png')
-plt.close()
+plt.figure(figsize=(12, 8))
+sns.histplot(data=df_pol, x='political_trust', stat='percent', kde=False, bins=10)
+plt.title('Distribution of Political Trust', fontsize=14)
+plt.xlabel('Political Trust', fontsize=12)
+plt.ylabel('Percentage', fontsize=12)
+plt.tight_layout()
+save_plot(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\political_trust.png')
+
 #edu trust boxplot
-sns.catplot(data=df_pol, x='educational_level', y='political_trust', kind='box')
-plt.savefig(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\education_political_trust.png')
-plt.close()
+order_eduplot = ['lower_educated', 'mid_educated', 'highly_educated']
+sns.catplot(data=df_pol, x='educational_level', y='political_trust', kind='box', order=order_eduplot,)
+save_plot(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\education_political_trust.png')
+
 #Lineplot relation education and trust
 sns.lineplot(data=df_pol, x='educational_level', y='political_trust')
-plt.savefig(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\political_trust_line.png')
-plt.close()
+save_plot(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\political_trust_line.png')
+
 #trust edu for gender
 sns.lineplot(data=df_pol, y='political_trust', x='educational_level', hue='gender')
-plt.savefig(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\political_trust_line_gender.png')
-plt.close()
+save_plot(r'C:\Python homedirectory\Portfolio_git\ESS11\reports\figures\political_trust_line_gender.png')

@@ -2,10 +2,12 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-path = "C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv"
+path = "/ESS11/archive/data_NL_transf_kneighbor_v3.csv"
 df = pd.read_csv(path, index_col=0)
 
 df_pol = df.loc[:, ['age', 'gender', 'education', 'educational_level', 'activity_work', 'voted', 'political_trust']]
+
+#todo Group age in categories for plot
 
 # Group the data by age and gender, calculate percentages
 age_gender = (

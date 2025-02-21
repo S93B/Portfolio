@@ -27,7 +27,7 @@ imputed_df = pd.DataFrame(imputer.fit_transform(df_encoded), columns=df_encoded.
 imputed_df.index = original_index
 
 # Round k-neighbor imputed values
-columns_to_round =['trstprl', 'trstlgl', 'trstplc', 'trstplt', 'trstprt', 'trstep', 'trstun', 'stfeco', 'stfdem', 'stfgov', 'stfhlth', 'stfedu']
+columns_to_round =['age', 'trstprl', 'trstlgl', 'trstplc', 'trstplt', 'trstprt', 'trstep', 'trstun', 'stfeco', 'stfdem', 'stfgov', 'stfhlth', 'stfedu']
 imputed_df[columns_to_round] = imputed_df[columns_to_round].apply(np.round, decimals=0)
 # Slicing for trust variables, cronbach alpha, creating mean scale
 
@@ -52,9 +52,9 @@ imputed_df.drop(columns=['gender_nan', 'gender_Male', 'gender_Female'], inplace=
 imputed_df['gender'] = df['gender']
 imputed_df['educational_level'] = df['educational_level']
 #insert pol trust scale
-imputed_df['political_trust'] = factor_1['political_trust']
+imputed_df['political_trust'] = factor_1['political_trust'].round(decimals=0)
 imputed_df.rename(columns={'Unnamed: 0': 'respondent'}, inplace=True)
-imputed_df.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor_v2.csv')
+imputed_df.to_csv('C:\Python homedirectory\Portfolio_git\ESS11\data\processed\data_NL_transf_kneighbor.csv')
 
 
 # TODO K-NEIGHBORS moet afronden. Zorg ervoor dat je niet alle variabelen meeneemt
