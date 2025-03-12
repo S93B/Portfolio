@@ -1,1 +1,0 @@
-This is an explantatory data challenge I have been working on as part of my Pandas Course.
