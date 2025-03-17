@@ -11,4 +11,5 @@ The data that I will be using is from the European Social Survey round 11 - 2023
 
 My goal with this project is to replicate statistical methods and techniques I learned during my studies, with Python instead of SPSS. 
 
-At the time of writing (14-3-2025) my ESS11 project is unfinished. However, after finishing my end-to-end weather project I plan to implement the same workflow on the ESS11.
+**Read important note**
+At the time of writing (14-3-2025) my ESS11 project is a bit chaotic. Although the goal was to practice, I did envision an end to it. After finishing my new weather project, I will implement the same workflow on the ESS11 and write it from scratch. 
